@@ -1,0 +1,106 @@
+import type { SectionStatus } from '../../domain/section-state.js';
+import type { SectionRepository, UserSessionRepository } from '../../db/index.js';
+import type { MonitoredSection, SectionSnapshot } from '../../db/schema.js';
+import type { PeopleSoftAvailabilityClient } from './availability-client.js';
+import { PeopleSoftSessionExpiredError } from './peoplesoft-client.js';
+
+export class SectionStatusError extends Error {
+  public constructor(
+    public readonly code: 'NOT_FOUND' | 'NO_SESSION' | 'MISSING_MAPPING' | 'SESSION_EXPIRED',
+    message: string,
+  ) {
+    super(message);
+    this.name = 'SectionStatusError';
+  }
+}
+
+function normalizeStatus(status: string): SectionStatus {
+  const normalized = status.trim().toUpperCase();
+  if (normalized.includes('OPEN')) return 'OPEN';
+  if (normalized.includes('CLOSED')) return 'CLOSED';
+  if (normalized.includes('WAIT')) return 'WAITLIST';
+  return 'UNKNOWN';
+}
+
+export interface SectionStatusServiceOptions {
+  sectionRepository: SectionRepository;
+  userSessionRepository: UserSessionRepository;
+  availabilityClient: PeopleSoftAvailabilityClient;
+  encryptionKey: string;
+}
+
+export class SectionStatusService {
+  public constructor(private readonly options: SectionStatusServiceOptions) {}
+
+  public async refreshByClassNumber(
+    userId: string,
+    term: string,
+    classNumber: string,
+  ): Promise<{ section: MonitoredSection; snapshot: SectionSnapshot }> {
+    const existing = await this.options.sectionRepository.findByClassNumber(term, classNumber);
+    if (existing === null) {
+      throw new SectionStatusError('NOT_FOUND', `Class ${classNumber} is not in the catalog`);
+    }
+    if (existing.crseId === null || existing.crseOfferNbr === null) {
+      throw new SectionStatusError('MISSING_MAPPING', `Class ${classNumber} has no course mapping`);
+    }
+    const previousSnapshot = await this.options.sectionRepository.getLatestSnapshot(existing.id);
+
+    const session = await this.options.userSessionRepository.getActiveUserSession(
+      userId,
+      this.options.encryptionKey,
+    );
+    if (session === null) {
+      throw new SectionStatusError('NO_SESSION', 'Log in before requesting live SIS status');
+    }
+
+    try {
+      const result = await this.options.availabilityClient.checkSection({
+        cookiesPayload: session.sessionData,
+        crseId: existing.crseId,
+        crseOfferNbr: existing.crseOfferNbr,
+        term,
+        classNumber,
+        acadCareer: existing.acadCareer ?? 'UGRD',
+        institution: existing.institution ?? 'AUIB',
+      });
+      const checkedAt = new Date();
+      const courseTitle = result.description || existing.courseTitle;
+      const component = result.component || existing.component;
+      const state = {
+        term: existing.term,
+        ...(existing.termLabel !== null ? { termLabel: existing.termLabel } : {}),
+        courseCode: result.courseCode || existing.courseCode,
+        ...(courseTitle !== null && courseTitle !== '' ? { courseTitle } : {}),
+        crseId: existing.crseId,
+        crseOfferNbr: existing.crseOfferNbr,
+        acadCareer: existing.acadCareer ?? 'UGRD',
+        institution: existing.institution ?? 'AUIB',
+        classNumber: result.classNumber || existing.classNumber,
+        ...(component !== null && component !== '' ? { component } : {}),
+        status: normalizeStatus(result.status),
+        availableSeats: result.availableSeats,
+        ...(previousSnapshot?.schedule !== null && previousSnapshot?.schedule !== undefined
+          ? { schedule: previousSnapshot.schedule }
+          : {}),
+        ...(previousSnapshot?.meetingDates !== null && previousSnapshot?.meetingDates !== undefined
+          ? { meetingDates: previousSnapshot.meetingDates }
+          : {}),
+        ...(previousSnapshot?.sessionName !== null && previousSnapshot?.sessionName !== undefined
+          ? { sessionName: previousSnapshot.sessionName }
+          : {}),
+        checkedAt,
+      };
+      const section = await this.options.sectionRepository.upsertSection(state);
+      const snapshot = await this.options.sectionRepository.recordSnapshot(section.id, state);
+      await this.options.userSessionRepository.updateLastUsed(session.id);
+      return { section, snapshot };
+    } catch (error) {
+      if (error instanceof PeopleSoftSessionExpiredError) {
+        await this.options.userSessionRepository.markExpired(session.id);
+        throw new SectionStatusError('SESSION_EXPIRED', 'Your SIS session expired; use /login');
+      }
+      throw error;
+    }
+  }
+}

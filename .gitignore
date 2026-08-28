@@ -1,0 +1,31 @@
+# Dependencies and build output
+node_modules/
+.pnpm-store/
+dist/
+coverage/
+*.tsbuildinfo
+
+# Local environment files (the documented template is safe)
+.env
+.env.*
+!.env.example
+
+# Logs and process artifacts
+*.log
+*.pid
+
+# Sensitive browser/session captures
+*.har
+*.png
+scripts/
+research/private/
+storage/sessions/
+playwright/.auth/
+*.storage-state.json
+*cookie-jar*.json
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

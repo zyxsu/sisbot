@@ -1,0 +1,2000 @@
+=================================================================
+   AMERICAN UNIVERSITY OF IRAQ - BAGHDAD (AUIB) COURSE CATALOG   
+   COMPLETE DIRECTORY: RANGE 000001 TO 001105                    
+   TERM: 2701 (2026/2027 Fall)                                    
+   Generated: 2026-08-28 01:21:12 UTC                                   
+   Total Active Catalog Courses: 994                
+=================================================================
+
+-----------------------------------------------------------------
+ SECTION 1: OFFERED & SCHEDULED COURSES IN FALL 2026 (369 COURSES)
+-----------------------------------------------------------------
+
+[ACC 201] Introduction to Financial Accounting (CRSE_ID: 000157, Units: 3.00)
+  • Lecture - 1043 | Status: OPEN (2/35 seats) | Schedule: Monday Wednesday 8:00AM to 9:15AM | Room: Lecture Hall 1-F | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1044 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 9:30AM to 10:45AM | Room: Lecture Hall 1-F | Dates: 23/08/2026 - 15/12/2026
+
+[ACC 202] Managerial Accounting (CRSE_ID: 000158, Units: 3.00)
+  • Lecture - 1045 | Status: OPEN (11/35 seats) | Schedule: Monday Wednesday 9:30AM to 10:45AM | Room: Lecture Hall_3 | Dates: 23/08/2026 - 15/12/2026
+
+[ACC 440] Cost Accounting (CRSE_ID: 000006, Units: 3.00)
+  • Lecture - 1047 | Status: OPEN (18/35 seats) | Schedule: Tuesday Sunday 11:00AM to 12:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[ANT 101] Introduction to Anesthesia (CRSE_ID: 000544, Units: 3.00)
+  • Lecture - 1440 | Status: OPEN (20/30 seats) | Schedule: Tuesday Sunday 11:00AM to 12:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[ANT 210L] Airway Care and CPR Laboratory (CRSE_ID: 000993, Units: 1.00)
+  • Laboratory - 1454 | Status: OPEN (1/30 seats) | Schedule: TBA | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[ANT 240] Anesthesia Technology Instrumentation (CRSE_ID: 000596, Units: 3.00)
+  • Lecture - 1441 | Status: OPEN (25/30 seats) | Schedule: Tuesday Sunday 8:00AM to 9:15AM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+
+[ANT 240L] Anesthesia Technology Instrumentation lab (CRSE_ID: 000631, Units: 1.00)
+  • Laboratory - 1455 | Status: OPEN (13/20 seats) | Schedule: TBA | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[ANT 245] Pharmacology of Anesthesia Practice (CRSE_ID: 000632, Units: 3.00)
+  • Lecture - 1442 | Status: OPEN (24/30 seats) | Schedule: Monday Wednesday 11:00AM to 12:15PM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+
+[ANT 320] Anesthesia Clinical Applications I (CRSE_ID: 000759, Units: 3.00)
+  • Lecture - 1443 | Status: OPEN (16/30 seats) | Schedule: Monday Wednesday 12:30PM to 1:45PM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+
+[ANT 320L] Anesthesia Clinical Applications I Lab (CRSE_ID: 000760, Units: 1.00)
+  • Laboratory - 1456 | Status: OPEN (5/20 seats) | Schedule: Wednesday Thursday 2:30PM to 5:00PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[ANT 330] Patient Monitoring Technology (CRSE_ID: 000764, Units: 3.00)
+  • Lecture - 1444 | Status: OPEN (21/30 seats) | Schedule: Tuesday Sunday 9:30AM to 10:45AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[ANT 340] Anesthesia Agents and Methods (CRSE_ID: 000761, Units: 3.00)
+  • Lecture - 1445 | Status: OPEN (20/30 seats) | Schedule: Tuesday Sunday 11:00AM to 12:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[ANT 350] Anesthesia Clinical Applications II (CRSE_ID: 000765, Units: 3.00)
+  • Lecture - 1447 | Status: OPEN (11/30 seats) | Schedule: Tuesday Sunday 9:30AM to 10:45AM | Room: Lecture Hall_3 | Dates: 23/08/2026 - 15/12/2026
+
+[ANT 350L] Anesthesia Clinical Applications II Lab (CRSE_ID: 000766, Units: 1.00)
+  • Laboratory - 1458 | Status: OPEN (14/20 seats) | Schedule: Monday Tuesday Wednesday Saturday Sunday 12:30PM to 3:00PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[ANT 360] Perioperative Patient Care (CRSE_ID: 000767, Units: 3.00)
+  • Lecture - 1449 | Status: OPEN (3/30 seats) | Schedule: Tuesday Sunday 12:30PM to 1:45PM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+
+[ANT 370L] Workroom Management (CRSE_ID: 000768, Units: 1.00)
+  • Laboratory - 1452 | Status: OPEN (3/20 seats) | Schedule: TBA | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[ANT 410] Special Topics in Anesthesia Technology (CRSE_ID: 000774, Units: 1.00)
+  • Lecture - 1446 | Status: CLOSED (0 seats) | Schedule: Monday Tuesday Wednesday Sunday 3:30PM to 5:00PM | Room: Lecture Hall 1-G | Dates: 23/08/2026 - 15/12/2026
+
+[ANT 420] Anesthesia Clinical Applications III (CRSE_ID: 000771, Units: 3.00)
+  • Lecture - 1451 | Status: OPEN (23/30 seats) | Schedule: Monday Wednesday 8:00AM to 9:15AM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+
+[ANT 420L] Anesthesia Clinical Applications III Lab (CRSE_ID: 001074, Units: 1.00)
+  • Laboratory - 1459 | Status: OPEN (5/15 seats) | Schedule: Monday Tuesday Wednesday Saturday Sunday 3:15PM to 5:45PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[ANT 430L] Anesthesia Quality Assurance Lab (CRSE_ID: 000775, Units: 1.00)
+  • Laboratory - 1460 | Status: OPEN (18/30 seats) | Schedule: Monday Tuesday Wednesday Sunday 12:30PM to 3:00PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[ANT 455] Anesthetic Procedural Blocks (CRSE_ID: 000777, Units: 3.00)
+  • Lecture - 1448 | Status: OPEN (9/30 seats) | Schedule: Monday Tuesday Wednesday Sunday 8:00AM to 10:30AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[ANT 460] Anesthetic Emergencies (CRSE_ID: 000772, Units: 3.00)
+  • Lecture - 1453 | Status: OPEN (13/30 seats) | Schedule: Tuesday Sunday 8:00AM to 9:15AM | Room: Lecture Hall 1-M | Dates: 23/08/2026 - 15/12/2026
+
+[ANT 460L] Anesthetic Emergencies Lab (CRSE_ID: 000773, Units: 1.00)
+  • Laboratory - 1461 | Status: OPEN (14/20 seats) | Schedule: Monday Wednesday 12:30PM to 3:00PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[ANT 465L] Unknown Title (CRSE_ID: 001073, Units: 1.00)
+  • Laboratory - 1462 | Status: CLOSED (0 seats) | Schedule: Monday Tuesday Wednesday Saturday Sunday 3:15PM to 5:45PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[ARC 100] Introduction to Ancient Near Eastern Archaeology (CRSE_ID: 000997, Units: 3.00)
+  • Lecture - 1321 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 11:00AM to 12:15PM | Room: Lecture Hall_2B | Dates: 23/08/2026 - 15/12/2026
+
+[ARC 101] Introduction to Heritage Studies (CRSE_ID: 000998, Units: 3.00)
+  • Lecture - 1295 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 11:00AM to 12:15PM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+
+[ARC 102] Introduction to Cultural Anthropology (CRSE_ID: 000999, Units: 3.00)
+  • Lecture - 1334 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 11:00AM to 12:15PM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+
+[ASP 401] Unknown Title (CRSE_ID: 000386, Units: 0.00)
+  • Lecture - 1624 | Status: OPEN (5/25 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 10:00AM to 12:00PM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+  • Lecture - 1625 | Status: OPEN (5/25 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 8:00AM to 10:00AM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+  • Lecture - 1626 | Status: OPEN (9/25 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 10:00AM to 12:00PM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+  • Lecture - 1627 | Status: OPEN (8/25 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 8:00AM to 10:00AM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+
+[BDS 200] Unknown Title (CRSE_ID: 000427, Units: 3.00)
+  • Lecture - 1124 | Status: OPEN (5/50 seats) | Schedule: Monday Wednesday 9:30AM to 10:45AM | Room: Lecture Hall 1-O | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 200L] Dental Anatomy and Occlusion laboratory (CRSE_ID: 000475, Units: 1.00)
+  • Laboratory - 1213 | Status: OPEN (8/34 seats) | Schedule: Monday 2:00PM to 4:30PM | Room: PHA_2 | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1215 | Status: OPEN (9/34 seats) | Schedule: Wednesday 2:00PM to 4:30PM | Room: PHA_2 | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 217] Head and Neck Anatomy (CRSE_ID: 000477, Units: 3.00)
+  • Lecture - 1126 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 9:30AM to 10:45AM | Room: Lecture Hall 1-C | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 217L] Head and Neck Anatomy Lab (CRSE_ID: 000506, Units: 1.00)
+  • Laboratory - 1220 | Status: OPEN (9/30 seats) | Schedule: Sunday 2:00PM to 4:00PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1219 | Status: CLOSED (0 seats) | Schedule: Tuesday 2:00PM to 4:00PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 220] Dental material (CRSE_ID: 000476, Units: 2.00)
+  • Lecture - 1128 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 11:00AM to 12:15PM | Room: Lecture Hall 1-O | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 230] Oral Histology (CRSE_ID: 000428, Units: 2.00)
+  • Lecture - 1130 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 12:30PM to 1:45PM | Room: Lecture Hall 1-G | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 230L] Oral Histology Laboratory (CRSE_ID: 000505, Units: 1.00)
+  • Laboratory - 1225 | Status: OPEN (1/30 seats) | Schedule: Sunday 2:00PM to 4:00PM | Room: PHA_2 | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1226 | Status: CLOSED (0 seats) | Schedule: Monday 2:00PM to 4:00PM | Room: PHA_2 | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 240] Introduction to Dentistry and Scientific Evidence (CRSE_ID: 000478, Units: 2.00)
+  • Lecture - 1131 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 12:30PM to 1:45PM | Room: Lecture Hall 1-K | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 260] Cariology (CRSE_ID: 000479, Units: 1.00)
+  • Lecture - 1134 | Status: OPEN (2/62 seats) | Schedule: Sunday 9:30AM to 10:45AM | Room: Lecture Hall 1-K | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 270] Biochemistry for Dentistry (CRSE_ID: 000480, Units: 1.00)
+  • Lecture - 1135 | Status: CLOSED (0 seats) | Schedule: Tuesday 9:30AM to 10:45AM | Room: Lecture Hall 1-K | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 302] Dental Anesthesiology (CRSE_ID: 000548, Units: 1.00)
+  • Lecture - 1137 | Status: OPEN (12/45 seats) | Schedule: Sunday 2:00PM to 3:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 304] Pharmacotherapeutics (CRSE_ID: 000556, Units: 2.00)
+  • Lecture - 1140 | Status: OPEN (5/50 seats) | Schedule: Tuesday Sunday 12:30PM to 1:45PM | Room: Lecture Hall 1-O | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 306] General Medicine and Dentistry (CRSE_ID: 000660, Units: 2.00)
+  • Lecture - 1142 | Status: OPEN (5/45 seats) | Schedule: Tuesday 11:00AM to 12:15PM | Room: Lecture Hall_2B | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1145 | Status: OPEN (8/45 seats) | Schedule: Thursday 9:30AM to 10:45AM | Room: Lecture Hall 1-B | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 307] Sterilization and Infection Control (CRSE_ID: 000657, Units: 1.00)
+  • Lecture - 1146 | Status: CLOSED (0 seats) | Schedule: Wednesday 8:00AM to 9:15AM | Room: Lecture Hall 1-C | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 310] Fixed Prosthodontics I (CRSE_ID: 000550, Units: 2.00)
+  • Lecture - 1147 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 9:30AM to 10:45AM | Room: Lecture Hall_3 | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 310L] Preclinical Fixed Prosthodontics I (CRSE_ID: 000551, Units: 1.00)
+  • Laboratory - 1232 | Status: CLOSED (0 seats) | Schedule: Thursday 2:00PM to 4:00PM | Room: PHA_2 | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 311] Fixed Prosthodontics and Occlusion II (CRSE_ID: 000653, Units: 1.00)
+  • Lecture - 1148 | Status: CLOSED (0 seats) | Schedule: Sunday 9:30AM to 10:45AM | Room: Lecture Hall 1-D | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 311L] Preclinical Fixed Prosthodontics II (CRSE_ID: 000654, Units: 1.00)
+  • Laboratory - 1739 | Status: OPEN (4/24 seats) | Schedule: Wednesday 11:00AM to 1:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1233 | Status: CLOSED (0 seats) | Schedule: Thursday 2:00PM to 4:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 320] Oral Surgery I (CRSE_ID: 000549, Units: 2.00)
+  • Lecture - 1150 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 3:30PM to 4:45PM | Room: Lecture Hall 1-B | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 330] Removable Prosthodontics I (CRSE_ID: 000554, Units: 1.00)
+  • Lecture - 1151 | Status: CLOSED (0 seats) | Schedule: Thursday 8:00AM to 9:15AM | Room: Lecture Hall 1-A | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 330L] Preclinical Removable Prosthodontics (CRSE_ID: 000555, Units: 1.00)
+  • Laboratory - 1235 | Status: CLOSED (0 seats) | Schedule: Thursday 11:00AM to 1:30PM | Room: PHA_2 | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 340] Endodontics I (CRSE_ID: 000658, Units: 1.00)
+  • Lecture - 1152 | Status: CLOSED (0 seats) | Schedule: Monday 8:00AM to 9:15AM | Room: Lecture Hall 1-O | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 340L] Preclinical Endodontics I (CRSE_ID: 000659, Units: 1.00)
+  • Laboratory - 1237 | Status: CLOSED (0 seats) | Schedule: Thursday 11:00AM to 1:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 341] Endodontics II (CRSE_ID: 000779, Units: 1.00)
+  • Lecture - 1153 | Status: OPEN (14/30 seats) | Schedule: Monday 9:30AM to 10:45AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 341L] Preclinical Endodontics II (CRSE_ID: 000781, Units: 1.00)
+  • Laboratory - 1248 | Status: OPEN (19/30 seats) | Schedule: Monday 11:00AM to 1:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 360] Operative Dentistry I (CRSE_ID: 000546, Units: 1.00)
+  • Lecture - 1154 | Status: OPEN (4/50 seats) | Schedule: Tuesday 8:00AM to 9:15AM | Room: Lecture Hall_3 | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 360L] Preclinical Operative Dentistry I (CRSE_ID: 000547, Units: 1.00)
+  • Laboratory - 1252 | Status: OPEN (11/30 seats) | Schedule: Sunday 8:00AM to 10:30AM | Room: PHA_2 | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1253 | Status: OPEN (3/30 seats) | Schedule: Sunday 2:00PM to 4:30PM | Room: PHA_2 | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 361] Operative Dentistry II (CRSE_ID: 000655, Units: 1.00)
+  • Lecture - 1155 | Status: OPEN (7/50 seats) | Schedule: Sunday 11:00AM to 12:15PM | Room: Lecture Hall_2B | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1708 | Status: CLOSED (0 seats) | Schedule: Tuesday 2:00PM to 3:15PM | Room: Lecture Hall 1-C | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 361L] Preclinical Operative Dentistry II (CRSE_ID: 000656, Units: 1.00)
+  • Laboratory - 1541 | Status: CLOSED (0 seats) | Schedule: Monday 2:00PM to 4:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1542 | Status: CLOSED (0 seats) | Schedule: Thursday 8:00AM to 10:30AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1709 | Status: CLOSED (0 seats) | Schedule: Tuesday 11:00AM to 1:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 370] Oral Medicine I (CRSE_ID: 000552, Units: 2.00)
+  • Lecture - 1156 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 12:30PM to 1:45PM | Room: Lecture Hall 1-J | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 372] Radiology and Radioprotection (CRSE_ID: 000553, Units: 2.00)
+  • Lecture - 1158 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 11:00AM to 12:15PM | Room: Lecture Hall 1-G | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 380] Periodontology I (CRSE_ID: 000661, Units: 1.00)
+  • Lecture - 1160 | Status: OPEN (3/60 seats) | Schedule: Sunday 11:00AM to 12:15PM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 380L] Unknown Title (CRSE_ID: 000662, Units: 1.00)
+  • Laboratory - 1258 | Status: OPEN (5/30 seats) | Schedule: Sunday 8:15AM to 10:30AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1260 | Status: OPEN (1/30 seats) | Schedule: Tuesday 8:15AM to 10:30AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 402] Evidence-Based Dentistry (CRSE_ID: 000835, Units: 1.00)
+  • Lecture - 1161 | Status: OPEN (1/45 seats) | Schedule: Sunday 2:00PM to 3:15PM | Room: Lecture Hall 1-C | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1571 | Status: OPEN (23/40 seats) | Schedule: Tuesday 3:30PM to 4:45PM | Room: Lecture Hall 1-E | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 404] Medical Emergencies in Dentistry (CRSE_ID: 000839, Units: 1.00)
+  • Lecture - 1162 | Status: OPEN (5/50 seats) | Schedule: Sunday 3:30PM to 4:45PM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 406] Implant dentistry (CRSE_ID: 000793, Units: 2.00)
+  • Lecture - 1163 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 2:00PM to 3:15PM | Room: Lecture Hall 1-B | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 410] Implant prosthodontics (CRSE_ID: 000788, Units: 1.00)
+  • Lecture - 1165 | Status: OPEN (11/45 seats) | Schedule: Sunday 12:30PM to 1:45PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 410C] Unknown Title (CRSE_ID: 000804, Units: 2.00)
+  • Clinical - 1266 | Status: CLOSED (0 seats) | Schedule: TBA | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Clinical - 1267 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 2:00PM to 4:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 410L] Preclinical Fixed Prosthodontics III (CRSE_ID: 000790, Units: 2.00)
+  • Laboratory - 1270 | Status: OPEN (10/24 seats) | Schedule: TBA | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 412L] Preclinical Implant prosthodontics (CRSE_ID: 000815, Units: 2.00)
+  • Laboratory - 1271 | Status: CLOSED (0 seats) | Schedule: Tuesday 8:00AM to 10:30AM | Room: PHA_2 | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 420] Oral Surgery II (CRSE_ID: 000782, Units: 1.00)
+  • Lecture - 1167 | Status: CLOSED (0 seats) | Schedule: Monday 3:30PM to 4:45PM | Room: Lecture Hall 1-B | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 420C] Clinical Oral Surgery I (CRSE_ID: 000811, Units: 2.00)
+  • Clinical - 1573 | Status: OPEN (12/18 seats) | Schedule: Monday Tuesday 8:00AM to 10:30AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Clinical - 1273 | Status: CLOSED (0 seats) | Schedule: TBA | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 430] Removable Prosthodontics II (CRSE_ID: 000818, Units: 1.00)
+  • Lecture - 1168 | Status: CLOSED (0 seats) | Schedule: Wednesday 8:00AM to 9:15AM | Room: Lecture Hall_3 | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 430L] Preclinical Removable Prosthodontics II (CRSE_ID: 000822, Units: 1.00)
+  • Laboratory - 1275 | Status: CLOSED (0 seats) | Schedule: Tuesday 2:00PM to 4:30PM | Room: PHA_2 | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 431] Removable prosthodontics III (CRSE_ID: 001071, Units: 2.00)
+  • Lecture - 1170 | Status: OPEN (8/45 seats) | Schedule: TBA | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 440] Endodontics III (CRSE_ID: 000800, Units: 1.00)
+  • Lecture - 1171 | Status: CLOSED (0 seats) | Schedule: Thursday 8:00AM to 9:15AM | Room: Lecture Hall 1-C | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 440C] Clinical Endodontics I (CRSE_ID: 000805, Units: 2.00)
+  • Clinical - 1757 | Status: OPEN (5/20 seats) | Schedule: TBA | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Clinical - 1276 | Status: CLOSED (0 seats) | Schedule: Monday Thursday 2:00PM to 4:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 440L] Preclinical Endodontics III (CRSE_ID: 000802, Units: 1.00)
+  • Laboratory - 1278 | Status: CLOSED (0 seats) | Schedule: Wednesday 2:00PM to 4:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 450C] Comprehensive Care and General Dentistry I (CRSE_ID: 000844, Units: 1.00)
+  • Clinical - 1281 | Status: CLOSED (0 seats) | Schedule: Monday 11:00AM to 1:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Clinical - 1282 | Status: CLOSED (0 seats) | Schedule: Wednesday 11:00AM to 1:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Clinical - 1572 | Status: CLOSED (0 seats) | Schedule: Wednesday 3:30PM to 5:45PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 451C] Comprehensive Care and General Dentistry II (CRSE_ID: 001068, Units: 2.00)
+  • Clinical - 1710 | Status: OPEN (12/25 seats) | Schedule: TBA | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 460] Esthetic and restorative dentistry (CRSE_ID: 001069, Units: 1.00)
+  • Lecture - 1172 | Status: CLOSED (0 seats) | Schedule: Wednesday 2:00PM to 3:15PM | Room: Lecture Hall_3 | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1756 | Status: CLOSED (0 seats) | Schedule: Wednesday 9:30AM to 10:45AM | Room: Lecture Hall_3 | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 460L] Preclinical Operative Dentistry (CRSE_ID: 001070, Units: 1.00)
+  • Laboratory - 1285 | Status: OPEN (1/24 seats) | Schedule: Sunday 11:00AM to 1:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1284 | Status: CLOSED (0 seats) | Schedule: Sunday 2:00PM to 4:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 470] Oral Medicine II (CRSE_ID: 000797, Units: 1.00)
+  • Lecture - 1174 | Status: OPEN (1/50 seats) | Schedule: Sunday 11:00AM to 12:15PM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 470C] Unknown Title (CRSE_ID: 000813, Units: 1.00)
+  • Clinical - 1289 | Status: CLOSED (0 seats) | Schedule: Thursday 8:00AM to 10:30AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Clinical - 1290 | Status: CLOSED (0 seats) | Schedule: Thursday 11:15AM to 1:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Clinical - 1291 | Status: CLOSED (0 seats) | Schedule: Thursday 11:15AM to 1:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 471C] Unknown Title (CRSE_ID: 001031, Units: 1.00)
+  • Clinical - 1298 | Status: OPEN (2/12 seats) | Schedule: Sunday 8:00AM to 10:30AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Clinical - 1297 | Status: CLOSED (0 seats) | Schedule: Thursday 11:15AM to 1:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 472] Radiology (CRSE_ID: 000803, Units: 1.00)
+  • Lecture - 1176 | Status: OPEN (10/50 seats) | Schedule: Sunday 8:00AM to 9:15AM | Room: Lecture Hall_3 | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 480] Periodontology II (CRSE_ID: 000783, Units: 1.00)
+  • Lecture - 1179 | Status: OPEN (6/50 seats) | Schedule: Monday 8:00AM to 9:15AM | Room: Lecture Hall 1-C | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 480C] Clinical Periodontics I (CRSE_ID: 000806, Units: 2.00)
+  • Clinical - 1305 | Status: OPEN (5/20 seats) | Schedule: TBA | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Clinical - 1306 | Status: OPEN (7/20 seats) | Schedule: TBA | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 490] Pediatric Dentistry (CRSE_ID: 000824, Units: 2.00)
+  • Lecture - 1184 | Status: OPEN (3/45 seats) | Schedule: TBA | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 490L] Preclinical Pediatric-Orthodontic dentistry (CRSE_ID: 000831, Units: 2.00)
+  • Laboratory - 1318 | Status: CLOSED (0 seats) | Schedule: TBA | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 495] Orthodontics (CRSE_ID: 000827, Units: 2.00)
+  • Lecture - 1199 | Status: CLOSED (0 seats) | Schedule: TBA | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 520] Current Development in Implantology and Oral Surgery (CRSE_ID: 000851, Units: 2.00)
+  • Lecture - 1204 | Status: OPEN (25/40 seats) | Schedule: Monday Wednesday 8:00AM to 9:15AM | Room: Lecture Hall 1-M | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 524] Population Oral Health (CRSE_ID: 001063, Units: 2.00)
+  • Lecture - 1206 | Status: OPEN (13/45 seats) | Schedule: TBA | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 540C] Clinical Endodontics II (CRSE_ID: 000850, Units: 2.00)
+  • Clinical - 1322 | Status: CLOSED (0 seats) | Schedule: TBA | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 542C] Clinical Endodontics III (CRSE_ID: 000866, Units: 1.00)
+  • Clinical - 1335 | Status: CLOSED (0 seats) | Schedule: Saturday 11:00AM to 2:00PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 550C] Comprehensive Care and General Dentistry III (CRSE_ID: 000854, Units: 4.00)
+  • Clinical - 1324 | Status: OPEN (15/30 seats) | Schedule: TBA | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 552C] Community Dental Practice (CRSE_ID: 000855, Units: 2.00)
+  • Clinical - 1328 | Status: OPEN (10/40 seats) | Schedule: Wednesday 11:00AM to 1:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 554C] Treatment Planning and Case Presentations (CRSE_ID: 000856, Units: 3.00)
+  • Clinical - 1336 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 2:00PM to 4:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 556C] Comprehensive Care and General Dentistry IV (CRSE_ID: 000871, Units: 4.00)
+  • Clinical - 1338 | Status: CLOSED (0 seats) | Schedule: TBA | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 570] Oral Medicine III (CRSE_ID: 000858, Units: 2.00)
+  • Lecture - 1211 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 12:30PM to 1:45PM | Room: Lecture Hall_3 | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 570C] Radiology and Digital Dentistry (CRSE_ID: 000874, Units: 2.00)
+  • Clinical - 1339 | Status: OPEN (1/20 seats) | Schedule: TBA | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 580C] Rotational Specialty Clinics I (CRSE_ID: 001064, Units: 2.00)
+  • Lecture - 1342 | Status: OPEN (7/20 seats) | Schedule: TBA | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 581C] Rotational Specialty Clinics II (CRSE_ID: 001065, Units: 1.00)
+  • Clinical - 1343 | Status: CLOSED (0 seats) | Schedule: Tuesday 8:00AM to 10:30AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 590C] Clinical Pediatric Dentistry and Orthodontics I (CRSE_ID: 000847, Units: 2.00)
+  • Clinical - 1333 | Status: OPEN (8/24 seats) | Schedule: TBA | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BDS 592C] Clinical Pediatric Dentistry II (CRSE_ID: 000860, Units: 1.00)
+  • Clinical - 1350 | Status: CLOSED (0 seats) | Schedule: Tuesday 3:30PM to 5:45PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BDT 211] Dental Materials II (CRSE_ID: 000633, Units: 2.00)
+  • Lecture - 1362 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 8:00AM to 9:15AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BDT 211L] Dental Materials II Lab (CRSE_ID: 000634, Units: 3.00)
+  • Laboratory - 1370 | Status: OPEN (1/6 seats) | Schedule: Monday Tuesday Sunday 11:00AM to 1:30PM | Room: PHA_2 | Dates: 23/08/2026 - 15/12/2026
+
+[BDT 321L] Fixed Prosthodontics II Laboratory (CRSE_ID: 000799, Units: 2.00)
+  • Laboratory - 1373 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 11:00AM to 1:30PM | Room: PHA_2 | Dates: 23/08/2026 - 15/12/2026
+
+[BDT 340L] Complete Denture Prosthodontics Laboratory (CRSE_ID: 001029, Units: 2.00)
+  • Laboratory - 1375 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 11:00AM to 1:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BDT 360] CAD/CAM and Digital Dentistry (CRSE_ID: 000795, Units: 2.00)
+  • Lecture - 1363 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 2:00PM to 3:15PM | Room: Lecture Hall 2-A | Dates: 23/08/2026 - 15/12/2026
+
+[BDT 370] Orthodontics/Pedodontics Appliances I (CRSE_ID: 000792, Units: 2.00)
+  • Lecture - 1364 | Status: OPEN (4/12 seats) | Schedule: Tuesday Sunday 3:30PM to 4:45PM | Room: Lecture Hall 1-D | Dates: 23/08/2026 - 15/12/2026
+
+[BDT 370L] Orthodontics/Pedodontics Appliances I Laboratory (CRSE_ID: 000794, Units: 2.00)
+  • Laboratory - 1376 | Status: OPEN (22/30 seats) | Schedule: Monday Wednesday 2:00PM to 4:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BDT 380] Dental Implants (CRSE_ID: 000796, Units: 1.00)
+  • Lecture - 1366 | Status: OPEN (4/12 seats) | Schedule: Sunday 8:00AM to 9:15AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BDT 380L] Dental Implants Laboratory (CRSE_ID: 000798, Units: 1.00)
+  • Laboratory - 1378 | Status: OPEN (4/12 seats) | Schedule: TBA | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BDT 461L] Digital Dentistry II Laboratory (CRSE_ID: 000909, Units: 2.00)
+  • Laboratory - 1380 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 8:00AM to 10:30AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BDT 471L] Orthodontics/Pedodontics Appliances III Laboratory (CRSE_ID: 000817, Units: 1.00)
+  • Laboratory - 1382 | Status: OPEN (1/8 seats) | Schedule: TBA | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BDT 480L] Maxillo-Facial Prosthetics and Obturators-Lab (CRSE_ID: 001100, Units: 2.00)
+  • Laboratory - 1692 | Status: OPEN (14/20 seats) | Schedule: Monday Wednesday 2:00PM to 4:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BDT 498] Dental Laboratory Management and Business Procedures (CRSE_ID: 000816, Units: 1.00)
+  • Lecture - 1369 | Status: CLOSED (0 seats) | Schedule: Wednesday 11:00AM to 12:15PM | Room: Lecture Hall_3 | Dates: 23/08/2026 - 15/12/2026
+
+[BIO 101] Introductory Biology (CRSE_ID: 000096, Units: 3.00)
+  • Lecture - 1016 | Status: OPEN (45/80 seats) | Schedule: Monday Wednesday 8:00AM to 9:15AM | Room: Lecture Hall 1-G | Dates: 23/08/2026 - 20/12/2026
+  • Lecture - 1018 | Status: OPEN (8/80 seats) | Schedule: Tuesday Sunday 11:00AM to 12:15PM | Room: Lecture Hall 1-C | Dates: 23/08/2026 - 20/12/2026
+  • Lecture - 1662 | Status: OPEN (9/80 seats) | Schedule: Monday Wednesday 8:00AM to 9:15AM | Room: Lecture Hall 1-B | Dates: 23/08/2026 - 20/12/2026
+
+[BIO 210] Biostatistics (CRSE_ID: 000372, Units: 3.00)
+  • Lecture - 1019 | Status: OPEN (4/80 seats) | Schedule: Tuesday Sunday 11:00AM to 12:15PM | Room: Lecture Hall 1-G | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1020 | Status: OPEN (56/80 seats) | Schedule: Monday Wednesday 12:30PM to 1:45PM | Room: Lecture Hall 1-D | Dates: 23/08/2026 - 15/12/2026
+
+[BIO 211] General Biology I (CRSE_ID: 000414, Units: 3.00)
+  • Lecture - 1022 | Status: OPEN (25/80 seats) | Schedule: Tuesday Sunday 12:30PM to 1:45PM | Room: Lecture Hall 1-G | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1024 | Status: OPEN (2/80 seats) | Schedule: Monday Wednesday 11:00AM to 12:15PM | Room: Lecture Hall 1-B | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1666 | Status: OPEN (50/80 seats) | Schedule: Monday Wednesday 8:00AM to 9:15AM | Room: Lecture Hall 1-A | Dates: 23/08/2026 - 15/12/2026
+
+[BIO 211L] General Biology I Lab (CRSE_ID: 000421, Units: 1.00)
+  • Laboratory - 1026 | Status: OPEN (1/20 seats) | Schedule: Monday 2:00PM to 4:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1030 | Status: OPEN (4/20 seats) | Schedule: Thursday 8:00AM to 10:30AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1668 | Status: OPEN (5/20 seats) | Schedule: Sunday 11:00AM to 1:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1669 | Status: OPEN (4/20 seats) | Schedule: Monday 8:00AM to 10:30AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1025 | Status: CLOSED (0 seats) | Schedule: Sunday 2:00PM to 4:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1027 | Status: CLOSED (0 seats) | Schedule: Tuesday 2:00PM to 4:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1028 | Status: CLOSED (0 seats) | Schedule: Wednesday 2:00PM to 4:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1031 | Status: CLOSED (0 seats) | Schedule: Sunday 8:00AM to 10:30AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1032 | Status: CLOSED (0 seats) | Schedule: Thursday 11:00AM to 1:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BIO 212] General Biology II (CRSE_ID: 000435, Units: 3.00)
+  • Lecture - 1033 | Status: OPEN (72/80 seats) | Schedule: Tuesday Sunday 9:30AM to 10:45AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BIO 212L] General Biology II Lab (CRSE_ID: 000436, Units: 1.00)
+  • Laboratory - 1034 | Status: OPEN (11/16 seats) | Schedule: Tuesday 2:00PM to 4:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BIO 217] Human Anatomy and Physiology (CRSE_ID: 000409, Units: 3.00)
+  • Lecture - 1050 | Status: OPEN (14/80 seats) | Schedule: Monday Wednesday 11:00AM to 12:15PM | Room: Lecture Hall 1-C | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1670 | Status: OPEN (59/80 seats) | Schedule: Monday Wednesday 9:30AM to 10:45AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1671 | Status: OPEN (21/80 seats) | Schedule: Tuesday Sunday 8:00AM to 9:15AM | Room: Lecture Hall 1-C | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1039 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 11:00AM to 12:15PM | Room: Lecture Hall 1-B | Dates: 23/08/2026 - 15/12/2026
+
+[BIO 217L] Human Anatomy and Physiology Lab (CRSE_ID: 000557, Units: 1.00)
+  • Laboratory - 1053 | Status: OPEN (11/16 seats) | Schedule: Thursday 2:00PM to 4:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1674 | Status: OPEN (10/16 seats) | Schedule: Wednesday 8:00AM to 10:30AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1054 | Status: CLOSED (0 seats) | Schedule: Thursday 11:00AM to 1:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1056 | Status: CLOSED (0 seats) | Schedule: Thursday 8:00AM to 10:30AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BIO 218] Pathophysiology (CRSE_ID: 000415, Units: 3.00)
+  • Lecture - 1059 | Status: OPEN (12/80 seats) | Schedule: Monday Wednesday 12:30PM to 1:45PM | Room: Lecture Hall 1-C | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1061 | Status: OPEN (65/80 seats) | Schedule: Monday Wednesday 2:00PM to 3:15PM | Room: Lecture Hall_2B | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1676 | Status: OPEN (43/80 seats) | Schedule: Tuesday Sunday 9:30AM to 10:45AM | Room: Lecture Hall 1-E | Dates: 23/08/2026 - 15/12/2026
+
+[BIO 219] Medical Microbiology (CRSE_ID: 000437, Units: 3.00)
+  • Lecture - 1063 | Status: OPEN (32/80 seats) | Schedule: Tuesday Sunday 11:00AM to 12:15PM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1065 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 12:30PM to 1:45PM | Room: Lecture Hall 1-B | Dates: 23/08/2026 - 15/12/2026
+
+[BIO 220] General Histology (CRSE_ID: 000467, Units: 2.00)
+  • Lecture - 1072 | Status: OPEN (30/80 seats) | Schedule: Tuesday Sunday 11:00AM to 12:15PM | Room: Lecture Hall 1-J | Dates: 23/08/2026 - 15/12/2026
+
+[BIO 221] Genetics (CRSE_ID: 000098, Units: 4.00)
+  • Lecture - 1078 | Status: OPEN (73/80 seats) | Schedule: TBA | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BIO 225] Biochemistry (CRSE_ID: 000481, Units: 3.00)
+  • Lecture - 1081 | Status: OPEN (58/80 seats) | Schedule: Tuesday Sunday 12:30PM to 1:45PM | Room: Lecture Hall_3 | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1082 | Status: OPEN (51/80 seats) | Schedule: Monday Wednesday 9:30AM to 10:45AM | Room: Lecture Hall 1-L | Dates: 23/08/2026 - 15/12/2026
+
+[BIO 441] Developmental Biology (CRSE_ID: 000664, Units: 4.00)
+  • Lecture - 1084 | Status: OPEN (31/35 seats) | Schedule: TBA | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BIO 490] Senior Project in Biology (CRSE_ID: 000891, Units: 3.00)
+  • Lecture - 1085 | Status: OPEN (31/35 seats) | Schedule: TBA | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[BUS 112] Introduction to Business (CRSE_ID: 000010, Units: 3.00)
+  • Lecture - 1035 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 2:00PM to 3:15PM | Room: Lecture Hall 1-J | Dates: 23/08/2026 - 15/12/2026
+
+[BUS 212] Professional Development and Career Planning (CRSE_ID: 000643, Units: 3.00)
+  • Lecture - 1038 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 12:30PM to 1:45PM | Room: Lecture Hall 1-N | Dates: 23/08/2026 - 15/12/2026
+
+[BUS 305] Effective Communication in Bus (CRSE_ID: 000012, Units: 3.00)
+  • Lecture - 1041 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 12:30PM to 1:45PM | Room: Lecture Hall 2-A | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1042 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 9:30AM to 10:45AM | Room: Lecture Hall 1-A | Dates: 23/08/2026 - 15/12/2026
+
+[BUS 440] Current Topics in Business (CRSE_ID: 000757, Units: 3.00)
+  • Lecture - 1586 | Status: OPEN (17/25 seats) | Schedule: Thursday Sunday 11:00AM to 12:15PM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+
+[CHE 100] Chemistry in Our Life (CRSE_ID: 000901, Units: 3.00)
+  • Lecture - 1136 | Status: OPEN (3/70 seats) | Schedule: Monday Wednesday 9:30AM to 10:45AM | Room: Lecture Hall 1-J | Dates: 23/08/2026 - 15/12/2026
+
+[CHE 101] General Chemistry I (CRSE_ID: 000110, Units: 3.00)
+  • Lecture - 1138 | Status: OPEN (20/70 seats) | Schedule: Tuesday Sunday 11:00AM to 12:15PM | Room: Lecture Hall 1-K | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1546 | Status: OPEN (44/70 seats) | Schedule: Monday Wednesday 9:30AM to 10:45AM | Room: Lecture Hall 2-A | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1682 | Status: OPEN (31/70 seats) | Schedule: Monday Wednesday 12:30PM to 1:45PM | Room: Lecture Hall_2B | Dates: 23/08/2026 - 15/12/2026
+
+[CHE 101L] General Chemistry I Lab (CRSE_ID: 000422, Units: 1.00)
+  • Laboratory - 1650 | Status: OPEN (2/20 seats) | Schedule: Sunday 11:00AM to 1:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1651 | Status: OPEN (15/20 seats) | Schedule: Sunday 2:00PM to 4:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1652 | Status: OPEN (16/20 seats) | Schedule: Sunday 8:00AM to 10:30AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1141 | Status: CLOSED (0 seats) | Schedule: Thursday 2:00PM to 4:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1683 | Status: CLOSED (0 seats) | Schedule: Monday 2:00PM to 4:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[CHE 102] General Chemistry II (CRSE_ID: 000111, Units: 3.00)
+  • Lecture - 1144 | Status: OPEN (39/70 seats) | Schedule: Tuesday Sunday 2:00PM to 3:15PM | Room: Lecture Hall 1-D | Dates: 23/08/2026 - 15/12/2026
+
+[CHE 102L] General Chemistry II Lab (CRSE_ID: 000438, Units: 1.00)
+  • Laboratory - 1166 | Status: OPEN (1/18 seats) | Schedule: Thursday 2:00PM to 4:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[CHE 105] General Chemistry for Healthcare Professions (CRSE_ID: 000400, Units: 3.00)
+  • Lecture - 1173 | Status: OPEN (23/70 seats) | Schedule: Monday Wednesday 9:30AM to 10:45AM | Room: Lecture Hall 1-K | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1175 | Status: OPEN (7/70 seats) | Schedule: Tuesday Sunday 9:30AM to 10:45AM | Room: Lecture Hall 1-C | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1547 | Status: OPEN (1/70 seats) | Schedule: Tuesday Sunday 12:30PM to 1:45PM | Room: Lecture Hall 1-C | Dates: 23/08/2026 - 15/12/2026
+
+[CHE 105L] General Chemistry for Healthcare Professions Lab (CRSE_ID: 000423, Units: 1.00)
+  • Laboratory - 1177 | Status: OPEN (6/20 seats) | Schedule: Wednesday 8:00AM to 10:30AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1178 | Status: CLOSED (0 seats) | Schedule: Tuesday 2:00PM to 4:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1180 | Status: CLOSED (0 seats) | Schedule: Thursday 8:00AM to 10:30AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1182 | Status: CLOSED (0 seats) | Schedule: Monday 8:00AM to 10:30AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1183 | Status: CLOSED (0 seats) | Schedule: Wednesday 2:00PM to 4:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[CHE 210] Organic Chemistry for Health Sciences (CRSE_ID: 000420, Units: 3.00)
+  • Lecture - 1191 | Status: OPEN (17/60 seats) | Schedule: Monday Wednesday 11:00AM to 12:15PM | Room: Lecture Hall_3 | Dates: 23/08/2026 - 15/12/2026
+
+[CHE 211] Organic Chemistry I (CRSE_ID: 000410, Units: 3.00)
+  • Lecture - 1192 | Status: OPEN (30/60 seats) | Schedule: Monday Wednesday 9:30AM to 10:45AM | Room: Lecture Hall_2D | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1193 | Status: OPEN (3/60 seats) | Schedule: Tuesday Sunday 9:30AM to 10:45AM | Room: Lecture Hall 1-J | Dates: 23/08/2026 - 15/12/2026
+
+[CHE 211L] Organic Chemistry I Lab (CRSE_ID: 000439, Units: 1.00)
+  • Laboratory - 1654 | Status: OPEN (11/18 seats) | Schedule: Monday 11:00AM to 1:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1194 | Status: CLOSED (0 seats) | Schedule: Sunday 2:00PM to 4:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1196 | Status: CLOSED (0 seats) | Schedule: Wednesday 2:00PM to 4:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[CHE 212] Organic Chemistry II (CRSE_ID: 000482, Units: 3.00)
+  • Lecture - 1197 | Status: OPEN (20/60 seats) | Schedule: Monday Wednesday 11:00AM to 12:15PM | Room: Lecture Hall_3 | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1549 | Status: OPEN (42/60 seats) | Schedule: Tuesday Sunday 12:30PM to 1:45PM | Room: Lecture Hall_3 | Dates: 23/08/2026 - 15/12/2026
+
+[CHE 212L] Organic Chemistry II Lab (CRSE_ID: 000559, Units: 1.00)
+  • Laboratory - 1200 | Status: OPEN (15/18 seats) | Schedule: Monday 2:00PM to 4:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[CHE 241L] Physical Chemistry I Lab (CRSE_ID: 000732, Units: 1.00)
+  • Lecture - 1553 | Status: OPEN (4/12 seats) | Schedule: Wednesday 8:00AM to 10:30AM | Room: Lecture Hall_3 | Dates: 23/08/2026 - 15/12/2026
+
+[CHE 311] Identification of Organic Compounds (CRSE_ID: 000733, Units: 3.00)
+  • Lecture - 1550 | Status: OPEN (42/50 seats) | Schedule: Monday Wednesday 12:30PM to 1:45PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[CHE 341] Physical Chemistry II (CRSE_ID: 000737, Units: 3.00)
+  • Lecture - 1551 | Status: OPEN (42/50 seats) | Schedule: Monday Wednesday 11:00AM to 12:15PM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+
+[CHE 453] Petroleum Chemistry (CRSE_ID: 000902, Units: 3.00)
+  • Lecture - 1552 | Status: OPEN (43/50 seats) | Schedule: Tuesday Sunday 11:00AM to 12:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[CIN 101] Cinema: A Historical Introduction (CRSE_ID: 001061, Units: 3.00)
+  • Lecture - 1287 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 2:00PM to 3:15PM | Room: Lecture Hall_3 | Dates: 23/08/2026 - 15/12/2026
+
+[COM 101] Introduction to Communications (CRSE_ID: 000066, Units: 3.00)
+  • Lecture - 1317 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 11:00AM to 12:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1320 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 12:30PM to 1:45PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1331 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 2:00PM to 3:15PM | Room: Lecture Hall_3 | Dates: 23/08/2026 - 15/12/2026
+
+[CSC 100] AI and Platform Ethics (CRSE_ID: 001075, Units: 3.00)
+  • Lecture - 1464 | Status: OPEN (2/40 seats) | Schedule: Tuesday Sunday 2:00PM to 3:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1463 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 12:30PM to 1:45PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[CSC 101] Introduction to Computer Science (CRSE_ID: 000071, Units: 3.00)
+  • Lecture - 1465 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 11:00AM to 12:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1466 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 2:00PM to 3:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1741 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 12:30PM to 1:45PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[CSC 132] Digital Logic (CRSE_ID: 000419, Units: 3.00)
+  • Lecture - 1467 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 8:00AM to 9:15AM | Room: Lecture Hall 1-B | Dates: 23/08/2026 - 15/12/2026
+
+[CSC 140] Introduction to C Programming (CRSE_ID: 000373, Units: 3.00)
+  • Lecture - 1719 | Status: OPEN (13/40 seats) | Schedule: Tuesday Sunday 11:00AM to 12:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1720 | Status: OPEN (21/40 seats) | Schedule: Tuesday Sunday 8:00AM to 9:15AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1721 | Status: OPEN (12/40 seats) | Schedule: Monday Wednesday 12:30PM to 1:45PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1468 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 9:30AM to 10:45AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1718 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 11:00AM to 12:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[CSC 230] Object-Oriented Computing (CRSE_ID: 000403, Units: 3.00)
+  • Lecture - 1469 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 11:00AM to 12:15PM | Room: Lecture Hall 1-O | Dates: 23/08/2026 - 15/12/2026
+
+[CSC 231] Data Structure (CRSE_ID: 000416, Units: 3.00)
+  • Lecture - 1470 | Status: OPEN (13/40 seats) | Schedule: Tuesday Sunday 11:00AM to 12:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[CSC 311] Mobile Application Programming (CRSE_ID: 000674, Units: 3.00)
+  • Lecture - 1471 | Status: OPEN (8/35 seats) | Schedule: Tuesday Sunday 9:30AM to 10:45AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[CSC 313] Introduction to Artificial Intelligence (CRSE_ID: 000441, Units: 3.00)
+  • Lecture - 1472 | Status: OPEN (14/35 seats) | Schedule: Monday Wednesday 8:00AM to 9:15AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[CSC 343] Theory of Computation/Complier (CRSE_ID: 000417, Units: 3.00)
+  • Lecture - 1474 | Status: OPEN (3/35 seats) | Schedule: Tuesday Sunday 12:30PM to 1:45PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[CSC 421] Cloud Computing (CRSE_ID: 000675, Units: 3.00)
+  • Lecture - 1476 | Status: OPEN (8/35 seats) | Schedule: Monday Wednesday 9:30AM to 10:45AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[CSC 448] Introduction to Cyber Security (CRSE_ID: 000513, Units: 3.00)
+  • Lecture - 1477 | Status: OPEN (3/35 seats) | Schedule: Tuesday Sunday 11:00AM to 12:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[CSC 499] Senior Project (CRSE_ID: 000677, Units: 3.00)
+  • Lecture - 1478 | Status: OPEN (24/35 seats) | Schedule: TBA | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[ECE 211L] Digital Logic Design Lab (CRSE_ID: 001079, Units: 1.00)
+  • Laboratory - 1731 | Status: OPEN (5/20 seats) | Schedule: Thursday 2:00PM to 4:30PM | Room: PHA_2 | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1732 | Status: OPEN (15/20 seats) | Schedule: Sunday 2:00PM to 4:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1733 | Status: OPEN (11/20 seats) | Schedule: Monday 2:00PM to 4:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1480 | Status: CLOSED (0 seats) | Schedule: Thursday 8:00AM to 10:30AM | Room: PHA_2 | Dates: 23/08/2026 - 15/12/2026
+
+[ECE 311] Microprocessors (CRSE_ID: 001082, Units: 3.00)
+  • Lecture - 1479 | Status: OPEN (22/40 seats) | Schedule: Tuesday Sunday 2:00PM to 3:15PM | Room: Lecture Hall 1-N | Dates: 23/08/2026 - 15/12/2026
+
+[ECE 311L] Microprocessors Laboratory (CRSE_ID: 001083, Units: 1.00)
+  • Laboratory - 1481 | Status: CLOSED (0 seats) | Schedule: Thursday 11:00AM to 1:30PM | Room: PHA_2 | Dates: 23/08/2026 - 15/12/2026
+
+[ECO 101] History of Economic Thought (CRSE_ID: 000515, Units: 3.00)
+  • Lecture - 1048 | Status: OPEN (2/35 seats) | Schedule: Monday Wednesday 11:00AM to 12:15PM | Room: Lecture Hall 1-D | Dates: 23/08/2026 - 15/12/2026
+
+[ECO 221] Principles of Macroeconomics (CRSE_ID: 000016, Units: 3.00)
+  • Lecture - 1049 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 9:30AM to 10:45AM | Room: Lecture Hall 1-E | Dates: 23/08/2026 - 15/12/2026
+
+[ENG 101] Introduction to Engineering (CRSE_ID: 001030, Units: 3.00)
+  • Lecture - 1487 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 9:30AM to 10:45AM | Room: Lecture Hall 1-B | Dates: 23/08/2026 - 15/12/2026
+
+[ENL 101] Expository Writing (CRSE_ID: 000377, Units: 3.00)
+  • Lecture - 1227 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 8:00AM to 9:15AM | Room: Lecture Hall 1-D | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1228 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 9:30AM to 10:45AM | Room: Lecture Hall_3 | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1229 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 11:00AM to 12:15PM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1234 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 12:30PM to 1:45PM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1236 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 2:00PM to 3:15PM | Room: Lecture Hall 1-E | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1238 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 8:00AM to 9:15AM | Room: Lecture Hall 1-L | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1239 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 9:30AM to 10:45AM | Room: Lecture Hall_3 | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1240 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 11:00AM to 12:15PM | Room: Lecture Hall 1-N | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1241 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 12:30PM to 1:45PM | Room: Lecture Hall 1-M | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1242 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 2:00PM to 3:15PM | Room: Lecture Hall 1-K | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1717 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 12:30PM to 1:45PM | Room: Lecture Hall 1-N | Dates: 23/08/2026 - 15/12/2026
+
+[ENL 201] Academic Writing (CRSE_ID: 000375, Units: 3.00)
+  • Lecture - 1243 | Status: OPEN (1/20 seats) | Schedule: Tuesday Sunday 8:00AM to 9:15AM | Room: Lecture Hall 1-L | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1247 | Status: OPEN (1/20 seats) | Schedule: Tuesday Sunday 2:00PM to 3:15PM | Room: Lecture Hall 1-L | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1244 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 9:30AM to 10:45AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1245 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 11:00AM to 12:15PM | Room: Lecture Hall_3 | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1246 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 12:30PM to 1:45PM | Room: Lecture Hall_3 | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1249 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 8:00AM to 9:15AM | Room: Lecture Hall 1-N | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1250 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 9:30AM to 10:45AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1251 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 11:00AM to 12:15PM | Room: Lecture Hall_2D | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1254 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 12:30PM to 1:45PM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1255 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 2:00PM to 3:15PM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+
+[ENL 210] Introduction to Public Speaking (CRSE_ID: 000452, Units: 3.00)
+  • Lecture - 1261 | Status: OPEN (1/25 seats) | Schedule: Tuesday Sunday 12:30PM to 1:45PM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1262 | Status: OPEN (8/25 seats) | Schedule: Tuesday Sunday 2:00PM to 3:15PM | Room: Lecture Hall 1-F | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1263 | Status: OPEN (6/25 seats) | Schedule: Monday Wednesday 8:00AM to 9:15AM | Room: Lecture Hall 2-A | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1264 | Status: OPEN (1/25 seats) | Schedule: Monday Wednesday 9:30AM to 10:45AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1256 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 8:00AM to 9:15AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1257 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 9:30AM to 10:45AM | Room: Lecture Hall_3 | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1259 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 11:00AM to 12:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1265 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 11:00AM to 12:15PM | Room: Lecture Hall 2-A | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1268 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 12:30PM to 1:45PM | Room: Lecture Hall 2-A | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1269 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 2:00PM to 3:15PM | Room: Lecture Hall 1-O | Dates: 23/08/2026 - 15/12/2026
+
+[ENL 212] Introduction to Linguistics (CRSE_ID: 000453, Units: 3.00)
+  • Lecture - 1355 | Status: OPEN (1/20 seats) | Schedule: Monday Wednesday 9:30AM to 10:45AM | Room: Room - | Dates: 23/08/2026 - 15/12/2026
+
+[ENL 330] Advanced Composition and Creative Writing (CRSE_ID: 000488, Units: 3.00)
+  • Lecture - 1354 | Status: OPEN (19/25 seats) | Schedule: Tuesday Sunday 12:30PM to 1:45PM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+
+[ENT 320] Foundations of Entrepreneurshi (CRSE_ID: 000037, Units: 3.00)
+  • Lecture - 1057 | Status: OPEN (19/35 seats) | Schedule: Tuesday Sunday 8:00AM to 9:15AM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+
+[ENT 480] Social Entrepreneurship (CRSE_ID: 000747, Units: 3.00)
+  • Lecture - 1060 | Status: OPEN (34/35 seats) | Schedule: Monday Wednesday 11:00AM to 12:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[ENV 201] Environmental Science (CRSE_ID: 000122, Units: 3.00)
+  • Lecture - 1649 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 11:00AM to 12:15PM | Room: Lecture Hall 1-J | Dates: 23/08/2026 - 15/12/2026
+
+[FIN 301] Principles of Financial Management (CRSE_ID: 000413, Units: 3.00)
+  • Lecture - 1062 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 8:00AM to 9:15AM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+
+[FIN 410] Banking Operations (CRSE_ID: 000749, Units: 3.00)
+  • Lecture - 1064 | Status: OPEN (33/35 seats) | Schedule: Tuesday Sunday 12:30PM to 1:45PM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+
+[FIN 430] Derivatives (CRSE_ID: 000049, Units: 3.00)
+  • Lecture - 1066 | Status: OPEN (28/35 seats) | Schedule: Monday Wednesday 2:00PM to 3:15PM | Room: Lecture Hall 1-F | Dates: 23/08/2026 - 15/12/2026
+
+[FIN 460] Financial Modeling (CRSE_ID: 000751, Units: 3.00)
+  • Lecture - 1067 | Status: OPEN (27/35 seats) | Schedule: Monday Wednesday 12:30PM to 1:45PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[FIN 480] Venture Capital and Private Equity (CRSE_ID: 000750, Units: 3.00)
+  • Lecture - 1069 | Status: OPEN (27/35 seats) | Schedule: TBA | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[GEO 201] Geology and Earth Systems (CRSE_ID: 001088, Units: 3.00)
+  • Lecture - 1491 | Status: OPEN (25/35 seats) | Schedule: Thursday Sunday 11:00AM to 12:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[GEO 201L] Geology and Earth Systems Lab (CRSE_ID: 001105, Units: 1.00)
+  • Laboratory - 1750 | Status: OPEN (6/15 seats) | Schedule: Thursday 8:00AM to 10:30AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[HCT 101] Fundamentals of Healthcare Professions (CRSE_ID: 000404, Units: 3.00)
+  • Lecture - 1424 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 12:30PM to 1:45PM | Room: Lecture Hall 1-B | Dates: 23/08/2026 - 15/12/2026
+
+[HCT 108] Introduction to Public Health (CRSE_ID: 000592, Units: 3.00)
+  • Lecture - 1422 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 2:00PM to 3:15PM | Room: Lecture Hall 1-J | Dates: 23/08/2026 - 15/12/2026
+
+[HCT 207] Introduction to Radiation Protection (CRSE_ID: 000600, Units: 1.00)
+  • Lecture - 1421 | Status: OPEN (14/25 seats) | Schedule: Monday 2:00PM to 3:15PM | Room: Lecture Hall 1-H | Dates: 23/08/2026 - 15/12/2026
+
+[HCT 219] Advanced Anatomy and Physiology for Healthcare (CRSE_ID: 000994, Units: 3.00)
+  • Lecture - 1510 | Status: OPEN (4/45 seats) | Schedule: Monday Wednesday 11:00AM to 12:15PM | Room: Lecture Hall 1-E | Dates: 23/08/2026 - 15/12/2026
+
+[HCT 480] Marketing in the Healthcare Sector (CRSE_ID: 000966, Units: 3.00)
+  • Lecture - 1544 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 12:30PM to 1:45PM | Room: Lecture Hall_2D | Dates: 23/08/2026 - 15/12/2026
+
+[HCT 482] Leadership in Healthcare (CRSE_ID: 000968, Units: 3.00)
+  • Lecture - 1589 | Status: OPEN (15/45 seats) | Schedule: Tuesday Sunday 9:30AM to 10:45AM | Room: Lecture Hall_2D | Dates: 23/08/2026 - 15/12/2026
+
+[HCT 487] AI in Healthcare (CRSE_ID: 001093, Units: 3.00)
+  • Lecture - 1590 | Status: OPEN (5/20 seats) | Schedule: Wednesday 2:00PM to 4:30PM | Room: Lecture Hall_2D | Dates: 23/08/2026 - 15/12/2026
+
+[HIS 101] The Civilizations and History (CRSE_ID: 000074, Units: 3.00)
+  • Lecture - 1300 | Status: OPEN (1/45 seats) | Schedule: Monday Wednesday 12:30PM to 1:45PM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+
+[HIS 102] Civilizations and History II (CRSE_ID: 000374, Units: 3.00)
+  • Lecture - 1277 | Status: OPEN (1/45 seats) | Schedule: Tuesday Sunday 8:00AM to 9:15AM | Room: Lecture Hall 1-J | Dates: 23/08/2026 - 15/12/2026
+
+[HIS 105] Introduction to Contemporary History (CRSE_ID: 000593, Units: 3.00)
+  • Lecture - 1279 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 9:30AM to 10:45AM | Room: Lecture Hall_3 | Dates: 23/08/2026 - 15/12/2026
+
+[HUM 101] Introduction to Humanities (CRSE_ID: 000072, Units: 3.00)
+  • Lecture - 1283 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 12:30PM to 1:45PM | Room: Lecture Hall_3 | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1292 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 8:00AM to 9:15AM | Room: Lecture Hall 1-J | Dates: 23/08/2026 - 15/12/2026
+
+[LAW 101] Unknown Title (CRSE_ID: 000471, Units: 3.00)
+  • Lecture - 1008 | Status: OPEN (1/14 seats) | Schedule: Monday Wednesday 9:30AM to 10:45AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1010 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 12:30PM to 1:45PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[LAW 102] Legal Terminology (CRSE_ID: 000689, Units: 3.00)
+  • Lecture - 1013 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 2:00PM to 3:15PM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+
+[LAW 103] Legal Reasoning and Writing (CRSE_ID: 000473, Units: 3.00)
+  • Lecture - 1021 | Status: OPEN (1/14 seats) | Schedule: Tuesday Sunday 9:30AM to 10:45AM | Room: Lecture Hall_3 | Dates: 23/08/2026 - 15/12/2026
+
+[LAW 104] Criminology and Penology (CRSE_ID: 000472, Units: 3.00)
+  • Lecture - 1076 | Status: OPEN (5/14 seats) | Schedule: Tuesday Sunday 2:00PM to 3:15PM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+
+[LAW 106] Constitutional Law (CRSE_ID: 000529, Units: 3.00)
+  • Lecture - 1080 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 12:30PM to 1:45PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[LAW 112] History of Roman Law and Hammurabi Law (CRSE_ID: 000470, Units: 3.00)
+  • Lecture - 1015 | Status: OPEN (3/20 seats) | Schedule: Tuesday Sunday 11:00AM to 12:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[LAW 220] Unknown Title (CRSE_ID: 000530, Units: 3.00)
+  • Lecture - 1094 | Status: OPEN (2/14 seats) | Schedule: Monday Wednesday 9:30AM to 10:45AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[LAW 221] Administrative Law (CRSE_ID: 000531, Units: 3.00)
+  • Lecture - 1105 | Status: OPEN (12/17 seats) | Schedule: Monday Wednesday 11:00AM to 12:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[LAW 224] Unknown Title (CRSE_ID: 000566, Units: 3.00)
+  • Lecture - 1108 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 8:00AM to 9:15AM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+
+[LAW 227] Unknown Title (CRSE_ID: 000532, Units: 3.00)
+  • Lecture - 1554 | Status: OPEN (15/30 seats) | Schedule: Monday Wednesday 12:30PM to 1:45PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[LAW 230] Criminal Law: General Theory (CRSE_ID: 000604, Units: 3.00)
+  • Lecture - 1086 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 11:00AM to 12:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[LAW 240] Human Rights and International Humanitarian Law (CRSE_ID: 000603, Units: 3.00)
+  • Lecture - 1112 | Status: OPEN (2/14 seats) | Schedule: Tuesday Sunday 9:30AM to 10:45AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[LAW 260] Financial Legislation and Tax Law (CRSE_ID: 000688, Units: 3.00)
+  • Lecture - 1023 | Status: OPEN (1/7 seats) | Schedule: Tuesday Sunday 8:00AM to 9:15AM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+
+[LAW 280] Commercial and Corporate Law (CRSE_ID: 000687, Units: 3.00)
+  • Lecture - 1083 | Status: OPEN (7/14 seats) | Schedule: Monday Wednesday 11:00AM to 12:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[LAW 330] Civil Law Special Contracts (CRSE_ID: 000725, Units: 3.00)
+  • Lecture - 1117 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 2:00PM to 3:15PM | Room: Lecture Hall 1-A | Dates: 23/08/2026 - 15/12/2026
+
+[LAW 390] Public International Law (CRSE_ID: 000690, Units: 3.00)
+  • Lecture - 1591 | Status: OPEN (7/20 seats) | Schedule: Tuesday Sunday 3:30PM to 4:45PM | Room: Lecture Hall 1-A | Dates: 23/08/2026 - 15/12/2026
+
+[LAW 440] Private International Law and (CRSE_ID: 000916, Units: 3.00)
+  • Lecture - 1073 | Status: OPEN (2/7 seats) | Schedule: Tuesday Sunday 2:00PM to 3:15PM | Room: Lecture Hall_3 | Dates: 23/08/2026 - 15/12/2026
+
+[LAW 455] Criminal Procedures (CRSE_ID: 000727, Units: 3.00)
+  • Lecture - 1089 | Status: OPEN (5/20 seats) | Schedule: Tuesday Sunday 9:30AM to 10:45AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[LAW 461] Commercial Papers and Banking (CRSE_ID: 000917, Units: 3.00)
+  • Lecture - 1555 | Status: OPEN (24/30 seats) | Schedule: Sunday 12:30PM to 1:45PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[LAW 491] International Organization Law (CRSE_ID: 000911, Units: 2.00)
+  • Lecture - 1121 | Status: OPEN (4/10 seats) | Schedule: Tuesday Sunday 11:00AM to 12:15PM | Room: Room - | Dates: 23/08/2026 - 15/12/2026
+
+[LAW 499] Capstone (CRSE_ID: 000912, Units: 1.00)
+  • Lecture - 1017 | Status: OPEN (2/6 seats) | Schedule: TBA | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[LIT 101] Introduction to World Literature (CRSE_ID: 000073, Units: 3.00)
+  • Lecture - 1294 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 9:30AM to 10:45AM | Room: Lecture Hall_2B | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1727 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 12:30PM to 1:45PM | Room: Lecture Hall 1-A | Dates: 23/08/2026 - 15/12/2026
+
+[LIT 221] American Literature Survey I (CRSE_ID: 000212, Units: 3.00)
+  • Lecture - 1341 | Status: OPEN (16/25 seats) | Schedule: Tuesday Sunday 11:00AM to 12:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[LIT 315] Survey of Arabic Literature (CRSE_ID: 000669, Units: 3.00)
+  • Lecture - 1340 | Status: OPEN (17/25 seats) | Schedule: Tuesday Sunday 9:30AM to 10:45AM | Room: Room - | Dates: 23/08/2026 - 15/12/2026
+
+[LIT 332] Modern British Novelists (CRSE_ID: 000670, Units: 3.00)
+  • Lecture - 1337 | Status: OPEN (21/25 seats) | Schedule: Tuesday Sunday 8:00AM to 9:15AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[LIT 337] Unknown Title (CRSE_ID: 000960, Units: 3.00)
+  • Lecture - 1344 | Status: OPEN (19/25 seats) | Schedule: Monday Wednesday 8:00AM to 9:15AM | Room: Room - | Dates: 23/08/2026 - 15/12/2026
+
+[LIT 410] Advanced Literary Theory (CRSE_ID: 000671, Units: 3.00)
+  • Lecture - 1347 | Status: OPEN (17/25 seats) | Schedule: Monday Wednesday 2:00PM to 3:15PM | Room: Lecture Hall 1-M | Dates: 23/08/2026 - 15/12/2026
+
+[LIT 441] Russian Society as Interpreted in Novels and Poetry (CRSE_ID: 000964, Units: 3.00)
+  • Lecture - 1345 | Status: OPEN (20/25 seats) | Schedule: Monday Wednesday 11:00AM to 12:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[MAT 101] College Algebra (CRSE_ID: 000340, Units: 3.00)
+  • Lecture - 1087 | Status: OPEN (8/50 seats) | Schedule: Tuesday Sunday 9:30AM to 10:45AM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1091 | Status: OPEN (18/50 seats) | Schedule: Monday Wednesday 9:30AM to 10:45AM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1100 | Status: OPEN (33/50 seats) | Schedule: Monday Wednesday 2:00PM to 3:15PM | Room: Lecture Hall 1-D | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1092 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 11:00AM to 12:15PM | Room: Lecture Hall_3 | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1096 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 12:30PM to 1:45PM | Room: Lecture Hall 1-K | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1098 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 12:30PM to 1:45PM | Room: Lecture Hall 1-J | Dates: 23/08/2026 - 15/12/2026
+
+[MAT 101A] Advanced College Algebra (CRSE_ID: 001000, Units: 3.00)
+  • Lecture - 1102 | Status: OPEN (1/50 seats) | Schedule: Tuesday Sunday 2:00PM to 3:15PM | Room: Lecture Hall 1-B | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1655 | Status: OPEN (35/50 seats) | Schedule: Monday Wednesday 9:30AM to 10:45AM | Room: Lecture Hall 1-D | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1648 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 12:30PM to 1:45PM | Room: Lecture Hall_3 | Dates: 23/08/2026 - 15/12/2026
+
+[MAT 102] Pre-calculus (CRSE_ID: 000401, Units: 3.00)
+  • Lecture - 1104 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 2:00PM to 3:15PM | Room: Lecture Hall 1-O | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1111 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 12:30PM to 1:45PM | Room: Lecture Hall 1-O | Dates: 23/08/2026 - 15/12/2026
+
+[MAT 111] Calculus and Analytic Geometry I (CRSE_ID: 000402, Units: 3.00)
+  • Lecture - 1758 | Status: OPEN (25/30 seats) | Schedule: Sunday 3:30PM to 6:00PM | Room: Lecture Hall 1-C | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1122 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 8:00AM to 9:15AM | Room: Lecture Hall_3 | Dates: 23/08/2026 - 15/12/2026
+
+[MAT 112] Calculus II (CRSE_ID: 000425, Units: 3.00)
+  • Lecture - 1123 | Status: OPEN (13/50 seats) | Schedule: Tuesday Sunday 12:30PM to 1:45PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[MAT 113] Calculus III (CRSE_ID: 000444, Units: 3.00)
+  • Lecture - 1125 | Status: OPEN (47/50 seats) | Schedule: Thursday 11:00AM to 1:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[MAT 202] Discrete Mathematics (CRSE_ID: 000474, Units: 3.00)
+  • Lecture - 1127 | Status: OPEN (6/50 seats) | Schedule: Tuesday Sunday 9:30AM to 10:45AM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+
+[MGT 201] Principles of Management (CRSE_ID: 000395, Units: 3.00)
+  • Lecture - 1088 | Status: OPEN (1/35 seats) | Schedule: Tuesday Sunday 2:00PM to 3:15PM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+
+[MGT 301] Business Ethics (CRSE_ID: 000285, Units: 3.00)
+  • Lecture - 1090 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 11:00AM to 12:15PM | Room: Lecture Hall 1-M | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1093 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 11:00AM to 12:15PM | Room: Lecture Hall 1-M | Dates: 23/08/2026 - 15/12/2026
+
+[MGT 310] Supply Chain Management (CRSE_ID: 000528, Units: 3.00)
+  • Lecture - 1095 | Status: OPEN (18/35 seats) | Schedule: Tuesday Sunday 2:00PM to 3:15PM | Room: Lecture Hall 1-M | Dates: 23/08/2026 - 15/12/2026
+
+[MGT 360] Organizations (CRSE_ID: 000746, Units: 3.00)
+  • Lecture - 1103 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 9:30AM to 10:45AM | Room: Lecture Hall 1-L | Dates: 23/08/2026 - 15/12/2026
+
+[MGT 410] Strategic Management (CRSE_ID: 000628, Units: 3.00)
+  • Lecture - 1106 | Status: OPEN (29/35 seats) | Schedule: Tuesday Sunday 8:00AM to 9:15AM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+
+[MGT 412] Leadership (CRSE_ID: 000748, Units: 3.00)
+  • Lecture - 1107 | Status: OPEN (7/35 seats) | Schedule: Monday Wednesday 11:00AM to 12:15PM | Room: Lecture Hall 1-F | Dates: 23/08/2026 - 15/12/2026
+
+[MGT 420] Decisionmaking (CRSE_ID: 000295, Units: 3.00)
+  • Lecture - 1109 | Status: OPEN (4/35 seats) | Schedule: Tuesday Sunday 2:00PM to 3:15PM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+
+[MIS 101] Introduction to Management Information Systems (CRSE_ID: 000308, Units: 3.00)
+  • Lecture - 1753 | Status: OPEN (4/35 seats) | Schedule: Tuesday Sunday 12:30PM to 1:45PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1070 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 11:00AM to 12:15PM | Room: Lecture Hall 1-N | Dates: 23/08/2026 - 15/12/2026
+
+[MIS 240] E-Commerce (CRSE_ID: 000752, Units: 3.00)
+  • Lecture - 1074 | Status: OPEN (28/35 seats) | Schedule: Monday Wednesday 12:30PM to 1:45PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[MIS 304] Systems Analysis and Design (CRSE_ID: 000311, Units: 3.00)
+  • Lecture - 1075 | Status: OPEN (30/35 seats) | Schedule: Monday Wednesday 9:30AM to 10:45AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[MIS 480] Business Intelligence and Data Visualization (CRSE_ID: 000754, Units: 3.00)
+  • Lecture - 1077 | Status: OPEN (32/35 seats) | Schedule: Monday Wednesday 11:00AM to 12:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[MIS 496] Senior Project II (CRSE_ID: 000755, Units: 3.00)
+  • Lecture - 1079 | Status: OPEN (30/35 seats) | Schedule: Monday Wednesday 2:00PM to 3:15PM | Room: Lecture Hall 1-L | Dates: 23/08/2026 - 15/12/2026
+
+[MKT 328] Consumer Behavior (CRSE_ID: 000303, Units: 3.00)
+  • Lecture - 1115 | Status: OPEN (31/35 seats) | Schedule: Tuesday Sunday 2:00PM to 3:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[MKT 340] Social Media Marketing (CRSE_ID: 000502, Units: 3.00)
+  • Lecture - 1114 | Status: OPEN (23/35 seats) | Schedule: Monday Wednesday 2:00PM to 3:15PM | Room: Lecture Hall 1-E | Dates: 23/08/2026 - 15/12/2026
+
+[MKT 426] Marketing Research (CRSE_ID: 000682, Units: 3.00)
+  • Lecture - 1116 | Status: OPEN (32/35 seats) | Schedule: Tuesday Sunday 11:00AM to 12:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[MKT 429] Services Marketing (CRSE_ID: 000304, Units: 3.00)
+  • Lecture - 1118 | Status: OPEN (27/35 seats) | Schedule: Monday Wednesday 11:00AM to 12:15PM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+
+[MKT 430] Marketing Management and Strategy (CRSE_ID: 000305, Units: 3.00)
+  • Lecture - 1119 | Status: OPEN (25/35 seats) | Schedule: Monday Wednesday 9:30AM to 10:45AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[MKT 480] Brand Management (CRSE_ID: 000756, Units: 3.00)
+  • Lecture - 1120 | Status: OPEN (19/35 seats) | Schedule: Monday Wednesday 12:30PM to 1:45PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[OVS 120] Physical optics (CRSE_ID: 000982, Units: 3.00)
+  • Lecture - 1402 | Status: OPEN (1/5 seats) | Schedule: Monday Wednesday 12:30PM to 1:45PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[OVS 227] Ophthalmic Diagnostic Techniques (CRSE_ID: 000987, Units: 3.00)
+  • Lecture - 1405 | Status: OPEN (3/8 seats) | Schedule: Tuesday Sunday 9:30AM to 10:45AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[OVS 227L] Ophthalmic Diagnostic Techniques Laboratory (CRSE_ID: 000988, Units: 1.00)
+  • Laboratory - 1417 | Status: OPEN (3/8 seats) | Schedule: Sunday 1:00PM to 3:00PM | Room: PHA_2 | Dates: 23/08/2026 - 15/12/2026
+
+[OVS 230] Unknown Title (CRSE_ID: 001012, Units: 3.00)
+  • Lecture - 1406 | Status: OPEN (3/8 seats) | Schedule: Tuesday Sunday 11:00AM to 12:15PM | Room: Room - | Dates: 23/08/2026 - 15/12/2026
+
+[OVS 230L] Clinical Optometry and Refraction Laboratory (CRSE_ID: 001013, Units: 1.00)
+  • Laboratory - 1418 | Status: OPEN (3/8 seats) | Schedule: Tuesday 1:00PM to 3:00PM | Room: PHA_2 | Dates: 23/08/2026 - 15/12/2026
+
+[OVS 240] Visual perception (CRSE_ID: 000986, Units: 3.00)
+  • Lecture - 1407 | Status: OPEN (2/8 seats) | Schedule: Monday Wednesday 9:30AM to 10:45AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[OVS 270] Ocular Pharmacology (CRSE_ID: 000990, Units: 2.00)
+  • Lecture - 1408 | Status: OPEN (2/8 seats) | Schedule: Monday Wednesday 8:00AM to 9:15AM | Room: Room - | Dates: 23/08/2026 - 15/12/2026
+
+[OVS 320] Introduction to Contact Lenses (CRSE_ID: 001015, Units: 3.00)
+  • Lecture - 1715 | Status: OPEN (2/10 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 11:00AM to 12:15PM | Room: TBA | Dates: 23/08/2026 - 18/10/2026
+
+[OVS 320L] Introduction to Contact Lenses Lab (CRSE_ID: 001016, Units: 1.00)
+  • Laboratory - 1716 | Status: OPEN (2/10 seats) | Schedule: Monday Wednesday 2:00PM to 4:00PM | Room: PHA_2 | Dates: 23/08/2026 - 18/10/2026
+
+[OVS 330] Ocular Disease and Therapeutics (CRSE_ID: 001017, Units: 3.00)
+  • Lecture - 1409 | Status: OPEN (3/8 seats) | Schedule: Monday Wednesday 9:30AM to 10:45AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[OVS 360] Neuro-ophthalmology and Glaucoma (CRSE_ID: 001018, Units: 3.00)
+  • Lecture - 1411 | Status: OPEN (3/8 seats) | Schedule: Tuesday Sunday 8:00AM to 9:15AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[OVS 380] Special and Rigid Contact Lenses (CRSE_ID: 000834, Units: 3.00)
+  • Lecture - 1410 | Status: OPEN (6/10 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 11:00AM to 12:15PM | Room: TBA | Dates: 19/10/2026 - 15/12/2026
+
+[OVS 380L] Special and Rigid contact lenses Laboratory (CRSE_ID: 000836, Units: 1.00)
+  • Laboratory - 1416 | Status: OPEN (6/10 seats) | Schedule: Monday Wednesday 2:00PM to 4:00PM | Room: PHA_2 | Dates: 19/10/2026 - 15/12/2026
+
+[OVS 460] Visual Impairment (CRSE_ID: 001023, Units: 2.00)
+  • Lecture - 1413 | Status: OPEN (2/5 seats) | Schedule: Tuesday Sunday 9:30AM to 10:45AM | Room: TBA | Dates: 23/08/2026 - 31/10/2026
+
+[OVS 481] Clinical case management (CRSE_ID: 001024, Units: 1.00)
+  • Lecture - 1414 | Status: OPEN (2/5 seats) | Schedule: Tuesday Sunday 9:30AM to 10:45AM | Room: TBA | Dates: 01/11/2026 - 15/12/2026
+
+[PHA 101] Introduction to Pharmacy and Pharmaceutical Sciences (CRSE_ID: 000412, Units: 3.00)
+  • Lecture - 1400 | Status: OPEN (28/40 seats) | Schedule: Monday Wednesday 8:00AM to 9:15AM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1401 | Status: OPEN (16/40 seats) | Schedule: Monday Wednesday 9:30AM to 10:45AM | Room: Lecture Hall 1-N | Dates: 23/08/2026 - 15/12/2026
+
+[PHA 210] Introduction to Global Health (CRSE_ID: 000485, Units: 3.00)
+  • Lecture - 1403 | Status: OPEN (12/40 seats) | Schedule: Monday Wednesday 12:30PM to 1:45PM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1404 | Status: OPEN (20/40 seats) | Schedule: Monday Wednesday 2:00PM to 3:15PM | Room: Lecture Hall 1-C | Dates: 23/08/2026 - 15/12/2026
+
+[PHA 300] Pharmacology I (CRSE_ID: 000496, Units: 3.00)
+  • Lecture - 1514 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 8:00AM to 9:15AM | Room: Lecture Hall 1-E | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1515 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 9:30AM to 10:45AM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+
+[PHA 300L] Pharmacology Laboratory (CRSE_ID: 000533, Units: 1.00)
+  • Laboratory - 1516 | Status: OPEN (1/18 seats) | Schedule: Monday 2:00PM to 4:30PM | Room: PHA_66C103 | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1518 | Status: OPEN (9/18 seats) | Schedule: Thursday 8:00AM to 10:30AM | Room: PHA_66C103 | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1519 | Status: OPEN (9/18 seats) | Schedule: Wednesday 2:00PM to 4:30PM | Room: PHA_66C103 | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1520 | Status: OPEN (5/18 seats) | Schedule: Thursday 11:00AM to 1:30PM | Room: PHA_66C103 | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1517 | Status: CLOSED (0 seats) | Schedule: Tuesday 8:00AM to 10:30AM | Room: PHA_66C103 | Dates: 23/08/2026 - 15/12/2026
+
+[PHA 310] Dosage Forms I (CRSE_ID: 000497, Units: 3.00)
+  • Lecture - 1371 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 8:00AM to 9:15AM | Room: Lecture Hall 1-O | Dates: 23/08/2026 - 15/12/2026
+
+[PHA 310L] Dosage Forms I Laboratory (CRSE_ID: 000498, Units: 1.00)
+  • Laboratory - 1374 | Status: CLOSED (0 seats) | Schedule: Monday 2:00PM to 4:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1377 | Status: CLOSED (0 seats) | Schedule: Wednesday 2:00PM to 4:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1379 | Status: CLOSED (0 seats) | Schedule: Sunday 11:00AM to 1:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1381 | Status: CLOSED (0 seats) | Schedule: Thursday 11:00AM to 1:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[PHA 320] Medicinal Chemistry I (CRSE_ID: 000499, Units: 3.00)
+  • Lecture - 1415 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 8:00AM to 9:15AM | Room: Lecture Hall 1-D | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1419 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 9:30AM to 10:45AM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+
+[PHA 330] Pharmaceutical Analysis (CRSE_ID: 000500, Units: 3.00)
+  • Lecture - 1492 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 11:00AM to 12:15PM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1493 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 9:30AM to 10:45AM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+
+[PHA 330L] Pharmaceutical Analysis Laboratory (CRSE_ID: 000501, Units: 1.00)
+  • Laboratory - 1427 | Status: OPEN (7/18 seats) | Schedule: Thursday 8:00AM to 10:30AM | Room: PHA_66C104 | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1428 | Status: OPEN (1/18 seats) | Schedule: Thursday 11:00AM to 1:30PM | Room: PHA_66C104 | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1429 | Status: OPEN (9/18 seats) | Schedule: Tuesday 8:00AM to 10:30AM | Room: PHA_66C104 | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1426 | Status: CLOSED (0 seats) | Schedule: Monday 8:00AM to 10:30AM | Room: PHA_66C104 | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1430 | Status: CLOSED (0 seats) | Schedule: Wednesday 2:00PM to 4:30PM | Room: PHA_66C104 | Dates: 23/08/2026 - 15/12/2026
+
+[PHA 350] Pharmacology II (CRSE_ID: 000561, Units: 3.00)
+  • Lecture - 1521 | Status: OPEN (12/45 seats) | Schedule: Tuesday Sunday 11:00AM to 12:15PM | Room: Lecture Hall 1-A | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1522 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 12:30PM to 1:45PM | Room: Lecture Hall 1-L | Dates: 23/08/2026 - 15/12/2026
+
+[PHA 360] Dosage Forms II (CRSE_ID: 000562, Units: 3.00)
+  • Lecture - 1383 | Status: OPEN (4/40 seats) | Schedule: Monday Wednesday 11:00AM to 12:15PM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1384 | Status: OPEN (12/40 seats) | Schedule: Monday Wednesday 12:30PM to 1:45PM | Room: Lecture Hall 1-L | Dates: 23/08/2026 - 15/12/2026
+
+[PHA 360L] Dosage Forms II Laboratory (CRSE_ID: 000563, Units: 1.00)
+  • Laboratory - 1386 | Status: OPEN (1/18 seats) | Schedule: Sunday 2:00PM to 4:30PM | Room: PHA_66C104 | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1388 | Status: OPEN (9/18 seats) | Schedule: Monday 2:00PM to 4:30PM | Room: PHA_66C104 | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1389 | Status: OPEN (6/18 seats) | Schedule: Tuesday 2:00PM to 4:30PM | Room: PHA_66C104 | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1390 | Status: OPEN (5/18 seats) | Schedule: Wednesday 8:00AM to 10:30AM | Room: PHA_66C104 | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1385 | Status: CLOSED (0 seats) | Schedule: Sunday 8:00AM to 10:30AM | Room: PHA_66C104 | Dates: 23/08/2026 - 15/12/2026
+
+[PHA 370] Medicinal Chemistry II (CRSE_ID: 000564, Units: 3.00)
+  • Lecture - 1425 | Status: OPEN (7/40 seats) | Schedule: Tuesday Sunday 12:30PM to 1:45PM | Room: Lecture Hall 1-E | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1423 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 11:00AM to 12:15PM | Room: Lecture Hall_2D | Dates: 23/08/2026 - 15/12/2026
+
+[PHA 380] Pharmacotherapeutics I (CRSE_ID: 000565, Units: 3.00)
+  • Lecture - 1523 | Status: OPEN (4/40 seats) | Schedule: Monday Wednesday 11:00AM to 12:15PM | Room: Lecture Hall 1-L | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1524 | Status: OPEN (17/40 seats) | Schedule: Monday Wednesday 12:30PM to 1:45PM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+
+[PHA 380L] Pharmacotherapeutics I: Applied Skills Lab (CRSE_ID: 000591, Units: 1.00)
+  • Laboratory - 1274 | Status: OPEN (3/18 seats) | Schedule: Monday 8:00AM to 10:30AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1293 | Status: OPEN (8/18 seats) | Schedule: Wednesday 2:00PM to 4:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1286 | Status: CLOSED (0 seats) | Schedule: Tuesday 8:00AM to 10:30AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1288 | Status: CLOSED (0 seats) | Schedule: Wednesday 8:00AM to 10:30AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[PHA 390] Drug Information and Literature Evaluation (CRSE_ID: 000539, Units: 2.00)
+  • Lecture - 1396 | Status: CLOSED (0 seats) | Schedule: Thursday 8:00AM to 9:40AM | Room: Lecture Hall_2B | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1397 | Status: CLOSED (0 seats) | Schedule: Thursday 10:00AM to 11:40AM | Room: Lecture Hall_2B | Dates: 23/08/2026 - 15/12/2026
+
+[PHA 400] Pharmacokinetics and Biopharmaceutics (CRSE_ID: 000645, Units: 3.00)
+  • Lecture - 1512 | Status: OPEN (2/40 seats) | Schedule: Tuesday Sunday 11:00AM to 12:15PM | Room: Lecture Hall 1-F | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1513 | Status: OPEN (11/40 seats) | Schedule: Tuesday Sunday 12:30PM to 1:45PM | Room: Lecture Hall 1-F | Dates: 23/08/2026 - 15/12/2026
+
+[PHA 400L] Pharmacokinetics and Biopharmaceutics Lab (CRSE_ID: 000649, Units: 1.00)
+  • Laboratory - 1507 | Status: OPEN (2/18 seats) | Schedule: Tuesday 2:00PM to 4:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1509 | Status: OPEN (3/18 seats) | Schedule: Thursday 8:00AM to 10:30AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1505 | Status: CLOSED (0 seats) | Schedule: Monday 2:00PM to 4:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1506 | Status: CLOSED (0 seats) | Schedule: Tuesday 8:00AM to 10:30AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1508 | Status: CLOSED (0 seats) | Schedule: Wednesday 2:00PM to 4:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[PHA 410L] Unknown Title (CRSE_ID: 000650, Units: 1.00)
+  • Laboratory - 1395 | Status: OPEN (7/18 seats) | Schedule: Tuesday 8:00AM to 10:30AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1391 | Status: CLOSED (0 seats) | Schedule: Sunday 8:00AM to 10:30AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1392 | Status: CLOSED (0 seats) | Schedule: Monday 8:00AM to 10:30AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1393 | Status: CLOSED (0 seats) | Schedule: Wednesday 8:00AM to 10:30AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1394 | Status: CLOSED (0 seats) | Schedule: Thursday 8:00AM to 10:30AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[PHA 420] Pharmacotherapeutics II (CRSE_ID: 000646, Units: 3.00)
+  • Lecture - 1525 | Status: OPEN (7/45 seats) | Schedule: Tuesday Sunday 11:00AM to 12:15PM | Room: Lecture Hall 1-D | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1526 | Status: OPEN (9/45 seats) | Schedule: Tuesday Sunday 12:30PM to 1:45PM | Room: Lecture Hall 1-M | Dates: 23/08/2026 - 15/12/2026
+
+[PHA 420L] Pharmacotherapeutics II: Applied Skills Lab (CRSE_ID: 000651, Units: 0.50)
+  • Laboratory - 1301 | Status: OPEN (1/18 seats) | Schedule: Monday 2:00PM to 3:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1302 | Status: OPEN (1/18 seats) | Schedule: Tuesday 8:00AM to 9:15AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1309 | Status: OPEN (3/18 seats) | Schedule: Wednesday 2:00PM to 3:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1296 | Status: CLOSED (0 seats) | Schedule: Sunday 2:00PM to 3:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1304 | Status: CLOSED (0 seats) | Schedule: Wednesday 8:00AM to 9:15AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[PHA 430] Pharmacotherapeutics III (CRSE_ID: 000647, Units: 3.00)
+  • Lecture - 1528 | Status: OPEN (1/45 seats) | Schedule: Monday Wednesday 12:30PM to 1:45PM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1527 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 11:00AM to 12:15PM | Room: Lecture Hall 1-K | Dates: 23/08/2026 - 15/12/2026
+
+[PHA 430L] Pharmacotherapeutics III: Applied Skills Lab (CRSE_ID: 000652, Units: 0.50)
+  • Laboratory - 1319 | Status: OPEN (3/18 seats) | Schedule: Monday 9:30AM to 10:45AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1311 | Status: CLOSED (0 seats) | Schedule: Sunday 8:00AM to 9:15AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1313 | Status: CLOSED (0 seats) | Schedule: Sunday 2:00PM to 3:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1315 | Status: CLOSED (0 seats) | Schedule: Monday 8:00AM to 9:15AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1316 | Status: CLOSED (0 seats) | Schedule: Tuesday 2:00PM to 3:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[PHA 440] Toxicology (CRSE_ID: 000648, Units: 3.00)
+  • Lecture - 1536 | Status: OPEN (9/45 seats) | Schedule: Monday Wednesday 11:00AM to 12:15PM | Room: Lecture Hall 1-A | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1537 | Status: OPEN (16/45 seats) | Schedule: Monday Wednesday 12:30PM to 1:45PM | Room: Lecture Hall 1-F | Dates: 23/08/2026 - 15/12/2026
+
+[PHA 450] Dispensing and Pharmaceutical Care (CRSE_ID: 000700, Units: 3.00)
+  • Lecture - 1365 | Status: OPEN (3/38 seats) | Schedule: Monday Wednesday 8:00AM to 9:15AM | Room: Lecture Hall_3 | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1367 | Status: OPEN (5/38 seats) | Schedule: Monday Wednesday 9:30AM to 10:45AM | Room: Lecture Hall 1-M | Dates: 23/08/2026 - 15/12/2026
+
+[PHA 460] Pharmacognosy (CRSE_ID: 000701, Units: 3.00)
+  • Lecture - 1498 | Status: OPEN (2/38 seats) | Schedule: Tuesday Sunday 8:00AM to 9:15AM | Room: Lecture Hall 1-K | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1499 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 9:30AM to 10:45AM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+
+[PHA 460L] Pharmacognosy Lab (CRSE_ID: 000884, Units: 1.00)
+  • Laboratory - 1502 | Status: OPEN (10/15 seats) | Schedule: Tuesday 2:00PM to 4:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1545 | Status: OPEN (10/15 seats) | Schedule: Tuesday 11:00AM to 1:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1500 | Status: CLOSED (0 seats) | Schedule: Sunday 2:00PM to 4:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1501 | Status: CLOSED (0 seats) | Schedule: Monday 11:00AM to 1:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1503 | Status: CLOSED (0 seats) | Schedule: Wednesday 11:00AM to 1:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[PHA 470] Pharmacotherapeutics IV (CRSE_ID: 000885, Units: 3.00)
+  • Lecture - 1529 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 8:00AM to 9:15AM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1530 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 9:30AM to 10:45AM | Room: Lecture Hall 1-F | Dates: 23/08/2026 - 15/12/2026
+
+[PHA 470L] Pharmacotherapeutics IV: Applied Skills Lab (CRSE_ID: 000887, Units: 0.50)
+  • Laboratory - 1323 | Status: OPEN (3/18 seats) | Schedule: Sunday 11:00AM to 12:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1327 | Status: OPEN (7/18 seats) | Schedule: Tuesday 11:00AM to 12:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1326 | Status: CLOSED (0 seats) | Schedule: Monday 12:30PM to 1:45PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1330 | Status: CLOSED (0 seats) | Schedule: Wednesday 12:30PM to 1:45PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[PHA 480] Pharmacotherapeutics V (CRSE_ID: 000886, Units: 3.00)
+  • Lecture - 1532 | Status: OPEN (9/38 seats) | Schedule: Tuesday Sunday 12:30PM to 1:45PM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1531 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 11:00AM to 12:15PM | Room: Lecture Hall 1-L | Dates: 23/08/2026 - 15/12/2026
+
+[PHA 480L] Pharmacotherapeutics V: Applied Skills Lab (CRSE_ID: 000888, Units: 0.50)
+  • Laboratory - 1353 | Status: OPEN (6/18 seats) | Schedule: Wednesday 2:00PM to 3:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1348 | Status: CLOSED (0 seats) | Schedule: Sunday 12:30PM to 1:45PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1349 | Status: CLOSED (0 seats) | Schedule: Monday 2:00PM to 3:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Laboratory - 1351 | Status: CLOSED (0 seats) | Schedule: Tuesday 12:30PM to 1:45PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[PHA 500] Pharmacoeconomics and Drug Marketing (CRSE_ID: 000702, Units: 3.00)
+  • Lecture - 1495 | Status: OPEN (3/30 seats) | Schedule: Tuesday Sunday 3:30PM to 4:45PM | Room: Lecture Hall_3 | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1494 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 8:00AM to 9:15AM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+
+[PHA 510] Advanced Clinical Diagnostics (CRSE_ID: 000703, Units: 3.00)
+  • Lecture - 1231 | Status: OPEN (3/60 seats) | Schedule: Tuesday Sunday 2:00PM to 3:15PM | Room: Lecture Hall 1-G | Dates: 23/08/2026 - 15/12/2026
+
+[PHA 520] Clinical Pharmacokinetics (CRSE_ID: 000704, Units: 2.00)
+  • Lecture - 1356 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 9:30AM to 10:45AM | Room: Lecture Hall 1-B | Dates: 23/08/2026 - 31/10/2026
+
+[PHA 530] Quality Assurance (CRSE_ID: 001036, Units: 1.00)
+  • Lecture - 1534 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 9:30AM to 10:45AM | Room: Lecture Hall 1-G | Dates: 01/11/2026 - 15/12/2026
+
+[PHA 550] Pharmaco-genomics (CRSE_ID: 000705, Units: 2.00)
+  • Lecture - 1497 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 12:30PM to 1:45PM | Room: Lecture Hall_2D | Dates: 23/08/2026 - 15/12/2026
+
+[PHA 560] Unknown Title (CRSE_ID: 000706, Units: 2.00)
+  • Lecture - 1496 | Status: OPEN (7/35 seats) | Schedule: Tuesday Sunday 2:00PM to 3:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[PHA 580] Pharmacotherapeutics VI (CRSE_ID: 000710, Units: 3.00)
+  • Lecture - 1533 | Status: OPEN (4/30 seats) | Schedule: Monday Wednesday 8:00AM to 9:15AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[PHA 585] Industrial pharmacy-II (CRSE_ID: 001044, Units: 3.00)
+  • Lecture - 1399 | Status: OPEN (22/35 seats) | Schedule: Tuesday Thursday 11:00AM to 12:15PM | Room: Lecture Hall_3 | Dates: 23/08/2026 - 15/12/2026
+
+[PHI 101] Introduction to Ethics (CRSE_ID: 000067, Units: 3.00)
+  • Lecture - 1325 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 12:30PM to 1:45PM | Room: Lecture Hall 1-A | Dates: 23/08/2026 - 15/12/2026
+
+[PHY 101] Principles of Physics I (CRSE_ID: 000117, Units: 3.00)
+  • Lecture - 1009 | Status: OPEN (4/50 seats) | Schedule: Tuesday Sunday 8:00AM to 9:15AM | Room: Lecture Hall_3 | Dates: 23/08/2026 - 15/12/2026
+
+[PHY 101L] Principles of Physics I Laboratory (CRSE_ID: 000424, Units: 1.00)
+  • Laboratory - 1539 | Status: CLOSED (0 seats) | Schedule: Sunday 2:00PM to 4:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[PHY 102] Principles of Physics II (CRSE_ID: 000142, Units: 3.00)
+  • Lecture - 1011 | Status: OPEN (34/50 seats) | Schedule: Monday Wednesday 11:00AM to 12:15PM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+
+[PHY 102L] Principles of Physics II Laboratory (CRSE_ID: 000445, Units: 1.00)
+  • Laboratory - 1540 | Status: CLOSED (0 seats) | Schedule: Monday 2:00PM to 4:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[PHY 104] Physic for the Life Sciences II (CRSE_ID: 000509, Units: 3.00)
+  • Lecture - 1012 | Status: OPEN (37/50 seats) | Schedule: Monday Wednesday 12:30PM to 1:45PM | Room: Lecture Hall_3 | Dates: 23/08/2026 - 15/12/2026
+
+[PHY 104L] Physics for the Life Sciences II Laboratory (CRSE_ID: 000510, Units: 1.00)
+  • Laboratory - 1014 | Status: CLOSED (0 seats) | Schedule: Thursday 8:00AM to 10:30AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[PHY 105] Descriptive Astronomy (CRSE_ID: 000448, Units: 3.00)
+  • Lecture - 1005 | Status: OPEN (1/50 seats) | Schedule: Tuesday Sunday 2:00PM to 3:15PM | Room: Lecture Hall 1-K | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1006 | Status: OPEN (1/50 seats) | Schedule: Monday Wednesday 9:30AM to 10:45AM | Room: Lecture Hall 1-G | Dates: 23/08/2026 - 15/12/2026
+
+[PHY 351] Electromagnetic Theory II (CRSE_ID: 000949, Units: 3.00)
+  • Lecture - 1752 | Status: CLOSED (0 seats) | Schedule: TBA | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[PHY 441] Selected Topics (CRSE_ID: 000612, Units: 3.00)
+  • Lecture - 1751 | Status: CLOSED (0 seats) | Schedule: TBA | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[POL 101] Introduction to Political Science (CRSE_ID: 000392, Units: 3.00)
+  • Lecture - 1332 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 9:30AM to 10:45AM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+
+[POL 125] Unknown Title (CRSE_ID: 000484, Units: 3.00)
+  • Lecture - 1280 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 11:00AM to 12:15PM | Room: Lecture Hall 1-E | Dates: 23/08/2026 - 15/12/2026
+
+[POL 140] Comparative Politics (CRSE_ID: 000457, Units: 3.00)
+  • Lecture - 1557 | Status: OPEN (18/30 seats) | Schedule: Tuesday Sunday 8:00AM to 9:15AM | Room: Lecture Hall 1-F | Dates: 23/08/2026 - 15/12/2026
+
+[POL 142] Identity Politics (CRSE_ID: 000430, Units: 3.00)
+  • Lecture - 1558 | Status: OPEN (2/30 seats) | Schedule: Tuesday Sunday 12:30PM to 1:45PM | Room: Lecture Hall_3 | Dates: 23/08/2026 - 15/12/2026
+
+[POL 191] Global Climate Change (CRSE_ID: 000518, Units: 3.00)
+  • Lecture - 1748 | Status: OPEN (30/40 seats) | Schedule: Tuesday Sunday 2:00PM to 3:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[POL 200] Public Policy (CRSE_ID: 000978, Units: 3.00)
+  • Lecture - 1559 | Status: OPEN (12/30 seats) | Schedule: Tuesday Sunday 11:00AM to 12:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[POL 221] Intro to Security Studies (CRSE_ID: 000431, Units: 3.00)
+  • Lecture - 1747 | Status: OPEN (18/25 seats) | Schedule: Monday Wednesday 12:30PM to 1:45PM | Room: Lecture Hall 1-H | Dates: 23/08/2026 - 15/12/2026
+
+[POL 230] International Political Economy (CRSE_ID: 000519, Units: 3.00)
+  • Lecture - 1560 | Status: OPEN (12/25 seats) | Schedule: Monday Wednesday 9:30AM to 10:45AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[POL 240] International Organization (CRSE_ID: 000460, Units: 3.00)
+  • Lecture - 1561 | Status: OPEN (23/30 seats) | Schedule: Monday Wednesday 9:30AM to 10:45AM | Room: Room - | Dates: 23/08/2026 - 15/12/2026
+
+[POL 252] Iraqi Politics (CRSE_ID: 000584, Units: 3.00)
+  • Lecture - 1562 | Status: OPEN (10/30 seats) | Schedule: Tuesday Sunday 9:30AM to 10:45AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[POL 262] Modern Russia (CRSE_ID: 001034, Units: 3.00)
+  • Lecture - 1707 | Status: OPEN (21/25 seats) | Schedule: Monday Wednesday 11:00AM to 12:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[POL 266] Modern South Africa (CRSE_ID: 000461, Units: 3.00)
+  • Lecture - 1569 | Status: OPEN (21/30 seats) | Schedule: Monday Wednesday 12:30PM to 1:45PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[POL 340] The UN and the EU (CRSE_ID: 000525, Units: 3.00)
+  • Lecture - 1570 | Status: OPEN (24/30 seats) | Schedule: Monday Wednesday 2:00PM to 3:15PM | Room: Lecture Hall 1-N | Dates: 23/08/2026 - 15/12/2026
+
+[POL 350] Research Methods (CRSE_ID: 000526, Units: 3.00)
+  • Lecture - 1706 | Status: OPEN (18/30 seats) | Schedule: Monday Wednesday 2:00PM to 3:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[POL 491] Senior Thesis I (CRSE_ID: 000589, Units: 3.00)
+  • Lecture - 1565 | Status: OPEN (26/30 seats) | Schedule: Monday Wednesday 3:30PM to 4:45PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[POL 492] Senior Thesis II (CRSE_ID: 000590, Units: 3.00)
+  • Lecture - 1566 | Status: OPEN (24/30 seats) | Schedule: Monday Wednesday 3:30PM to 4:45PM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+
+[PSY 101] Introduction to Psychology (CRSE_ID: 000342, Units: 3.00)
+  • Lecture - 1308 | Status: OPEN (5/45 seats) | Schedule: Tuesday Sunday 2:00PM to 3:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1303 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 8:00AM to 9:15AM | Room: Lecture Hall 1-G | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1310 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 8:00AM to 9:15AM | Room: Lecture Hall 1-K | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1329 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 2:00PM to 3:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[PSY 270] Research Methods in Psychology I (CRSE_ID: 000493, Units: 3.00)
+  • Lecture - 1358 | Status: OPEN (19/25 seats) | Schedule: Tuesday Sunday 11:00AM to 12:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[PSY 334] Positive Psychology (CRSE_ID: 000716, Units: 3.00)
+  • Lecture - 1740 | Status: OPEN (6/45 seats) | Schedule: Monday Wednesday 2:00PM to 3:15PM | Room: Lecture Hall_3 | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1360 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 9:30AM to 10:45AM | Room: Lecture Hall_3 | Dates: 23/08/2026 - 15/12/2026
+
+[PSY 340] Cultural Psychology (CRSE_ID: 000578, Units: 3.00)
+  • Lecture - 1359 | Status: OPEN (16/25 seats) | Schedule: Tuesday Sunday 12:30PM to 1:45PM | Room: Lecture Hall 1-I | Dates: 23/08/2026 - 15/12/2026
+
+[RAD 101] Introduction to Radiologic Sciences (CRSE_ID: 000537, Units: 3.00)
+  • Lecture - 1684 | Status: OPEN (17/25 seats) | Schedule: Tuesday Sunday 9:30AM to 10:45AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[RAD 201] Medical Imaging Systems I (CRSE_ID: 000642, Units: 3.00)
+  • Lecture - 1431 | Status: OPEN (5/10 seats) | Schedule: Tuesday 11:30AM to 1:45PM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+
+[RAD 210] Unknown Title (CRSE_ID: 000641, Units: 3.00)
+  • Lecture - 1432 | Status: OPEN (4/12 seats) | Schedule: Wednesday 9:30AM to 11:45AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[RAD 310] Radiographic Anatomy and Pathology I (CRSE_ID: 000862, Units: 3.00)
+  • Lecture - 1728 | Status: OPEN (18/30 seats) | Schedule: Monday Wednesday 9:30AM to 10:45AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[RAD 315] Legal and Ethical Considerations in Radiologic Sciences (CRSE_ID: 000864, Units: 1.00)
+  • Lecture - 1434 | Status: OPEN (20/20 seats) | Schedule: Tuesday Sunday 9:30AM to 10:45AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[RAD 365] Introduction to Radiation Therapy (CRSE_ID: 000869, Units: 3.00)
+  • Lecture - 1435 | Status: OPEN (10/25 seats) | Schedule: Tuesday Sunday 12:30PM to 1:30PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[RAD 370L] Computer Applications in Medical Imaging Laboratory (CRSE_ID: 000872, Units: 1.00)
+  • Laboratory - 1744 | Status: OPEN (11/30 seats) | Schedule: TBA | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[RAD 405] Imaging Procedures III (CRSE_ID: 000875, Units: 3.00)
+  • Lecture - 1761 | Status: OPEN (20/30 seats) | Schedule: Sunday 11:00AM to 12:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[RAD 410] Special Topics in Radiological Sciences (CRSE_ID: 000876, Units: 1.00)
+  • Lecture - 1436 | Status: OPEN (5/15 seats) | Schedule: TBA | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[RAD 460] Nuclear Medicine Imaging (CRSE_ID: 000882, Units: 3.00)
+  • Lecture - 1438 | Status: OPEN (15/15 seats) | Schedule: Sunday 9:30AM to 10:45AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[SLP 101] Service Learning/Civic Engagement (CRSE_ID: 001103, Units: 1.00)
+  • Lecture - 1736 | Status: OPEN (46/70 seats) | Schedule: Monday 2:00PM to 3:00PM | Room: Lecture Hall 2-A | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1737 | Status: OPEN (44/70 seats) | Schedule: Monday 3:30PM to 4:30PM | Room: Lecture Hall 2-A | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1738 | Status: OPEN (27/70 seats) | Schedule: Wednesday 2:00PM to 3:00PM | Room: Lecture Hall 2-A | Dates: 23/08/2026 - 15/12/2026
+
+[SOC 101] Introduction to Sociology (CRSE_ID: 000228, Units: 3.00)
+  • Lecture - 1314 | Status: OPEN (2/45 seats) | Schedule: Monday Wednesday 9:30AM to 10:45AM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1312 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 9:30AM to 10:45AM | Room: Lecture Hall_2B | Dates: 23/08/2026 - 15/12/2026
+
+[STA 210] Applied Probability and Statistics (CRSE_ID: 000517, Units: 3.00)
+  • Lecture - 1132 | Status: OPEN (15/35 seats) | Schedule: Tuesday Sunday 8:00AM to 9:15AM | Room: Lecture Hall_3 | Dates: 23/08/2026 - 15/12/2026
+
+[THE 101] Introduction to Theatre (CRSE_ID: 001062, Units: 3.00)
+  • Lecture - 1543 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 2:00PM to 3:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[TLD 101] Foundations of Special Education (CRSE_ID: 000683, Units: 3.00)
+  • Lecture - 1139 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 9:30AM to 10:45AM | Room: Lecture Hall 1-N | Dates: 23/08/2026 - 15/12/2026
+
+[TLD 103] Global Dimensions of Development and Education (CRSE_ID: 000684, Units: 3.00)
+  • Lecture - 1143 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 11:00AM to 12:15PM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1149 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 9:30AM to 10:45AM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+
+[TLD 201] Unknown Title (CRSE_ID: 000922, Units: 3.00)
+  • Lecture - 1157 | Status: OPEN (17/18 seats) | Schedule: Monday Wednesday 12:30PM to 1:45PM | Room: Room - | Dates: 23/08/2026 - 15/12/2026
+
+[TLD 203] Learning Out of School (CRSE_ID: 000923, Units: 3.00)
+  • Lecture - 1159 | Status: OPEN (12/18 seats) | Schedule: Tuesday Sunday 12:30PM to 1:45PM | Room: Room - | Dates: 23/08/2026 - 15/12/2026
+
+[TLD 207] Proposal Writing (CRSE_ID: 000925, Units: 3.00)
+  • Lecture - 1164 | Status: OPEN (15/18 seats) | Schedule: Tuesday Sunday 2:00PM to 3:15PM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+
+[TLD 301] Multilingual Learners I (CRSE_ID: 000931, Units: 3.00)
+  • Lecture - 1169 | Status: OPEN (10/18 seats) | Schedule: Monday Wednesday 11:00AM to 12:15PM | Room: Lecture Hall_3 | Dates: 23/08/2026 - 15/12/2026
+
+[TLD 302] Internship I (CRSE_ID: 000926, Units: 4.00)
+  • Lecture - 1189 | Status: OPEN (17/18 seats) | Schedule: Monday Wednesday 9:30AM to 10:45AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[TLD 303] Ecology of Instructional Settings (CRSE_ID: 000932, Units: 3.00)
+  • Lecture - 1181 | Status: OPEN (12/18 seats) | Schedule: Monday Wednesday 12:30PM to 1:45PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[TLD 305] Internship II (CRSE_ID: 000933, Units: 4.00)
+  • Lecture - 1205 | Status: OPEN (15/18 seats) | Schedule: Monday Wednesday 9:30AM to 10:45AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[TLD 309] Unknown Title (CRSE_ID: 000935, Units: 3.00)
+  • Lecture - 1729 | Status: OPEN (26/30 seats) | Schedule: Monday Wednesday 2:00PM to 3:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[UNI 101] First-Year University Experience (CRSE_ID: 000378, Units: 3.00)
+  • Lecture - 1209 | Status: OPEN (2/45 seats) | Schedule: Tuesday Sunday 8:00AM to 9:15AM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1210 | Status: OPEN (7/45 seats) | Schedule: Tuesday Sunday 9:30AM to 10:45AM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1216 | Status: OPEN (2/45 seats) | Schedule: Tuesday Sunday 2:00PM to 3:15PM | Room: Lecture Hall 1-A | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1218 | Status: OPEN (7/45 seats) | Schedule: Monday Wednesday 8:00AM to 9:15AM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1221 | Status: OPEN (2/45 seats) | Schedule: Monday Wednesday 9:30AM to 10:45AM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1224 | Status: OPEN (13/45 seats) | Schedule: Monday Wednesday 2:00PM to 3:15PM | Room: Lecture Hall 1-G | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1212 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 11:00AM to 12:15PM | Room: Lecture Hall_3 | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1214 | Status: CLOSED (0 seats) | Schedule: Tuesday Sunday 12:30PM to 1:45PM | Room: Lecture Hall 1-D | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1222 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 11:00AM to 12:15PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1223 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 12:30PM to 1:45PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+
+[UNKNOWN_000385] Unknown Title (CRSE_ID: 000385, Units: 0.00)
+  • Lecture - 1620 | Status: OPEN (5/25 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 8:00AM to 10:00AM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+  • Lecture - 1621 | Status: OPEN (5/25 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 10:00AM to 12:00PM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+  • Lecture - 1622 | Status: OPEN (9/25 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 8:00AM to 10:00AM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+  • Lecture - 1623 | Status: OPEN (8/25 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 10:00AM to 12:00PM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+
+[UNKNOWN_000387] Unknown Title (CRSE_ID: 000387, Units: 0.00)
+  • Lecture - 1628 | Status: OPEN (7/25 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 8:00AM to 10:00AM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+  • Lecture - 1629 | Status: OPEN (5/25 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 10:00AM to 12:00PM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+  • Lecture - 1630 | Status: OPEN (7/25 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 8:00AM to 10:00AM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+  • Lecture - 1631 | Status: OPEN (8/25 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 10:00AM to 12:00PM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+  • Lecture - 1632 | Status: OPEN (6/25 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 8:00AM to 10:00AM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+  • Lecture - 1633 | Status: OPEN (4/25 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 10:00AM to 12:00PM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+
+[UNKNOWN_000388] Unknown Title (CRSE_ID: 000388, Units: 0.00)
+  • Lecture - 1634 | Status: OPEN (7/25 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 10:00AM to 12:00PM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+  • Lecture - 1635 | Status: OPEN (5/25 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 8:00AM to 10:00AM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+  • Lecture - 1636 | Status: OPEN (7/25 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 10:00AM to 12:00PM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+  • Lecture - 1637 | Status: OPEN (8/25 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 8:00AM to 10:00AM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+  • Lecture - 1638 | Status: OPEN (6/25 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 10:00AM to 12:00PM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+  • Lecture - 1639 | Status: OPEN (4/25 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 8:00AM to 10:00AM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+
+[UNKNOWN_000389] Unknown Title (CRSE_ID: 000389, Units: 0.00)
+  • Lecture - 1640 | Status: OPEN (6/20 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 8:00AM to 10:00AM | Room: Lecture Hall 1-H | Dates: 23/08/2026 - 22/10/2026
+  • Lecture - 1641 | Status: OPEN (3/20 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 8:00AM to 10:00AM | Room: Lecture Hall 1-I | Dates: 23/08/2026 - 22/10/2026
+  • Lecture - 1642 | Status: OPEN (3/20 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 8:00AM to 10:00AM | Room: Lecture Hall_2E | Dates: 23/08/2026 - 22/10/2026
+  • Lecture - 1643 | Status: OPEN (7/20 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 8:00AM to 10:00AM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 22/10/2026
+  • Lecture - 1644 | Status: OPEN (7/20 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 8:00AM to 10:00AM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+  • Lecture - 1645 | Status: OPEN (5/20 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 8:00AM to 10:00AM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 22/10/2026
+  • Lecture - 1646 | Status: OPEN (4/20 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 10:00AM to 12:00PM | Room: Lecture Hall 1-H | Dates: 23/08/2026 - 22/10/2026
+  • Lecture - 1647 | Status: OPEN (3/20 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 10:00AM to 12:00PM | Room: Lecture Hall 1-I | Dates: 23/08/2026 - 22/10/2026
+  • Lecture - 1699 | Status: OPEN (6/20 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 10:00AM to 12:00PM | Room: Lecture Hall_2E | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1700 | Status: OPEN (5/20 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 10:00AM to 12:00PM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1701 | Status: OPEN (5/20 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 10:00AM to 12:00PM | Room: TBA | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1702 | Status: OPEN (4/20 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 10:00AM to 12:00PM | Room: Lecture Hall_2 | Dates: 23/08/2026 - 15/12/2026
+
+[UNKNOWN_000608] Unknown Title (CRSE_ID: 000608, Units: 0.00)
+  • Lecture - 1592 | Status: OPEN (9/20 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 12:00PM to 2:00PM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+  • Lecture - 1593 | Status: OPEN (8/20 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 2:00PM to 4:00PM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+  • Lecture - 1594 | Status: OPEN (8/20 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 12:00PM to 2:00PM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+  • Lecture - 1595 | Status: OPEN (11/20 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 2:00PM to 4:00PM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+  • Lecture - 1596 | Status: OPEN (9/20 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 12:00PM to 2:00PM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+  • Lecture - 1597 | Status: OPEN (8/20 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 2:00PM to 4:00PM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+  • Lecture - 1598 | Status: OPEN (5/20 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 12:00PM to 2:00PM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+  • Lecture - 1599 | Status: OPEN (7/20 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 2:00PM to 4:00PM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+
+[UNKNOWN_000609] Unknown Title (CRSE_ID: 000609, Units: 0.00)
+  • Lecture - 1612 | Status: OPEN (7/20 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 12:00PM to 2:00PM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+  • Lecture - 1613 | Status: OPEN (4/20 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 2:00PM to 4:00PM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+  • Lecture - 1614 | Status: OPEN (9/20 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 12:00PM to 2:00PM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+  • Lecture - 1615 | Status: OPEN (8/20 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 2:00PM to 4:00PM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+
+[UNKNOWN_000610] Unknown Title (CRSE_ID: 000610, Units: 0.00)
+  • Lecture - 1602 | Status: OPEN (9/20 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 2:00PM to 4:00PM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+  • Lecture - 1603 | Status: OPEN (8/20 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 12:00PM to 2:00PM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+  • Lecture - 1604 | Status: OPEN (8/20 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 2:00PM to 4:00PM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+  • Lecture - 1605 | Status: OPEN (11/20 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 12:00PM to 2:00PM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+  • Lecture - 1606 | Status: OPEN (9/20 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 2:00PM to 4:00PM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+  • Lecture - 1607 | Status: OPEN (8/20 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 12:00PM to 2:00PM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+  • Lecture - 1608 | Status: OPEN (5/20 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 2:00PM to 4:00PM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+  • Lecture - 1609 | Status: OPEN (7/20 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 12:00PM to 2:00PM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+
+[UNKNOWN_000611] Unknown Title (CRSE_ID: 000611, Units: 0.00)
+  • Lecture - 1616 | Status: OPEN (7/20 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 2:00PM to 4:00PM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+  • Lecture - 1617 | Status: OPEN (4/20 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 12:00PM to 2:00PM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+  • Lecture - 1618 | Status: OPEN (9/20 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 2:00PM to 4:00PM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+  • Lecture - 1619 | Status: OPEN (8/20 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 12:00PM to 2:00PM | Room: TBA | Dates: 23/08/2026 - 22/10/2026
+
+[UNKNOWN_001097] Unknown Title (CRSE_ID: 001097, Units: 0.00)
+  • Lecture - 1658 | Status: OPEN (1/10 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 2:00PM to 4:00PM | Room: TBA | Dates: 23/08/2026 - 15/10/2026
+  • Lecture - 1657 | Status: CLOSED (0 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 12:00PM to 2:00PM | Room: TBA | Dates: 23/08/2026 - 15/10/2026
+  • Lecture - 1685 | Status: CLOSED (0 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 12:00PM to 2:00PM | Room: TBA | Dates: 23/08/2026 - 15/10/2026
+  • Lecture - 1686 | Status: CLOSED (0 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 2:00PM to 4:00PM | Room: TBA | Dates: 23/08/2026 - 15/10/2026
+
+[UNKNOWN_001098] Unknown Title (CRSE_ID: 001098, Units: 0.00)
+  • Lecture - 1660 | Status: OPEN (1/10 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 12:00PM to 2:00PM | Room: TBA | Dates: 23/08/2026 - 15/10/2026
+  • Lecture - 1659 | Status: CLOSED (0 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 2:00PM to 4:00PM | Room: TBA | Dates: 23/08/2026 - 15/10/2026
+  • Lecture - 1687 | Status: CLOSED (0 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 2:00PM to 4:00PM | Room: TBA | Dates: 23/08/2026 - 15/10/2026
+  • Lecture - 1688 | Status: CLOSED (0 seats) | Schedule: Monday Tuesday Wednesday Thursday Sunday 12:00PM to 2:00PM | Room: TBA | Dates: 23/08/2026 - 15/10/2026
+
+
+-----------------------------------------------------------------
+ SECTION 2: CATALOG COURSES NOT SCHEDULED THIS SEMESTER (625 COURSES)
+-----------------------------------------------------------------
+
+• [ACC 301] Intermediate Accounting I (CRSE_ID: 000159, Units: 3.00)
+• [ACC 302] Intermediate Accounting II (CRSE_ID: 000160, Units: 3.00)
+• [ACC 307] Accounting Information Systems (CRSE_ID: 000495, Units: 3.00)
+• [ACC 310] Financial Statement Analysis (CRSE_ID: 000161, Units: 3.00)
+• [ACC 415] Taxation (CRSE_ID: 000162, Units: 3.00)
+• [ACC 420] Advanced Financial Accounting (CRSE_ID: 000005, Units: 3.00)
+• [ACC 445] Upload II (CRSE_ID: 000008, Units: 3.00)
+• [ACC 445] Auditing and Assurance (CRSE_ID: 000009, Units: 3.00)
+• [ACC 450] Special Topics in Accounting (CRSE_ID: 000996, Units: 3.00)
+• [ANT 295] Practicum I (CRSE_ID: 000758, Units: 3.00)
+• [ANT 340L] Anesthesia Agents and Methods Lab (CRSE_ID: 000763, Units: 1.00)
+• [ANT 390] Postanesthetic and Pain Management (CRSE_ID: 000769, Units: 3.00)
+• [ANT 399] Practicum II (CRSE_ID: 000770, Units: 3.00)
+• [ANT 490] Practicum III (CRSE_ID: 000776, Units: 3.00)
+• [ANT 495] Practicum IV (CRSE_ID: 000778, Units: 3.00)
+• [ANT 496] Practicum V (CRSE_ID: 000780, Units: 3.00)
+• [ASP 100] Elementary Level Reading and Writing (CRSE_ID: 000333, Units: 0.00)
+• [ASP 101] Unknown Title (CRSE_ID: 000363, Units: 0.00)
+• [ASP 200] High Elementary Level (CRSE_ID: 000334, Units: 0.00)
+• [ASP 201] High Elementary Level Listening and Speaking (CRSE_ID: 000359, Units: 0.00)
+• [ASP 300] Low Intermediate Reading and Writing (CRSE_ID: 000335, Units: 0.00)
+• [ASP 301] Low Intermediate Listening and Speaking (CRSE_ID: 000360, Units: 0.00)
+• [ASP 301] Low Intermediate Listening and Speaking (CRSE_ID: 000364, Units: 0.00)
+• [ASP 301] Low Intermediate Listening and Speaking (CRSE_ID: 000365, Units: 0.00)
+• [ASP 302] Low Intermediate Listening and Speaking (CRSE_ID: 000366, Units: 0.00)
+• [ASP 400] High Intermediate Reading and Writing (CRSE_ID: 000336, Units: 0.00)
+• [ASP 401] High Intermediate Listening and Speaking (CRSE_ID: 000361, Units: 0.00)
+• [ASP 500] Low Advanced Reading and Writing (CRSE_ID: 000337, Units: 0.00)
+• [ASP 501] Low Advanced Listening and Speaking (CRSE_ID: 000362, Units: 0.00)
+• [ASP 601A] Unknown Title (CRSE_ID: 000371, Units: 0.00)
+• [ASP 700] Advanced - B (CRSE_ID: 000339, Units: 0.00)
+• [AST 340L] Anesthesia Agents and Methods Lab (CRSE_ID: 000762, Units: 1.00)
+• [AST 461L] Digital Dentistry II Laboratory (CRSE_ID: 000819, Units: 1.00)
+• [ATH 101] Introduction to Cultural Anthr (CRSE_ID: 000075, Units: 3.00)
+• [ATH 201] Introduction to Biology Archae (CRSE_ID: 000079, Units: 3.00)
+• [ATH 211] Introduction to Biological Ant (CRSE_ID: 000081, Units: 3.00)
+• [ATH 301] Field Studies and Research Met (CRSE_ID: 000084, Units: 3.00)
+• [ATH 398] Unknown Title (CRSE_ID: 000093, Units: 3.00)
+• [ATH 450] Senior Capston Seminar (CRSE_ID: 000065, Units: 3.00)
+• [BDS 105] Medical Physics for Health Professions (CRSE_ID: 000405, Units: 3.00)
+• [BDS 250] Unknown Title (CRSE_ID: 000507, Units: 3.00)
+• [BDS 501] Final Project and Final Comprehensive Exam (CRSE_ID: 001067, Units: 2.00)
+• [BDS 502] Ethics in Dentistry (CRSE_ID: 000852, Units: 1.00)
+• [BDS 504] Geriatric Dentistry (CRSE_ID: 000853, Units: 1.00)
+• [BDS 560C] Comprehensive Care and General Dentistry V (CRSE_ID: 001066, Units: 1.00)
+• [BDS 595C] Clinical Orthodontics I (CRSE_ID: 000849, Units: 1.00)
+• [BDS 597C] Clinical Orthodontics II (CRSE_ID: 000863, Units: 1.00)
+• [BDT 210] Dental Material for Dental Technology I (CRSE_ID: 000601, Units: 2.00)
+• [BDT 210L] Dental Material for Dental Technology Laboratory (CRSE_ID: 000602, Units: 2.00)
+• [BDT 320] Fixed Prosthodontics (CRSE_ID: 000786, Units: 3.00)
+• [BDT 320L] Fixed Prosthodontics I Lab (CRSE_ID: 000787, Units: 2.00)
+• [BDT 330] Removable Partial Prosthodontics I (CRSE_ID: 000789, Units: 2.00)
+• [BDT 330L] Removable Partial Prosthodontics I Laboratory (CRSE_ID: 000784, Units: 2.00)
+• [BDT 331L] Removable Prosthodontics II Laboratory (CRSE_ID: 000801, Units: 1.00)
+• [BDT 340] Complete Denture Prosthodontics I (CRSE_ID: 000791, Units: 2.00)
+• [BDT 350] Dental Ceramics (CRSE_ID: 000785, Units: 1.00)
+• [BDT 420L] Fixed Prosthodontics III Laboratory (CRSE_ID: 000810, Units: 2.00)
+• [BDT 430L] Removable Prosthodontics II Laboratory (CRSE_ID: 000812, Units: 1.00)
+• [BDT 460L] Digital Dentistry I Laboratory (CRSE_ID: 000808, Units: 2.00)
+• [BDT 470L] Ortho/Pedodontics Appliances II laboratory (CRSE_ID: 000814, Units: 1.00)
+• [BDT 490] Practicum I (CRSE_ID: 000807, Units: 3.00)
+• [BDT 491] Practicum II (CRSE_ID: 000821, Units: 3.00)
+• [BDT 496] Anterior Esthetics and Smile Design (CRSE_ID: 000809, Units: 2.00)
+• [BDT 497L] CAD/CAM lab (CRSE_ID: 000820, Units: 2.00)
+• [BIO 100] Unknown Title (CRSE_ID: 000069, Units: 3.00)
+• [BIO 101A] Introduction to Biology I Laboratory (CRSE_ID: 000343, Units: 1.00)
+• [BIO 101L] Introductory Biology Lab (CRSE_ID: 000434, Units: 1.00)
+• [BIO 102] Biology II (CRSE_ID: 000097, Units: 4.00)
+• [BIO 201] Biology II with Lab (CRSE_ID: 000344, Units: 2.00)
+• [BIO 201A] Biology II Laboratory (CRSE_ID: 000345, Units: 1.00)
+• [BIO 215] Human Physiology (CRSE_ID: 000892, Units: 3.00)
+• [BIO 219L] Medical Microbiology (CRSE_ID: 000558, Units: 1.00)
+• [BIO 220L] General Histology Lab (CRSE_ID: 000468, Units: 1.00)
+• [BIO 222] Human Physiology II (CRSE_ID: 000099, Units: 4.00)
+• [BIO 321] Bioinformatics (CRSE_ID: 000893, Units: 3.00)
+• [BIO 322] Economic Botany (CRSE_ID: 000894, Units: 3.00)
+• [BIO 350] Junior Seminar (CRSE_ID: 000100, Units: 4.00)
+• [BIO 420] Microbiology (CRSE_ID: 000889, Units: 4.00)
+• [BIO 421] Cell and Molecular Biology (CRSE_ID: 000663, Units: 4.00)
+• [BIO 422] Ecology (CRSE_ID: 000890, Units: 4.00)
+• [BIO 432] Plant Physiology (CRSE_ID: 000895, Units: 4.00)
+• [BIO 450] Senior Capston Seminar (CRSE_ID: 000104, Units: 4.00)
+• [BIO 451] Biotechnology (CRSE_ID: 000896, Units: 3.00)
+• [BIO 452] Natural Resource Conservation (CRSE_ID: 000897, Units: 3.00)
+• [BIO 460] Selected Topics in Biology (CRSE_ID: 000898, Units: 3.00)
+• [BIO 480] Senior Seminar in Biology (CRSE_ID: 000899, Units: 2.00)
+• [BIO 485] Internship in Biology (CRSE_ID: 000629, Units: 2.00)
+• [BUS 215] Business Law (CRSE_ID: 000516, Units: 3.00)
+• [BUS 250] Business Statistics (CRSE_ID: 000011, Units: 3.00)
+• [BUS 375] Internship (CRSE_ID: 000486, Units: 3.00)
+• [BUS 475] Undergraduate Internship in Bu (CRSE_ID: 000015, Units: 1.00)
+• [CHE 121] Organic Chemistry I (CRSE_ID: 000112, Units: 3.00)
+• [CHE 122] Organic Chemistry II (CRSE_ID: 000114, Units: 3.00)
+• [CHE 210L] Organic Chemistry for Health Sciences Lab (CRSE_ID: 000469, Units: 1.00)
+• [CHE 215] Biochemistry for Health Care Technology (CRSE_ID: 000560, Units: 3.00)
+• [CHE 221] Analytical Chemistry (CRSE_ID: 000728, Units: 3.00)
+• [CHE 221L] Analytical Chemistry Lab (CRSE_ID: 000745, Units: 1.00)
+• [CHE 225] Biochemistry (CRSE_ID: 000730, Units: 3.00)
+• [CHE 225L] Biochemistry Lab (CRSE_ID: 000900, Units: 1.00)
+• [CHE 241] Physical Chemistry I (CRSE_ID: 000731, Units: 3.00)
+• [CHE 322] Instrumental Analysis (CRSE_ID: 000734, Units: 3.00)
+• [CHE 322L] Instrumental Analysis Lab (CRSE_ID: 000735, Units: 1.00)
+• [CHE 331] Basic Concepts of Inorganic Chemistry I (CRSE_ID: 000736, Units: 3.00)
+• [CHE 341L] Physical Chemistry II Lab (CRSE_ID: 000738, Units: 1.00)
+• [CHE 352] Industrial Training (CRSE_ID: 000739, Units: 3.00)
+• [CHE 412] Chemistry of Natural Products (CRSE_ID: 000740, Units: 3.00)
+• [CHE 420] Electrochemistry (CRSE_ID: 000741, Units: 3.00)
+• [CHE 429] Forensic Chemistry (CRSE_ID: 000742, Units: 3.00)
+• [CHE 451] Polymer Chemistry (CRSE_ID: 000139, Units: 3.00)
+• [CHE 454] Environmental Chemistry (CRSE_ID: 000903, Units: 3.00)
+• [CHE 480] Senior Seminar in Chemistry (CRSE_ID: 000743, Units: 2.00)
+• [CHE 490] Chemistry Senior Project (CRSE_ID: 000744, Units: 3.00)
+• [CIS 101] Introduction to Computer Science (CRSE_ID: 001011, Units: 3.00)
+• [CIS 191] Global Climate Change (CRSE_ID: 000514, Units: 0.00)
+• [CIS 201] Fundamentals of Computing (CRSE_ID: 000195, Units: 3.00)
+• [CIS 301] Theory of Computing (CRSE_ID: 000196, Units: 3.00)
+• [CIS 302] Computer Architectur (CRSE_ID: 000200, Units: 3.00)
+• [CIS 311] Analysis and Design of Algorit (CRSE_ID: 000197, Units: 4.00)
+• [CIS 312] Data Structures and Algorithms (CRSE_ID: 000201, Units: 4.00)
+• [CIS 321] Communications Networks (CRSE_ID: 000199, Units: 3.00)
+• [CIS 399] Internship/Instructional Train (CRSE_ID: 000208, Units: 3.00)
+• [CIS 411] Electronics I (CRSE_ID: 000205, Units: 4.00)
+• [CIS 412] Electronics II (CRSE_ID: 000209, Units: 4.00)
+• [COM 102] International and Intercultura (CRSE_ID: 000177, Units: 3.00)
+• [COM 105] Public Speaking (CRSE_ID: 000178, Units: 3.00)
+• [COM 201] Introduction to Visual Communi (CRSE_ID: 000179, Units: 3.00)
+• [COM 211] Media Ethics orCOM 212: Media (CRSE_ID: 000180, Units: 3.00)
+• [COM 212] Media Ethics and the Law (CRSE_ID: 000181, Units: 3.00)
+• [COM 345] Unknown Title (CRSE_ID: 000184, Units: 3.00)
+• [COM 450] Senior Capstone Seminar (CRSE_ID: 000192, Units: 3.00)
+• [CSC 232] Unknown Title (CRSE_ID: 000545, Units: 3.00)
+• [CSC 233] Python Programming (CRSE_ID: 000442, Units: 3.00)
+• [CSC 235] Unknown Title (CRSE_ID: 000440, Units: 3.00)
+• [CSC 310] Web Programming (CRSE_ID: 000489, Units: 3.00)
+• [CSC 312] Unknown Title (CRSE_ID: 000950, Units: 3.00)
+• [CSC 313] Introduction to Artificial Intelligence (CRSE_ID: 000543, Units: 3.00)
+• [CSC 333] Machine Learning (CRSE_ID: 000542, Units: 3.00)
+• [CSC 334] Introduction to Computational Intelligence (CRSE_ID: 000951, Units: 3.00)
+• [CSC 335] Pattern Recognition (CRSE_ID: 000952, Units: 3.00)
+• [CSC 336] Data Mining (CRSE_ID: 000953, Units: 3.00)
+• [CSC 337] Software Engineering (CRSE_ID: 000426, Units: 3.00)
+• [CSC 344] Statistical Methods for Data Scientists (CRSE_ID: 000541, Units: 3.00)
+• [CSC 345] Introduction to Database (CRSE_ID: 000418, Units: 3.00)
+• [CSC 348] Scalable Data Systems (CRSE_ID: 000954, Units: 3.00)
+• [CSC 364] Computer Architecture (CRSE_ID: 000582, Units: 3.00)
+• [CSC 390] Internship I in Computer Science (CRSE_ID: 000483, Units: 3.00)
+• [CSC 391] Internship II in Computer Science (CRSE_ID: 000540, Units: 3.00)
+• [CSC 391] Internship II in Computer Science (CRSE_ID: 000626, Units: 3.00)
+• [CSC 422] Digital Image Processing (CRSE_ID: 000583, Units: 3.00)
+• [CSC 444] Computer Vision (CRSE_ID: 000955, Units: 3.00)
+• [CSC 445] Introduction to Computer Networks (CRSE_ID: 000443, Units: 3.00)
+• [CSC 446] Introduction to Bioinformatics (CRSE_ID: 000956, Units: 3.00)
+• [CSC 447] Computational Method in Bioinformatics (CRSE_ID: 000957, Units: 3.00)
+• [CSC 450] Fundamentals of Operating Systems (CRSE_ID: 000676, Units: 3.00)
+• [CSC 454] Deep Learning (CRSE_ID: 000958, Units: 3.00)
+• [CSC 465] Parallel and Distributed Computing (CRSE_ID: 000959, Units: 3.00)
+• [ECO 222] Introduction to Microeconomics (CRSE_ID: 000017, Units: 3.00)
+• [ECO 310] Managerial Microeconomics (CRSE_ID: 000018, Units: 3.00)
+• [ECO 320] Managerial Macroeconomics (CRSE_ID: 000019, Units: 3.00)
+• [ECO 330] Introductory Econometrics (CRSE_ID: 000020, Units: 3.00)
+• [ECO 410] Industrial Organization and Co (CRSE_ID: 000021, Units: 3.00)
+• [ECO 420] Labor Economics and Human Reso (CRSE_ID: 000022, Units: 3.00)
+• [ECO 430] Money and Banking (CRSE_ID: 000023, Units: 3.00)
+• [ECO 440] International Trade and Invest (CRSE_ID: 000024, Units: 3.00)
+• [ECO 460] Economic Development and Growt (CRSE_ID: 000025, Units: 3.00)
+• [EEE 221] Circuits I (CRSE_ID: 001080, Units: 3.00)
+• [EEE 221L] Circuits I Laboratory (CRSE_ID: 001081, Units: 1.00)
+• [EME 231] Engineering Statics (CRSE_ID: 001084, Units: 3.00)
+• [EME 233] Mechanics of Materials (CRSE_ID: 001089, Units: 3.00)
+• [EME 241] Materials Science for Engineers (CRSE_ID: 001086, Units: 3.00)
+• [EME 351] Thermodynamics (CRSE_ID: 001087, Units: 3.00)
+• [ENG 150] Introduction to Artificial Intelligence for Engineers (CRSE_ID: 001078, Units: 3.00)
+• [ENG 201] Sophomore Design (CRSE_ID: 001085, Units: 3.00)
+• [ENL 213] Social and News Media Literature (CRSE_ID: 001010, Units: 3.00)
+• [ENL 214] Translation Techniques (CRSE_ID: 000613, Units: 3.00)
+• [ENL 321] Vocabulary Enhancement (CRSE_ID: 000527, Units: 3.00)
+• [ENL 332] Sociolinguistics and Language Registers (CRSE_ID: 001060, Units: 3.00)
+• [ENT 310] Foundations of Entrepreneurship I: Business Discovery and Assessment (CRSE_ID: 000036, Units: 3.00)
+• [ENT 325] Innovation and Entrepreneurship (CRSE_ID: 000568, Units: 3.00)
+• [ENT 370] Entrepreneurial Marketing (CRSE_ID: 000038, Units: 3.00)
+• [ENT 420] Entrepreneurial Finance (CRSE_ID: 000039, Units: 3.00)
+• [ENT 422] Entrepreneurship (CRSE_ID: 000034, Units: 3.00)
+• [ENT 430] Business Growth and Renewal St (CRSE_ID: 000040, Units: 3.00)
+• [ENT 440] Entrepreneurship Throughout (CRSE_ID: 000041, Units: 3.00)
+• [ENT 450] Special Topics in Entrepreneurship (CRSE_ID: 000644, Units: 3.00)
+• [ENT 460] Managing A Growing Business (CRSE_ID: 000042, Units: 3.00)
+• [ENT 470] Entrepreneurship Field Seminar (CRSE_ID: 000569, Units: 3.00)
+• [ENV 121] Environmental Science I (CRSE_ID: 000119, Units: 3.00)
+• [ENV 122] Environmental Science II (CRSE_ID: 000120, Units: 3.00)
+• [ENV 201] Introduction to Environmental Science (CRSE_ID: 000068, Units: 3.00)
+• [ENV 251] Introduction to Environmental (CRSE_ID: 000121, Units: 3.00)
+• [ENV 398] Field Work or Internship (CRSE_ID: 000127, Units: 3.00)
+• [ENV 450] Senior Capston Seminar (CRSE_ID: 000125, Units: 3.00)
+• [ERG 310] Introduction to Energy Managem (CRSE_ID: 000026, Units: 3.00)
+• [ERG 360] Introduction to the Exploratio (CRSE_ID: 000027, Units: 3.00)
+• [ERG 370] Energy Law I (CRSE_ID: 000028, Units: 3.00)
+• [ERG 410] Unknown Title (CRSE_ID: 000029, Units: 3.00)
+• [ERG 420] Energy Policy, Legislation, an (CRSE_ID: 000030, Units: 3.00)
+• [ERG 430] Energy Systems Operation (CRSE_ID: 000031, Units: 3.00)
+• [ERG 440] Energy Futures and Transitions (CRSE_ID: 000032, Units: 3.00)
+• [ERG 460] Energy Strategy Capstone Proje (CRSE_ID: 000033, Units: 3.00)
+• [FIN 101] Finance for non-Business Students (CRSE_ID: 000503, Units: 3.00)
+• [FIN 301] Financial Management (CRSE_ID: 000043, Units: 3.00)
+• [FIN 302] Islamic Finance (CRSE_ID: 000504, Units: 3.00)
+• [FIN 310] Unknown Title (CRSE_ID: 000044, Units: 3.00)
+• [FIN 312] Commercial Bank Management (CRSE_ID: 000045, Units: 3.00)
+• [FIN 315] Principles of Investments (CRSE_ID: 000570, Units: 3.00)
+• [FIN 400] Principles of Investments (CRSE_ID: 000046, Units: 3.00)
+• [FIN 404] Advanced Financial Management (CRSE_ID: 000047, Units: 3.00)
+• [FIN 420] Unknown Title (CRSE_ID: 000048, Units: 3.00)
+• [FIN 440] Unknown Title (CRSE_ID: 000050, Units: 3.00)
+• [FIN 471] International Business Finance (CRSE_ID: 000051, Units: 3.00)
+• [GAC 110] Introduction to Political Scie (CRSE_ID: 000255, Units: 3.00)
+• [GAC 230] World Politics and Global Prob (CRSE_ID: 000256, Units: 3.00)
+• [GAC 330] International Law and Organiza (CRSE_ID: 000257, Units: 3.00)
+• [GEO 101] Introduction to Geography (CRSE_ID: 000128, Units: 3.00)
+• [GIR 440] Middle East Politics (CRSE_ID: 000258, Units: 3.00)
+• [GIR 470] Politics and Development Semin (CRSE_ID: 000259, Units: 3.00)
+• [HCT 210] Basic Life Support (CRSE_ID: 000970, Units: 0.00)
+• [HCT 310] AI in Healthcare (CRSE_ID: 001091, Units: 3.00)
+• [HCT 481] Health Informatics (CRSE_ID: 000967, Units: 3.00)
+• [HCT 483] Introduction to Clinical Research (CRSE_ID: 000969, Units: 3.00)
+• [HCT 484] Public Health Practice (CRSE_ID: 001032, Units: 3.00)
+• [HCT 486] Leadership in Vision Sciences and Optometry (CRSE_ID: 000971, Units: 3.00)
+• [HCT 486] AI in Healthcare (CRSE_ID: 001092, Units: 3.00)
+• [HCT 490] Biostatistics and Epidemiology (CRSE_ID: 000972, Units: 3.00)
+• [HIS 201] The Civilizations and History (CRSE_ID: 000082, Units: 3.00)
+• [HIS 201] Civilizations II or HIS 202: I (CRSE_ID: 000115, Units: 3.00)
+• [HIS 301] Unknown Title (CRSE_ID: 000143, Units: 3.00)
+• [HIS 311] Unknown Title (CRSE_ID: 000146, Units: 3.00)
+• [HIS 321] Unknown Title (CRSE_ID: 000148, Units: 3.00)
+• [HIS 331] Unknown Title (CRSE_ID: 000144, Units: 3.00)
+• [HIS 331] Unknown Title (CRSE_ID: 000147, Units: 3.00)
+• [HIS 341] Eastern Civilizations and History (CRSE_ID: 000451, Units: 3.00)
+• [HIS 350] Main Currents in Global History (CRSE_ID: 000145, Units: 3.00)
+• [HIS 401] Unknown Title (CRSE_ID: 000150, Units: 3.00)
+• [HIS 411] Unknown Title (CRSE_ID: 000152, Units: 3.00)
+• [HIS 421] Unknown Title (CRSE_ID: 000155, Units: 3.00)
+• [HIS 431] Unknown Title (CRSE_ID: 000156, Units: 3.00)
+• [HIS 450] Senior Capston Seminar (CRSE_ID: 000151, Units: 3.00)
+• [HOS 101] Introduction to The Hospitalit (CRSE_ID: 000061, Units: 3.00)
+• [HOS 320] Food Production and Safety (CRSE_ID: 000062, Units: 3.00)
+• [HOS 330] Customer Service Management (CRSE_ID: 000063, Units: 3.00)
+• [HOS 335] Hospitality Internship I (CRSE_ID: 000064, Units: 3.00)
+• [HOS 410] Food and Beverage Cost Control (CRSE_ID: 000035, Units: 3.00)
+• [HOS 420] Resort Management (CRSE_ID: 000261, Units: 3.00)
+• [HOS 430] Tourism (CRSE_ID: 000262, Units: 3.00)
+• [HOS 435] Hospitality Internship II (CRSE_ID: 000268, Units: 3.00)
+• [HOS 440] Food and Beverage Management (CRSE_ID: 000263, Units: 3.00)
+• [HOS 450] Special Topics in Global Busin (CRSE_ID: 000264, Units: 3.00)
+• [HOS 455] Hospitality Lodging Operations (CRSE_ID: 000265, Units: 3.00)
+• [HOS 460] Tourism Development (CRSE_ID: 000266, Units: 3.00)
+• [HOS 475] Hospitality Internship II (CRSE_ID: 000267, Units: 1.00)
+• [LAW 105] Unknown Title (CRSE_ID: 000429, Units: 3.00)
+• [LAW 221L] Analytical Chemistry Lab (CRSE_ID: 000729, Units: 1.00)
+• [LAW 280P] Unknown Title (CRSE_ID: 000697, Units: 0.00)
+• [LAW 300] Legal Internship (CRSE_ID: 000693, Units: 1.00)
+• [LAW 320] Personal Status Law: Law of Inheritance (CRSE_ID: 000605, Units: 3.00)
+• [LAW 331] Civil Procedure: Evidence, Execution, and Bar Association Law (CRSE_ID: 000913, Units: 3.00)
+• [LAW 334] AJ — Administrative Judiciary (CRSE_ID: 000567, Units: 3.00)
+• [LAW 340] Administrative Judiciary (CRSE_ID: 000726, Units: 3.00)
+• [LAW 354] Penal Code: Specific Crimes and Cybersecurity (CRSE_ID: 000686, Units: 3.00)
+• [LAW 390P] Public International law - Problem-Solving (CRSE_ID: 000696, Units: 0.00)
+• [LAW 400] Labor Law and Social Security (CRSE_ID: 000914, Units: 3.00)
+• [LAW 422] Islamic Jurisprudence (CRSE_ID: 000919, Units: 3.00)
+• [LAW 431] Civil Law: Real Rights and Ancillary (CRSE_ID: 000915, Units: 3.00)
+• [LAW 456] Criminal Investigation and Forensic (CRSE_ID: 000910, Units: 3.00)
+• [LAW 460] Practicum (CRSE_ID: 000918, Units: 1.00)
+• [LIT 201] Introduction to Literary Analysis (CRSE_ID: 000211, Units: 3.00)
+• [LIT 220] British Literature Survey I (CRSE_ID: 000455, Units: 3.00)
+• [LIT 222] British Literature Survey II (CRSE_ID: 000214, Units: 3.00)
+• [LIT 231] American Literature Survey I (CRSE_ID: 000213, Units: 3.00)
+• [LIT 232] American Survey II (CRSE_ID: 000215, Units: 3.00)
+• [LIT 240] British Literature Survey II (CRSE_ID: 000487, Units: 3.00)
+• [LIT 241] American Literature Survey II (CRSE_ID: 000226, Units: 3.00)
+• [LIT 242] World Literature Survey III (CRSE_ID: 000227, Units: 3.00)
+• [LIT 311] Unknown Title (CRSE_ID: 000218, Units: 3.00)
+• [LIT 320] Shakespeare (CRSE_ID: 000572, Units: 3.00)
+• [LIT 321] Unknown Title (CRSE_ID: 000220, Units: 3.00)
+• [LIT 330] Modernism and Postmodernism, The Literature of (CRSE_ID: 000573, Units: 3.00)
+• [LIT 331] Unknown Title (CRSE_ID: 000221, Units: 3.00)
+• [LIT 333] Modern Fantasy Works (CRSE_ID: 000574, Units: 3.00)
+• [LIT 389] Unknown Title (CRSE_ID: 000624, Units: 3.00)
+• [LIT 390] Internship Experience (CRSE_ID: 000625, Units: 3.00)
+• [LIT 410] Advanced Literary Theory (CRSE_ID: 000961, Units: 3.00)
+• [LIT 421] Responses to the Land: Histories and Literatures of the Environment (CRSE_ID: 000672, Units: 3.00)
+• [LIT 431] Unknown Title (CRSE_ID: 000963, Units: 3.00)
+• [LIT 433] Persian Literature (CRSE_ID: 000962, Units: 3.00)
+• [LIT 450] Senior Capstone Seminar (CRSE_ID: 000223, Units: 3.00)
+• [LIT 451] American Woman Poets (CRSE_ID: 000965, Units: 3.00)
+• [LIT 498] Independent Study I (CRSE_ID: 000673, Units: 3.00)
+• [LIT 499] Independent Study II (CRSE_ID: 001006, Units: 3.00)
+• [MAT 130] Linear Algebra (CRSE_ID: 000456, Units: 3.00)
+• [MAT 201] Math II (CRSE_ID: 000341, Units: 3.00)
+• [MAT 220] Ordinary Differential Equations (CRSE_ID: 000490, Units: 3.00)
+• [MGT 312] Managerial Leadership (CRSE_ID: 000286, Units: 3.00)
+• [MGT 313] Small Business Management (CRSE_ID: 000287, Units: 3.00)
+• [MGT 315] Operations Management (CRSE_ID: 000685, Units: 3.00)
+• [MGT 316] Business and Society (CRSE_ID: 000288, Units: 3.00)
+• [MGT 330] Total Quality Management (CRSE_ID: 000454, Units: 3.00)
+• [MGT 342] Human Resource Management (CRSE_ID: 000289, Units: 3.00)
+• [MGT 350] Corporate Strategy (CRSE_ID: 000290, Units: 3.00)
+• [MGT 401] International Business Managem (CRSE_ID: 000291, Units: 3.00)
+• [MGT 402] International Business Managem (CRSE_ID: 000292, Units: 3.00)
+• [MGT 410] Corporate Strategy (CRSE_ID: 000293, Units: 3.00)
+• [MGT 422] Entrepreneurship (CRSE_ID: 000294, Units: 3.00)
+• [MGT 429] Organizational Behavior (CRSE_ID: 000296, Units: 3.00)
+• [MIS 201] Fundamentals of Databases (CRSE_ID: 000309, Units: 3.00)
+• [MIS 202] Web Application and Developmen (CRSE_ID: 000310, Units: 3.00)
+• [MIS 215] Business Data Communications and Networking (CRSE_ID: 000753, Units: 3.00)
+• [MIS 307] Business Application Developme (CRSE_ID: 000312, Units: 3.00)
+• [MIS 315] Business Data Communications a (CRSE_ID: 000313, Units: 3.00)
+• [MIS 320] E Business Management and Web (CRSE_ID: 000314, Units: 3.00)
+• [MIS 401] Advanced Web Application Devel (CRSE_ID: 000315, Units: 3.00)
+• [MIS 402] E-Business Management and Web Analytics (CRSE_ID: 000571, Units: 3.00)
+• [MIS 405] Decision Support Systems (CRSE_ID: 000316, Units: 3.00)
+• [MIS 407] Enterprise Resource Management (CRSE_ID: 000317, Units: 3.00)
+• [MIS 410] Advanced Databases (CRSE_ID: 000318, Units: 3.00)
+• [MIS 420] MIS Security and Risk Manageme (CRSE_ID: 000319, Units: 3.00)
+• [MIS 430] Business Analytics (CRSE_ID: 000320, Units: 3.00)
+• [MIS 440] MIS Project Management (CRSE_ID: 000321, Units: 3.00)
+• [MIS 490] MIS Project Management (CRSE_ID: 000681, Units: 3.00)
+• [MIS 495] Senior Project I (CRSE_ID: 000322, Units: 3.00)
+• [MKT 201] Principles of Marketing (CRSE_ID: 000297, Units: 3.00)
+• [MKT 316] Principles of Merchandising (CRSE_ID: 000298, Units: 3.00)
+• [MKT 326] Marketing Research (CRSE_ID: 000299, Units: 3.00)
+• [MKT 334] Advertising and Promotional St (CRSE_ID: 000300, Units: 3.00)
+• [MKT 422] International Marketing (CRSE_ID: 000301, Units: 3.00)
+• [MKT 427] Personal Selling and Sales Man (CRSE_ID: 000302, Units: 3.00)
+• [MKT 440] Brand Management (CRSE_ID: 000306, Units: 3.00)
+• [MKT 450] Special Topics in Marketing (CRSE_ID: 000307, Units: 3.00)
+• [OPM 300] Critical Issues in Business Op (CRSE_ID: 000323, Units: 3.00)
+• [OPM 370] Business Modeling and Optimiza (CRSE_ID: 000324, Units: 3.00)
+• [OPM 380] Service Management (CRSE_ID: 000325, Units: 3.00)
+• [OPM 390] Logistics Management (CRSE_ID: 000326, Units: 3.00)
+• [OPM 450] Special Topics in MIS (CRSE_ID: 000327, Units: 3.00)
+• [OPM 470] Global Supply Chain Management (CRSE_ID: 000328, Units: 3.00)
+• [OPM 480] Business Project Management (CRSE_ID: 000329, Units: 3.00)
+• [OPM 490] Operations Strategy (CRSE_ID: 000330, Units: 3.00)
+• [OPM 495] OM Best Practices (CRSE_ID: 000331, Units: 3.00)
+• [OVS 101] Ocular Anatomy (CRSE_ID: 000534, Units: 3.00)
+• [OVS 101L] Ocular Anatomy Lab (CRSE_ID: 000535, Units: 1.00)
+• [OVS 110] Introduction to Physical optics (CRSE_ID: 000536, Units: 3.00)
+• [OVS 115] Clinical Optometry and Refraction 1 (CRSE_ID: 000597, Units: 2.00)
+• [OVS 115L] Clinical Optometry and Refraction Laboratory I (CRSE_ID: 000598, Units: 1.00)
+• [OVS 150] Geometrical and Visual Optics (CRSE_ID: 000981, Units: 3.00)
+• [OVS 150L] Geometrical and Visual Optics Laboratory (CRSE_ID: 000983, Units: 1.00)
+• [OVS 170] Ocular and Visual Physiology (CRSE_ID: 000985, Units: 3.00)
+• [OVS 201] Introduction to Clinical Optometry (CRSE_ID: 000980, Units: 3.00)
+• [OVS 201L] Introduction to Clinical Optometry Laboratory (CRSE_ID: 000984, Units: 1.00)
+• [OVS 210] Unknown Title (CRSE_ID: 000637, Units: 3.00)
+• [OVS 210L] Unknown Title (CRSE_ID: 000638, Units: 1.00)
+• [OVS 211] Ocular Physiology (CRSE_ID: 000599, Units: 3.00)
+• [OVS 215] Clinical Optometry and Refraction II (CRSE_ID: 000635, Units: 3.00)
+• [OVS 215L] Clinical Optometry and Refraction II lab (CRSE_ID: 000636, Units: 1.00)
+• [OVS 220] Introduction to Soft Contact Lenses (CRSE_ID: 000832, Units: 3.00)
+• [OVS 220L] Introduction to Soft Contact Lenses Laboratory (CRSE_ID: 000833, Units: 1.00)
+• [OVS 251] Ocular Disease and Pathophysiology I (CRSE_ID: 000823, Units: 3.00)
+• [OVS 255] Visual perception and Color (CRSE_ID: 000825, Units: 2.00)
+• [OVS 261] Ocular Disease and Pathophysiology II (CRSE_ID: 000826, Units: 3.00)
+• [OVS 277] Clinical Optometry and Optical Devices I (CRSE_ID: 000639, Units: 3.00)
+• [OVS 277L] Unknown Title (CRSE_ID: 000640, Units: 1.00)
+• [OVS 280] Neuroanatomy and Neuro-ophthalmology (CRSE_ID: 000848, Units: 3.00)
+• [OVS 290] Introduction to Ocular Disease and Therapeutics (CRSE_ID: 000989, Units: 3.00)
+• [OVS 299] Practicum in Optical Dispensing (CRSE_ID: 001014, Units: 3.00)
+• [OVS 310] Ocular Disease and Pathophysiology III (CRSE_ID: 000828, Units: 3.00)
+• [OVS 311] Advanced Clinical Investigation (CRSE_ID: 000991, Units: 3.00)
+• [OVS 311L] Advanced Clinical Investigation Laboratory (CRSE_ID: 000992, Units: 1.00)
+• [OVS 312] Introduction to Ocular Pharmacology (CRSE_ID: 000829, Units: 3.00)
+• [OVS 315L] Clinical Optometry and Optical Devices in Optometry II Laboratory (CRSE_ID: 000830, Units: 1.00)
+• [OVS 330L] Dispensing and Edging Laboratory (CRSE_ID: 000840, Units: 2.00)
+• [OVS 340] Low Vision (CRSE_ID: 000837, Units: 2.00)
+• [OVS 385] Glaucoma (CRSE_ID: 000838, Units: 2.00)
+• [OVS 388] Clinical Decision making in Optometry (CRSE_ID: 000843, Units: 2.00)
+• [OVS 390] Practicum I (CRSE_ID: 000841, Units: 2.00)
+• [OVS 399] Practicum in Refraction and Contact Lens (CRSE_ID: 001019, Units: 3.00)
+• [OVS 410] Pediatric Optometry and Visual Development (CRSE_ID: 001020, Units: 2.00)
+• [OVS 420] Binocular Vision and Strabismus (CRSE_ID: 001021, Units: 2.00)
+• [OVS 420L] Pediatric Optometry and Binocular Vision Laboratory (CRSE_ID: 001022, Units: 1.00)
+• [OVS 470] Pediatric Optometry, Binocular Vision and Strabismus (CRSE_ID: 000845, Units: 3.00)
+• [OVS 495] Practicum II (CRSE_ID: 000842, Units: 3.00)
+• [OVS 498] Practicum in Ophthalmology Centers (CRSE_ID: 001025, Units: 3.00)
+• [OVS 499] Practicum III: Internship in Ophthalmology Centers (CRSE_ID: 000846, Units: 3.00)
+• [PHA 395] Unknown Title (CRSE_ID: 000627, Units: 3.00)
+• [PHA 495] Unknown Title (CRSE_ID: 000707, Units: 3.00)
+• [PHA 545] Unknown Title (CRSE_ID: 000708, Units: 6.00)
+• [PHA 570] Unknown Title (CRSE_ID: 001041, Units: 1.00)
+• [PHA 581] Clinical Nutrition and Diet Therapy (CRSE_ID: 000711, Units: 3.00)
+• [PHA 582] Dermatology and Cosmetology (CRSE_ID: 000712, Units: 3.00)
+• [PHA 583] Clinical and Pharmacy Management (CRSE_ID: 000713, Units: 3.00)
+• [PHA 584] Industrial pharmacy-I (CRSE_ID: 001043, Units: 3.00)
+• [PHA 595] Unknown Title (CRSE_ID: 000709, Units: 6.00)
+• [PHA 597] Graduation Project (CRSE_ID: 001042, Units: 1.00)
+• [PHI 201] Introduction to Logic (CRSE_ID: 000332, Units: 3.00)
+• [PHI 202] Introduction to Political Phil (CRSE_ID: 000163, Units: 3.00)
+• [PHI 203] Introduction to Religious Stud (CRSE_ID: 000164, Units: 3.00)
+• [PHI 212] Survey of Medieval/ Modern Phi (CRSE_ID: 000165, Units: 3.00)
+• [PHI 213] Survey of Islamic Philosophy (CRSE_ID: 000166, Units: 3.00)
+• [PHI 311] Unknown Title (CRSE_ID: 000167, Units: 3.00)
+• [PHI 332] Unknown Title (CRSE_ID: 000168, Units: 3.00)
+• [PHI 350] Junior Seminar (CRSE_ID: 000169, Units: 3.00)
+• [PHI 450] Senior Capstone Seminar (CRSE_ID: 000176, Units: 3.00)
+• [PHY 100] Conceptual Physics (CRSE_ID: 000508, Units: 3.00)
+• [PHY 103] Physics for the Life Sciences I (CRSE_ID: 000446, Units: 3.00)
+• [PHY 103L] Physics for the Life Sciences I Laboratory (CRSE_ID: 000447, Units: 1.00)
+• [PHY 107] Unknown Title (CRSE_ID: 001104, Units: 3.00)
+• [PHY 210] Physical Optics (CRSE_ID: 000904, Units: 3.00)
+• [PHY 211] Modern Physics (CRSE_ID: 000449, Units: 3.00)
+• [PHY 211L] Modern Physics Laboratory (CRSE_ID: 000450, Units: 1.00)
+• [PHY 212] Physics of Waves and Vibrations (CRSE_ID: 000511, Units: 3.00)
+• [PHY 221] Classical Mechanics (CRSE_ID: 000512, Units: 3.00)
+• [PHY 231] Electronics (CRSE_ID: 000579, Units: 3.00)
+• [PHY 241] Mathematical Methods for Physics (CRSE_ID: 000580, Units: 3.00)
+• [PHY 320L] Junior Physics Laboratory (CRSE_ID: 000680, Units: 2.00)
+• [PHY 331] Thermodynamics and Statistical Physics (CRSE_ID: 000581, Units: 3.00)
+• [PHY 350] Electromagnetic Theory I (CRSE_ID: 000678, Units: 3.00)
+• [PHY 352] Quantum Mechanics I (CRSE_ID: 000679, Units: 3.00)
+• [PHY 360] Advanced Physics Laboratory (CRSE_ID: 000943, Units: 3.00)
+• [PHY 361] Computational Physics (CRSE_ID: 000944, Units: 3.00)
+• [PHY 389] Internship in Physics (CRSE_ID: 000623, Units: 3.00)
+• [PHY 420] Introduction to Astrophysics (CRSE_ID: 000945, Units: 3.00)
+• [PHY 452] Quantum Mechanics II (CRSE_ID: 000946, Units: 3.00)
+• [PHY 470] Solid State Physics (CRSE_ID: 000947, Units: 3.00)
+• [PHY 499] Senior Project (CRSE_ID: 000948, Units: 3.00)
+• [POL 102] Globalization and World Politics (CRSE_ID: 001047, Units: 3.00)
+• [POL 111] Classical Political Thought (CRSE_ID: 000397, Units: 3.00)
+• [POL 112] Globalization and World Politics (CRSE_ID: 000396, Units: 3.00)
+• [POL 113] Middle East Politics (CRSE_ID: 000399, Units: 3.00)
+• [POL 214] Post-Colonialism (CRSE_ID: 000458, Units: 3.00)
+• [POL 219] Colloquium on Machiavelli (CRSE_ID: 000459, Units: 3.00)
+• [POL 253] Middle East and Iran (CRSE_ID: 001033, Units: 3.00)
+• [POL 263] Hungary: Socioeconomic History, etc (CRSE_ID: 000520, Units: 3.00)
+• [POL 265] Canadian Foreign and Defense Policy (CRSE_ID: 000521, Units: 3.00)
+• [POL 267] Latin American Politics (CRSE_ID: 000585, Units: 3.00)
+• [POL 268] Unknown Title (CRSE_ID: 000462, Units: 3.00)
+• [POL 270] Political Psychology (CRSE_ID: 001048, Units: 3.00)
+• [POL 272] Political Psychology (CRSE_ID: 000522, Units: 3.00)
+• [POL 285] International Human Rights (CRSE_ID: 000586, Units: 3.00)
+• [POL 295] Professional Development and Leadership Seminar (CRSE_ID: 000995, Units: 3.00)
+• [POL 307] Unknown Title (CRSE_ID: 000463, Units: 3.00)
+• [POL 311] Modern Political Thought (CRSE_ID: 000523, Units: 3.00)
+• [POL 312] International Relations: Theory and Practice (CRSE_ID: 000524, Units: 3.00)
+• [POL 342] Politics of the Indo-Pacific (CRSE_ID: 001035, Units: 3.00)
+• [POL 360] Quantitative Methods (CRSE_ID: 000979, Units: 3.00)
+• [POL 390] Unknown Title (CRSE_ID: 000465, Units: 3.00)
+• [POL 391] Seminar: Security and Democracy (CRSE_ID: 000466, Units: 3.00)
+• [POL 392] PPP Internship: Policy, Participation, Practice (CRSE_ID: 000464, Units: 3.00)
+• [POL 404] Professional Development Seminar (CRSE_ID: 000587, Units: 3.00)
+• [POL 405] Unknown Title (CRSE_ID: 000588, Units: 3.00)
+• [PSY 210] Lifespan Developmental Psychology (CRSE_ID: 000243, Units: 3.00)
+• [PSY 220] Biopsychology (CRSE_ID: 000242, Units: 3.00)
+• [PSY 226] Personality Psychology (CRSE_ID: 000494, Units: 3.00)
+• [PSY 230] Cognitive Psychology (CRSE_ID: 000491, Units: 3.00)
+• [PSY 240] Social Psychology (CRSE_ID: 000492, Units: 3.00)
+• [PSY 301] Research Methods in Psychology (CRSE_ID: 000247, Units: 3.00)
+• [PSY 310] Analysis of Psychological Data (CRSE_ID: 000575, Units: 3.00)
+• [PSY 320] Psychology of Learning (CRSE_ID: 000576, Units: 3.00)
+• [PSY 324] Sensation and Perception (CRSE_ID: 000714, Units: 3.00)
+• [PSY 330] Organizational Psychology (CRSE_ID: 000577, Units: 3.00)
+• [PSY 332] Health Psychology (CRSE_ID: 000715, Units: 3.00)
+• [PSY 345] Educational Psychology (CRSE_ID: 000665, Units: 3.00)
+• [PSY 350] Abnormal Psychology (CRSE_ID: 000248, Units: 3.00)
+• [PSY 360] Cognitive Science (CRSE_ID: 000699, Units: 3.00)
+• [PSY 370] Research Methods in Psychology II (CRSE_ID: 000717, Units: 3.00)
+• [PSY 390] Internship I in Psychology (CRSE_ID: 000630, Units: 3.00)
+• [PSY 420] Clinical psychology (CRSE_ID: 001045, Units: 3.00)
+• [PSY 431] Psychology of Gender (CRSE_ID: 000718, Units: 3.00)
+• [PSY 440] Special Topics in Psychology (CRSE_ID: 000719, Units: 3.00)
+• [PSY 450] Introduction to Trauma Studies (CRSE_ID: 000254, Units: 3.00)
+• [PSY 453] Counseling Psychology (CRSE_ID: 000720, Units: 3.00)
+• [PSY 455] Behavioral Neuroscience (CRSE_ID: 000721, Units: 3.00)
+• [PSY 460] Cognitive Neuroscience (CRSE_ID: 000722, Units: 3.00)
+• [PSY 465] Psychology and Technology (CRSE_ID: 001046, Units: 3.00)
+• [PSY 470] Seminar in Psychology (CRSE_ID: 000666, Units: 3.00)
+• [PSY 480] Internship II in Psychology (CRSE_ID: 000667, Units: 3.00)
+• [PSY 490] Independent Study I (CRSE_ID: 000668, Units: 3.00)
+• [PSY 491] Independent Study II (CRSE_ID: 000723, Units: 3.00)
+• [RAD 301] Medical Imaging Systems II (CRSE_ID: 000857, Units: 3.00)
+• [RAD 305] Imaging Procedures I (CRSE_ID: 000859, Units: 3.00)
+• [RAD 305L] Imaging Procedures I Laboratory (CRSE_ID: 000861, Units: 1.00)
+• [RAD 355] Imaging Procedures II (CRSE_ID: 000865, Units: 3.00)
+• [RAD 355L] Imaging Procedures II Laboratory (CRSE_ID: 000867, Units: 1.00)
+• [RAD 362] Clinical Best Practice (CRSE_ID: 000868, Units: 1.00)
+• [RAD 370] Computer Applications in Medical Imaging (CRSE_ID: 000870, Units: 3.00)
+• [RAD 390] Practicum I (CRSE_ID: 000873, Units: 3.00)
+• [RAD 405L] Imaging Procedures III Lab (CRSE_ID: 000883, Units: 1.00)
+• [RAD 420L] Radiology Quality Assurance Lab (CRSE_ID: 000877, Units: 1.00)
+• [RAD 430] Radiographic Anatomy and Pathology II (CRSE_ID: 000879, Units: 3.00)
+• [RAD 450] Practicum II (CRSE_ID: 000878, Units: 3.00)
+• [RAD 480] Radiology Information Systems (CRSE_ID: 000880, Units: 2.00)
+• [RAD 490] Practicum III (CRSE_ID: 000881, Units: 3.00)
+• [SOC 211] History of Social Theory (CRSE_ID: 000229, Units: 3.00)
+• [SOC 221] Statistics for Sociology (CRSE_ID: 000230, Units: 3.00)
+• [SOC 241] Unknown Title (CRSE_ID: 000231, Units: 3.00)
+• [SOC 301] Research Methods in Sociology (CRSE_ID: 000232, Units: 3.00)
+• [SOC 302] Field/Ethnographic Studies (CRSE_ID: 000233, Units: 3.00)
+• [SOC 311] Unknown Title (CRSE_ID: 000234, Units: 3.00)
+• [SOC 321] Unknown Title (CRSE_ID: 000241, Units: 3.00)
+• [SOC 331] Unknown Title (CRSE_ID: 000236, Units: 3.00)
+• [SOC 351] Unknown Title (CRSE_ID: 000235, Units: 3.00)
+• [SOC 399] Internship/Field Work (CRSE_ID: 000237, Units: 3.00)
+• [SOC 450] Senior Capstone Seminar (CRSE_ID: 000239, Units: 3.00)
+• [TLD 100] Introduction to AUIB Educational Design and Studies (CRSE_ID: 000595, Units: 3.00)
+• [TLD 102] Unknown Title (CRSE_ID: 000594, Units: 3.00)
+• [TLD 105] Education Psychology (CRSE_ID: 000920, Units: 3.00)
+• [TLD 200] Systematic Inquiry and Action Research (CRSE_ID: 000905, Units: 4.00)
+• [TLD 202] Ecology of Schooling - Schools, Families and Community (CRSE_ID: 000906, Units: 3.00)
+• [TLD 203] Learning Out of School (CRSE_ID: 000973, Units: 3.00)
+• [TLD 204] Introduction to Reading (CRSE_ID: 000921, Units: 3.00)
+• [TLD 205] Introduction to Writing (CRSE_ID: 000924, Units: 3.00)
+• [TLD 206] Unknown Title (CRSE_ID: 000907, Units: 3.00)
+• [TLD 208] Unknown Title (CRSE_ID: 000908, Units: 3.00)
+• [TLD 304] Unknown Title (CRSE_ID: 000927, Units: 3.00)
+• [TLD 306] Math Reasoning and Methods (CRSE_ID: 000928, Units: 3.00)
+• [TLD 307] Science Reasoning and Methods (CRSE_ID: 000934, Units: 3.00)
+• [TLD 308] Learning and Design in Context (CRSE_ID: 000929, Units: 3.00)
+• [TLD 309] Unknown Title (CRSE_ID: 000974, Units: 3.00)
+• [TLD 310] Evidence-Based Decision Making (CRSE_ID: 000930, Units: 3.00)
+• [TLD 400] Multilingual Learners II (CRSE_ID: 000936, Units: 3.00)
+• [TLD 400] Multilingual Learners II (CRSE_ID: 000975, Units: 3.00)
+• [TLD 401] Capstone (CRSE_ID: 000976, Units: 1.00)
+• [TLD 402] Unknown Title (CRSE_ID: 000937, Units: 3.00)
+• [TLD 403] Practicum (CRSE_ID: 000942, Units: 14.00)
+• [TLD 404] Science Technology Engineering Arts and Math (CRSE_ID: 000938, Units: 3.00)
+• [TLD 406] Unknown Title (CRSE_ID: 000939, Units: 3.00)
+• [TLD 408] Reading II (CRSE_ID: 000940, Units: 3.00)
+• [TLD 410] Language and Thinking (CRSE_ID: 000941, Units: 3.00)
+• [UNI 101] University Experince (CRSE_ID: 000003, Units: 3.00)
+• [UNI 101] First Year University Experience (CRSE_ID: 000376, Units: 3.00)
+• [UNKNOWN_000085] Unknown Title (CRSE_ID: 000085, Units: 3.00)
+• [UNKNOWN_000087] Unknown Title (CRSE_ID: 000087, Units: 3.00)
+• [UNKNOWN_000088] Unknown Title (CRSE_ID: 000088, Units: 3.00)
+• [UNKNOWN_000089] Unknown Title (CRSE_ID: 000089, Units: 3.00)
+• [UNKNOWN_000090] Unknown Title (CRSE_ID: 000090, Units: 3.00)
+• [UNKNOWN_000091] Unknown Title (CRSE_ID: 000091, Units: 3.00)
+• [UNKNOWN_000092] Unknown Title (CRSE_ID: 000092, Units: 3.00)
+• [UNKNOWN_000094] Unknown Title (CRSE_ID: 000094, Units: 3.00)
+• [UNKNOWN_000095] Unknown Title (CRSE_ID: 000095, Units: 3.00)
+• [UNKNOWN_000101] Unknown Title (CRSE_ID: 000101, Units: 4.00)
+• [UNKNOWN_000102] Unknown Title (CRSE_ID: 000102, Units: 4.00)
+• [UNKNOWN_000103] Unknown Title (CRSE_ID: 000103, Units: 4.00)
+• [UNKNOWN_000105] Unknown Title (CRSE_ID: 000105, Units: 4.00)
+• [UNKNOWN_000106] Unknown Title (CRSE_ID: 000106, Units: 4.00)
+• [UNKNOWN_000113] Unknown Title (CRSE_ID: 000113, Units: 3.00)
+• [UNKNOWN_000118] Unknown Title (CRSE_ID: 000118, Units: 3.00)
+• [UNKNOWN_000123] Unknown Title (CRSE_ID: 000123, Units: 3.00)
+• [UNKNOWN_000124] Unknown Title (CRSE_ID: 000124, Units: 3.00)
+• [UNKNOWN_000126] Unknown Title (CRSE_ID: 000126, Units: 3.00)
+• [UNKNOWN_000129] Unknown Title (CRSE_ID: 000129, Units: 3.00)
+• [UNKNOWN_000131] Unknown Title (CRSE_ID: 000131, Units: 4.00)
+• [UNKNOWN_000132] Unknown Title (CRSE_ID: 000132, Units: 4.00)
+• [UNKNOWN_000133] Unknown Title (CRSE_ID: 000133, Units: 4.00)
+• [UNKNOWN_000134] Unknown Title (CRSE_ID: 000134, Units: 4.00)
+• [UNKNOWN_000135] Unknown Title (CRSE_ID: 000135, Units: 4.00)
+• [UNKNOWN_000136] Unknown Title (CRSE_ID: 000136, Units: 4.00)
+• [UNKNOWN_000137] Unknown Title (CRSE_ID: 000137, Units: 4.00)
+• [UNKNOWN_000138] Unknown Title (CRSE_ID: 000138, Units: 4.00)
+• [UNKNOWN_000140] Unknown Title (CRSE_ID: 000140, Units: 4.00)
+• [UNKNOWN_000141] Unknown Title (CRSE_ID: 000141, Units: 4.00)
+• [UNKNOWN_000149] Unknown Title (CRSE_ID: 000149, Units: 3.00)
+• [UNKNOWN_000153] Unknown Title (CRSE_ID: 000153, Units: 3.00)
+• [UNKNOWN_000154] Unknown Title (CRSE_ID: 000154, Units: 3.00)
+• [UNKNOWN_000170] Unknown Title (CRSE_ID: 000170, Units: 3.00)
+• [UNKNOWN_000171] Unknown Title (CRSE_ID: 000171, Units: 3.00)
+• [UNKNOWN_000172] Unknown Title (CRSE_ID: 000172, Units: 3.00)
+• [UNKNOWN_000173] Unknown Title (CRSE_ID: 000173, Units: 3.00)
+• [UNKNOWN_000174] Unknown Title (CRSE_ID: 000174, Units: 3.00)
+• [UNKNOWN_000175] Unknown Title (CRSE_ID: 000175, Units: 3.00)
+• [UNKNOWN_000182] Unknown Title (CRSE_ID: 000182, Units: 3.00)
+• [UNKNOWN_000183] Unknown Title (CRSE_ID: 000183, Units: 3.00)
+• [UNKNOWN_000185] Unknown Title (CRSE_ID: 000185, Units: 3.00)
+• [UNKNOWN_000186] Unknown Title (CRSE_ID: 000186, Units: 3.00)
+• [UNKNOWN_000187] Unknown Title (CRSE_ID: 000187, Units: 3.00)
+• [UNKNOWN_000188] Unknown Title (CRSE_ID: 000188, Units: 3.00)
+• [UNKNOWN_000189] Unknown Title (CRSE_ID: 000189, Units: 3.00)
+• [UNKNOWN_000190] Unknown Title (CRSE_ID: 000190, Units: 3.00)
+• [UNKNOWN_000191] Unknown Title (CRSE_ID: 000191, Units: 3.00)
+• [UNKNOWN_000193] Unknown Title (CRSE_ID: 000193, Units: 3.00)
+• [UNKNOWN_000194] Unknown Title (CRSE_ID: 000194, Units: 3.00)
+• [UNKNOWN_000198] Unknown Title (CRSE_ID: 000198, Units: 4.00)
+• [UNKNOWN_000202] Unknown Title (CRSE_ID: 000202, Units: 4.00)
+• [UNKNOWN_000203] Unknown Title (CRSE_ID: 000203, Units: 4.00)
+• [UNKNOWN_000204] Unknown Title (CRSE_ID: 000204, Units: 4.00)
+• [UNKNOWN_000206] Unknown Title (CRSE_ID: 000206, Units: 4.00)
+• [UNKNOWN_000207] Unknown Title (CRSE_ID: 000207, Units: 4.00)
+• [UNKNOWN_000210] Unknown Title (CRSE_ID: 000210, Units: 4.00)
+• [UNKNOWN_000216] Unknown Title (CRSE_ID: 000216, Units: 3.00)
+• [UNKNOWN_000217] Unknown Title (CRSE_ID: 000217, Units: 3.00)
+• [UNKNOWN_000219] Unknown Title (CRSE_ID: 000219, Units: 3.00)
+• [UNKNOWN_000222] Unknown Title (CRSE_ID: 000222, Units: 3.00)
+• [UNKNOWN_000224] Unknown Title (CRSE_ID: 000224, Units: 3.00)
+• [UNKNOWN_000225] Unknown Title (CRSE_ID: 000225, Units: 3.00)
+• [UNKNOWN_000238] Unknown Title (CRSE_ID: 000238, Units: 3.00)
+• [UNKNOWN_000240] Unknown Title (CRSE_ID: 000240, Units: 3.00)
+• [UNKNOWN_000244] Unknown Title (CRSE_ID: 000244, Units: 3.00)
+• [UNKNOWN_000245] Unknown Title (CRSE_ID: 000245, Units: 3.00)
+• [UNKNOWN_000246] Unknown Title (CRSE_ID: 000246, Units: 3.00)
+• [UNKNOWN_000249] Unknown Title (CRSE_ID: 000249, Units: 3.00)
+• [UNKNOWN_000250] Unknown Title (CRSE_ID: 000250, Units: 3.00)
+• [UNKNOWN_000251] Unknown Title (CRSE_ID: 000251, Units: 3.00)
+• [UNKNOWN_000252] Unknown Title (CRSE_ID: 000252, Units: 3.00)
+• [UNKNOWN_000253] Unknown Title (CRSE_ID: 000253, Units: 3.00)
+• [UNKNOWN_000338] Unknown Title (CRSE_ID: 000338, Units: 0.00)
+• [UNKNOWN_000358] Unknown Title (CRSE_ID: 000358, Units: 0.00)
+• [UNKNOWN_000379] Unknown Title (CRSE_ID: 000379, Units: 0.00)
+• [UNKNOWN_000380] Unknown Title (CRSE_ID: 000380, Units: 0.00)
+• [UNKNOWN_000381] Unknown Title (CRSE_ID: 000381, Units: 0.00)
+• [UNKNOWN_000382] Unknown Title (CRSE_ID: 000382, Units: 0.00)
+• [UNKNOWN_000383] Unknown Title (CRSE_ID: 000383, Units: 0.00)
+• [UNKNOWN_000384] Unknown Title (CRSE_ID: 000384, Units: 0.00)
+• [UNKNOWN_000390] Unknown Title (CRSE_ID: 000390, Units: 0.00)
+• [UNKNOWN_000391] Unknown Title (CRSE_ID: 000391, Units: 0.00)
+• [UNKNOWN_000393] Unknown Title (CRSE_ID: 000393, Units: 0.00)
+• [UNKNOWN_000394] Unknown Title (CRSE_ID: 000394, Units: 0.00)
+• [UNKNOWN_000538] Unknown Title (CRSE_ID: 000538, Units: 3.00)
+• [UNKNOWN_000606] Unknown Title (CRSE_ID: 000606, Units: 0.00)
+• [UNKNOWN_000698] Unknown Title (CRSE_ID: 000698, Units: 3.00)
+• [WRT 101] Expository Writing (CRSE_ID: 000070, Units: 3.00)
+• [WRT 299] Research Methods (CRSE_ID: 000083, Units: 3.00)
+• [WRT 299] Unknown Title (CRSE_ID: 000116, Units: 3.00)
+• [XXX 450] Senior Capston Seminar (CRSE_ID: 000260, Units: 3.00)
+• [YYY 123] College Math II (CRSE_ID: 000078, Units: 3.00)
+• [YYY 999] Science II (CRSE_ID: 000077, Units: 3.00)
+• [YYY 999] University Elective (CRSE_ID: 000080, Units: 3.00)
+• [YYY 999] Unknown Title (CRSE_ID: 000086, Units: 3.00)

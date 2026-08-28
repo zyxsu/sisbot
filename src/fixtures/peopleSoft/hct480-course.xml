@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PAGE>
+  <FIELD id="win77divCOURSES"><![CDATA[
+    <form id="win77" method="post">
+      <input type="hidden" name="ICStateNum" value="4" />
+      <input type="hidden" name="ICElementNum" value="77" />
+      <input type="hidden" name="ICSID" value="TEST_ICSID" />
+      <input type="hidden" name="ICBcDomData" value="TEST_BREADCRUMB_DATA" />
+      <a id="SSR_CLSRCH_F_WK_SSR_CMPNT_DESCR_1$900$$0"
+         href="javascript:submitAction_win77(document.win77,'SSR_CLSRCH_F_WK_SSR_CMPNT_DESCR_1$900$$0');">Lecture - 1544</a>
+      <a id="SSR_CLSRCH_F_WK_SSR_CMPNT_DESCR_1$901$$1"
+         href="javascript:submitAction_win77(document.win77,'SSR_CLSRCH_F_WK_SSR_CMPNT_DESCR_1$901$$1');">Lecture - 1545</a>
+    </form>
+  ]]></FIELD>
+  <SCRIPT><![CDATA[
+    oDoc.win77.ICStateNum.value=5;
+  ]]></SCRIPT>
+</PAGE>

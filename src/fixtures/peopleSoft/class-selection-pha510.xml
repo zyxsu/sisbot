@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <update id="class-selection-course-b-sanitized"><![CDATA[
+    <main>
+      <h1>Review Class Selection</h1>
+      <section aria-label="Course">
+        <span>Course:</span>
+        <span id="DERIVED_SSR_FL_COURSE_TITLE_LONG">
+          PHA 510 - Sanitized Course Fixture
+        </span>
+        <p>Option Status: Closed</p>
+      </section>
+
+      <article data-section-row>
+        <h2>
+          <a id="DERIVED_SSR_FL_SSR_SBJ_CAT_NBR$12">Lecture - 9101</a>
+        </h2>
+        <dl>
+          <dt>Session</dt><dd>Regular Academic Session</dd>
+          <dt>Meeting Dates</dt><dd>23/08/2026 - 15/12/2026</dd>
+          <dt>Days and Times</dt><dd>Monday Wednesday 12:00 to 13:15</dd>
+          <dt>Seats</dt><dd id="DERIVED_SSR_FL_SSR_DESCR50$12">Closed</dd>
+        </dl>
+      </article>
+
+      <article data-section-row>
+        <h2>
+          <a id="DERIVED_SSR_FL_SSR_SBJ_CAT_NBR$29">Lab - 9102</a>
+        </h2>
+        <dl>
+          <dt>Session</dt><dd>Regular Academic Session</dd>
+          <dt>Meeting Dates</dt><dd>23/08/2026 - 15/12/2026</dd>
+          <dt>Days and Times</dt><dd>Thursday 14:00 to 15:50</dd>
+          <dt>Seats</dt><dd id="DERIVED_SSR_FL_SSR_DESCR50$29">Open</dd>
+        </dl>
+      </article>
+    </main>
+  ]]></update>
+</response>

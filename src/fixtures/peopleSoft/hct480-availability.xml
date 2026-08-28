@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PAGE id="SSR_CLSDTL_LF_SCF">
+  <FIELD id="win77div$ICField1"><![CDATA[
+    <div id="win77divCLASS_INFO">
+      <input type="radio" id="DERIVED_SSR_FL_SSR_CL_DTLS_LFF$700$" name="DERIVED_SSR_FL_SSR_CL_DTLS_LFF$700$" value="CD" />
+      <input type="radio" id="DERIVED_SSR_FL_SSR_CL_DTLS_LFF$799$" name="DERIVED_SSR_FL_SSR_CL_DTLS_LFF$799$" value="CA" checked="checked" />
+      <span id="DERIVED_SSR_FL_SSR_SBJ_CAT_NBR">HCT 480 Marketing in the Healthcare Sector</span>
+      <span id="DERIVED_SSR_FL_SSR_CLASS_SPECS">Status : Closed</span>
+      <span id="DERIVED_SSR_FL_SSR_SESSION_TRAN">Lecture - 1544</span>
+      <span id="DERIVED_SSR_FL_SSR_DTL_FIELD1$0">25</span>
+      <span id="DERIVED_SSR_FL_SSR_DTL_FIELD2$0">25</span>
+      <span id="DERIVED_SSR_FL_SSR_DTL_FIELD3$0">0</span>
+      <span id="DERIVED_SSR_FL_SSR_DTL_FIELD4$0">0</span>
+      <span id="DERIVED_SSR_FL_SSR_DTL_FIELD5$0">0</span>
+    </div>
+  ]]></FIELD>
+  <SCRIPT><![CDATA[
+    oDoc.win77.ICStateNum.value=8;
+  ]]></SCRIPT>
+</PAGE>

@@ -1,0 +1,7083 @@
+[
+  {
+    "id": "000003",
+    "exists": true,
+    "courseCode": "UNI 101",
+    "courseTitle": "University Experince",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000005",
+    "exists": true,
+    "courseCode": "ACC 420",
+    "courseTitle": "Advanced Financial Accounting",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000006",
+    "exists": true,
+    "courseCode": "ACC 440",
+    "courseTitle": "Cost Accounting",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1047",
+        "status": "OPEN",
+        "seats": "18/35",
+        "schedule": "Tuesday Sunday 11:00AM to 12:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000008",
+    "exists": true,
+    "courseCode": "ACC 445",
+    "courseTitle": "Upload II",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000009",
+    "exists": true,
+    "courseCode": "ACC 445",
+    "courseTitle": "Auditing and Assurance",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000010",
+    "exists": true,
+    "courseCode": "BUS 112",
+    "courseTitle": "Introduction to Business",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1035",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday Wednesday 2:00PM to 3:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-J"
+      }
+    ]
+  },
+  {
+    "id": "000011",
+    "exists": true,
+    "courseCode": "BUS 250",
+    "courseTitle": "Business Statistics",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000012",
+    "exists": true,
+    "courseCode": "BUS 305",
+    "courseTitle": "Effective Communication in Bus",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1041",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday Sunday 12:30PM to 1:45PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 2-A"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1042",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday Wednesday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-A"
+      }
+    ]
+  },
+  {
+    "id": "000015",
+    "exists": true,
+    "courseCode": "BUS 475",
+    "courseTitle": "Undergraduate Internship in Bu",
+    "units": "1.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000016",
+    "exists": true,
+    "courseCode": "ECO 221",
+    "courseTitle": "Principles of Macroeconomics",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1049",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday Wednesday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-E"
+      }
+    ]
+  },
+  {
+    "id": "000017",
+    "exists": true,
+    "courseCode": "ECO 222",
+    "courseTitle": "Introduction to Microeconomics",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000018",
+    "exists": true,
+    "courseCode": "ECO 310",
+    "courseTitle": "Managerial Microeconomics",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000019",
+    "exists": true,
+    "courseCode": "ECO 320",
+    "courseTitle": "Managerial Macroeconomics",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000020",
+    "exists": true,
+    "courseCode": "ECO 330",
+    "courseTitle": "Introductory Econometrics",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000021",
+    "exists": true,
+    "courseCode": "ECO 410",
+    "courseTitle": "Industrial Organization and Co",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000022",
+    "exists": true,
+    "courseCode": "ECO 420",
+    "courseTitle": "Labor Economics and Human Reso",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000023",
+    "exists": true,
+    "courseCode": "ECO 430",
+    "courseTitle": "Money and Banking",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000024",
+    "exists": true,
+    "courseCode": "ECO 440",
+    "courseTitle": "International Trade and Invest",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000025",
+    "exists": true,
+    "courseCode": "ECO 460",
+    "courseTitle": "Economic Development and Growt",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000026",
+    "exists": true,
+    "courseCode": "ERG 310",
+    "courseTitle": "Introduction to Energy Managem",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000027",
+    "exists": true,
+    "courseCode": "ERG 360",
+    "courseTitle": "Introduction to the Exploratio",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000028",
+    "exists": true,
+    "courseCode": "ERG 370",
+    "courseTitle": "Energy Law I",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000029",
+    "exists": true,
+    "courseCode": "ERG 410",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000030",
+    "exists": true,
+    "courseCode": "ERG 420",
+    "courseTitle": "Energy Policy, Legislation, an",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000031",
+    "exists": true,
+    "courseCode": "ERG 430",
+    "courseTitle": "Energy Systems Operation",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000032",
+    "exists": true,
+    "courseCode": "ERG 440",
+    "courseTitle": "Energy Futures and Transitions",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000033",
+    "exists": true,
+    "courseCode": "ERG 460",
+    "courseTitle": "Energy Strategy Capstone Proje",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000034",
+    "exists": true,
+    "courseCode": "ENT 422",
+    "courseTitle": "Entrepreneurship",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000035",
+    "exists": true,
+    "courseCode": "HOS 410",
+    "courseTitle": "Food and Beverage Cost Control",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000036",
+    "exists": true,
+    "courseCode": "ENT 310",
+    "courseTitle": "Foundations of Entrepreneurship I: Business Discovery and Assessment",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000037",
+    "exists": true,
+    "courseCode": "ENT 320",
+    "courseTitle": "Foundations of Entrepreneurshi",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1057",
+        "status": "OPEN",
+        "seats": "19/35",
+        "schedule": "Tuesday Sunday 8:00AM to 9:15AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_2"
+      }
+    ]
+  },
+  {
+    "id": "000038",
+    "exists": true,
+    "courseCode": "ENT 370",
+    "courseTitle": "Entrepreneurial Marketing",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000039",
+    "exists": true,
+    "courseCode": "ENT 420",
+    "courseTitle": "Entrepreneurial Finance",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000040",
+    "exists": true,
+    "courseCode": "ENT 430",
+    "courseTitle": "Business Growth and Renewal St",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000041",
+    "exists": true,
+    "courseCode": "ENT 440",
+    "courseTitle": "Entrepreneurship Throughout",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000042",
+    "exists": true,
+    "courseCode": "ENT 460",
+    "courseTitle": "Managing A Growing Business",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000043",
+    "exists": true,
+    "courseCode": "FIN 301",
+    "courseTitle": "Financial Management",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000044",
+    "exists": true,
+    "courseCode": "FIN 310",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000045",
+    "exists": true,
+    "courseCode": "FIN 312",
+    "courseTitle": "Commercial Bank Management",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000046",
+    "exists": true,
+    "courseCode": "FIN 400",
+    "courseTitle": "Principles of Investments",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000047",
+    "exists": true,
+    "courseCode": "FIN 404",
+    "courseTitle": "Advanced Financial Management",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000048",
+    "exists": true,
+    "courseCode": "FIN 420",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000049",
+    "exists": true,
+    "courseCode": "FIN 430",
+    "courseTitle": "Derivatives",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1066",
+        "status": "OPEN",
+        "seats": "28/35",
+        "schedule": "Monday Wednesday 2:00PM to 3:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-F"
+      }
+    ]
+  },
+  {
+    "id": "000050",
+    "exists": true,
+    "courseCode": "FIN 440",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000051",
+    "exists": true,
+    "courseCode": "FIN 471",
+    "courseTitle": "International Business Finance",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000061",
+    "exists": true,
+    "courseCode": "HOS 101",
+    "courseTitle": "Introduction to The Hospitalit",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000062",
+    "exists": true,
+    "courseCode": "HOS 320",
+    "courseTitle": "Food Production and Safety",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000063",
+    "exists": true,
+    "courseCode": "HOS 330",
+    "courseTitle": "Customer Service Management",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000064",
+    "exists": true,
+    "courseCode": "HOS 335",
+    "courseTitle": "Hospitality Internship I",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000065",
+    "exists": true,
+    "courseCode": "ATH 450",
+    "courseTitle": "Senior Capston Seminar",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000066",
+    "exists": true,
+    "courseCode": "COM 101",
+    "courseTitle": "Introduction to Communications",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1317",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday Sunday 11:00AM to 12:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1320",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday Sunday 12:30PM to 1:45PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1331",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday Sunday 2:00PM to 3:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_3"
+      }
+    ]
+  },
+  {
+    "id": "000067",
+    "exists": true,
+    "courseCode": "PHI 101",
+    "courseTitle": "Introduction to Ethics",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1325",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday Wednesday 12:30PM to 1:45PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-A"
+      }
+    ]
+  },
+  {
+    "id": "000068",
+    "exists": true,
+    "courseCode": "ENV 201",
+    "courseTitle": "Introduction to Environmental Science",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000069",
+    "exists": true,
+    "courseCode": "BIO 100",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000070",
+    "exists": true,
+    "courseCode": "WRT 101",
+    "courseTitle": "Expository Writing",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000071",
+    "exists": true,
+    "courseCode": "CSC 101",
+    "courseTitle": "Introduction to Computer Science",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1465",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday Wednesday 11:00AM to 12:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1466",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday Sunday 2:00PM to 3:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1741",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday Wednesday 12:30PM to 1:45PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000072",
+    "exists": true,
+    "courseCode": "HUM 101",
+    "courseTitle": "Introduction to Humanities",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1283",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday Sunday 12:30PM to 1:45PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_3"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1292",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday Wednesday 8:00AM to 9:15AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-J"
+      }
+    ]
+  },
+  {
+    "id": "000073",
+    "exists": true,
+    "courseCode": "LIT 101",
+    "courseTitle": "Introduction to World Literature",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1294",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday Wednesday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_2B"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1727",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday Sunday 12:30PM to 1:45PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-A"
+      }
+    ]
+  },
+  {
+    "id": "000074",
+    "exists": true,
+    "courseCode": "HIS 101",
+    "courseTitle": "The Civilizations and History",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1300",
+        "status": "OPEN",
+        "seats": "1/45",
+        "schedule": "Monday Wednesday 12:30PM to 1:45PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_2"
+      }
+    ]
+  },
+  {
+    "id": "000075",
+    "exists": true,
+    "courseCode": "ATH 101",
+    "courseTitle": "Introduction to Cultural Anthr",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000077",
+    "exists": true,
+    "courseCode": "YYY 999",
+    "courseTitle": "Science II",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000078",
+    "exists": true,
+    "courseCode": "YYY 123",
+    "courseTitle": "College Math II",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000079",
+    "exists": true,
+    "courseCode": "ATH 201",
+    "courseTitle": "Introduction to Biology Archae",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000080",
+    "exists": true,
+    "courseCode": "YYY 999",
+    "courseTitle": "University Elective",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000081",
+    "exists": true,
+    "courseCode": "ATH 211",
+    "courseTitle": "Introduction to Biological Ant",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000082",
+    "exists": true,
+    "courseCode": "HIS 201",
+    "courseTitle": "The Civilizations and History",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000083",
+    "exists": true,
+    "courseCode": "WRT 299",
+    "courseTitle": "Research Methods",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000084",
+    "exists": true,
+    "courseCode": "ATH 301",
+    "courseTitle": "Field Studies and Research Met",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000085",
+    "exists": true,
+    "courseCode": "UNKNOWN_000085",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000086",
+    "exists": true,
+    "courseCode": "YYY 999",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000087",
+    "exists": true,
+    "courseCode": "UNKNOWN_000087",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000088",
+    "exists": true,
+    "courseCode": "UNKNOWN_000088",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000089",
+    "exists": true,
+    "courseCode": "UNKNOWN_000089",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000090",
+    "exists": true,
+    "courseCode": "UNKNOWN_000090",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000091",
+    "exists": true,
+    "courseCode": "UNKNOWN_000091",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000092",
+    "exists": true,
+    "courseCode": "UNKNOWN_000092",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000093",
+    "exists": true,
+    "courseCode": "ATH 398",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000094",
+    "exists": true,
+    "courseCode": "UNKNOWN_000094",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000095",
+    "exists": true,
+    "courseCode": "UNKNOWN_000095",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000096",
+    "exists": true,
+    "courseCode": "BIO 101",
+    "courseTitle": "Introductory Biology",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1016",
+        "status": "OPEN",
+        "seats": "45/80",
+        "schedule": "Monday Wednesday 8:00AM to 9:15AM",
+        "dates": "23/08/2026 - 20/12/2026",
+        "room": "Lecture Hall 1-G"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1018",
+        "status": "OPEN",
+        "seats": "8/80",
+        "schedule": "Tuesday Sunday 11:00AM to 12:15PM",
+        "dates": "23/08/2026 - 20/12/2026",
+        "room": "Lecture Hall 1-C"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1662",
+        "status": "OPEN",
+        "seats": "9/80",
+        "schedule": "Monday Wednesday 8:00AM to 9:15AM",
+        "dates": "23/08/2026 - 20/12/2026",
+        "room": "Lecture Hall 1-B"
+      }
+    ]
+  },
+  {
+    "id": "000097",
+    "exists": true,
+    "courseCode": "BIO 102",
+    "courseTitle": "Biology II",
+    "units": "4.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000098",
+    "exists": true,
+    "courseCode": "BIO 221",
+    "courseTitle": "Genetics",
+    "units": "4.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1078",
+        "status": "OPEN",
+        "seats": "73/80",
+        "schedule": "TBA",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000099",
+    "exists": true,
+    "courseCode": "BIO 222",
+    "courseTitle": "Human Physiology II",
+    "units": "4.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000100",
+    "exists": true,
+    "courseCode": "BIO 350",
+    "courseTitle": "Junior Seminar",
+    "units": "4.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000101",
+    "exists": true,
+    "courseCode": "UNKNOWN_000101",
+    "courseTitle": "Unknown Title",
+    "units": "4.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000102",
+    "exists": true,
+    "courseCode": "UNKNOWN_000102",
+    "courseTitle": "Unknown Title",
+    "units": "4.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000103",
+    "exists": true,
+    "courseCode": "UNKNOWN_000103",
+    "courseTitle": "Unknown Title",
+    "units": "4.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000104",
+    "exists": true,
+    "courseCode": "BIO 450",
+    "courseTitle": "Senior Capston Seminar",
+    "units": "4.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000105",
+    "exists": true,
+    "courseCode": "UNKNOWN_000105",
+    "courseTitle": "Unknown Title",
+    "units": "4.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000106",
+    "exists": true,
+    "courseCode": "UNKNOWN_000106",
+    "courseTitle": "Unknown Title",
+    "units": "4.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000110",
+    "exists": true,
+    "courseCode": "CHE 101",
+    "courseTitle": "General Chemistry I",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1138",
+        "status": "OPEN",
+        "seats": "20/70",
+        "schedule": "Tuesday Sunday 11:00AM to 12:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-K"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1546",
+        "status": "OPEN",
+        "seats": "44/70",
+        "schedule": "Monday Wednesday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 2-A"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1682",
+        "status": "OPEN",
+        "seats": "31/70",
+        "schedule": "Monday Wednesday 12:30PM to 1:45PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_2B"
+      }
+    ]
+  },
+  {
+    "id": "000111",
+    "exists": true,
+    "courseCode": "CHE 102",
+    "courseTitle": "General Chemistry II",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1144",
+        "status": "OPEN",
+        "seats": "39/70",
+        "schedule": "Tuesday Sunday 2:00PM to 3:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-D"
+      }
+    ]
+  },
+  {
+    "id": "000112",
+    "exists": true,
+    "courseCode": "CHE 121",
+    "courseTitle": "Organic Chemistry I",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000113",
+    "exists": true,
+    "courseCode": "UNKNOWN_000113",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000114",
+    "exists": true,
+    "courseCode": "CHE 122",
+    "courseTitle": "Organic Chemistry II",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000115",
+    "exists": true,
+    "courseCode": "HIS 201",
+    "courseTitle": "Civilizations II or HIS 202: I",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000116",
+    "exists": true,
+    "courseCode": "WRT 299",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000117",
+    "exists": true,
+    "courseCode": "PHY 101",
+    "courseTitle": "Principles of Physics I",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1009",
+        "status": "OPEN",
+        "seats": "4/50",
+        "schedule": "Tuesday Sunday 8:00AM to 9:15AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_3"
+      }
+    ]
+  },
+  {
+    "id": "000118",
+    "exists": true,
+    "courseCode": "UNKNOWN_000118",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000119",
+    "exists": true,
+    "courseCode": "ENV 121",
+    "courseTitle": "Environmental Science I",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000120",
+    "exists": true,
+    "courseCode": "ENV 122",
+    "courseTitle": "Environmental Science II",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000121",
+    "exists": true,
+    "courseCode": "ENV 251",
+    "courseTitle": "Introduction to Environmental",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000122",
+    "exists": true,
+    "courseCode": "ENV 201",
+    "courseTitle": "Environmental Science",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1649",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday Wednesday 11:00AM to 12:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-J"
+      }
+    ]
+  },
+  {
+    "id": "000123",
+    "exists": true,
+    "courseCode": "UNKNOWN_000123",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000124",
+    "exists": true,
+    "courseCode": "UNKNOWN_000124",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000125",
+    "exists": true,
+    "courseCode": "ENV 450",
+    "courseTitle": "Senior Capston Seminar",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000126",
+    "exists": true,
+    "courseCode": "UNKNOWN_000126",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000127",
+    "exists": true,
+    "courseCode": "ENV 398",
+    "courseTitle": "Field Work or Internship",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000128",
+    "exists": true,
+    "courseCode": "GEO 101",
+    "courseTitle": "Introduction to Geography",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000129",
+    "exists": true,
+    "courseCode": "UNKNOWN_000129",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000131",
+    "exists": true,
+    "courseCode": "UNKNOWN_000131",
+    "courseTitle": "Unknown Title",
+    "units": "4.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000132",
+    "exists": true,
+    "courseCode": "UNKNOWN_000132",
+    "courseTitle": "Unknown Title",
+    "units": "4.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000133",
+    "exists": true,
+    "courseCode": "UNKNOWN_000133",
+    "courseTitle": "Unknown Title",
+    "units": "4.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000134",
+    "exists": true,
+    "courseCode": "UNKNOWN_000134",
+    "courseTitle": "Unknown Title",
+    "units": "4.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000135",
+    "exists": true,
+    "courseCode": "UNKNOWN_000135",
+    "courseTitle": "Unknown Title",
+    "units": "4.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000136",
+    "exists": true,
+    "courseCode": "UNKNOWN_000136",
+    "courseTitle": "Unknown Title",
+    "units": "4.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000137",
+    "exists": true,
+    "courseCode": "UNKNOWN_000137",
+    "courseTitle": "Unknown Title",
+    "units": "4.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000138",
+    "exists": true,
+    "courseCode": "UNKNOWN_000138",
+    "courseTitle": "Unknown Title",
+    "units": "4.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000139",
+    "exists": true,
+    "courseCode": "CHE 451",
+    "courseTitle": "Polymer Chemistry",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000140",
+    "exists": true,
+    "courseCode": "UNKNOWN_000140",
+    "courseTitle": "Unknown Title",
+    "units": "4.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000141",
+    "exists": true,
+    "courseCode": "UNKNOWN_000141",
+    "courseTitle": "Unknown Title",
+    "units": "4.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000142",
+    "exists": true,
+    "courseCode": "PHY 102",
+    "courseTitle": "Principles of Physics II",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1011",
+        "status": "OPEN",
+        "seats": "34/50",
+        "schedule": "Monday Wednesday 11:00AM to 12:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_2"
+      }
+    ]
+  },
+  {
+    "id": "000143",
+    "exists": true,
+    "courseCode": "HIS 301",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000144",
+    "exists": true,
+    "courseCode": "HIS 331",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000145",
+    "exists": true,
+    "courseCode": "HIS 350",
+    "courseTitle": "Main Currents in Global History",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000146",
+    "exists": true,
+    "courseCode": "HIS 311",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000147",
+    "exists": true,
+    "courseCode": "HIS 331",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000148",
+    "exists": true,
+    "courseCode": "HIS 321",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000149",
+    "exists": true,
+    "courseCode": "UNKNOWN_000149",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000150",
+    "exists": true,
+    "courseCode": "HIS 401",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000151",
+    "exists": true,
+    "courseCode": "HIS 450",
+    "courseTitle": "Senior Capston Seminar",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000152",
+    "exists": true,
+    "courseCode": "HIS 411",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000153",
+    "exists": true,
+    "courseCode": "UNKNOWN_000153",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000154",
+    "exists": true,
+    "courseCode": "UNKNOWN_000154",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000155",
+    "exists": true,
+    "courseCode": "HIS 421",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000156",
+    "exists": true,
+    "courseCode": "HIS 431",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000157",
+    "exists": true,
+    "courseCode": "ACC 201",
+    "courseTitle": "Introduction to Financial Accounting",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1043",
+        "status": "OPEN",
+        "seats": "2/35",
+        "schedule": "Monday Wednesday 8:00AM to 9:15AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-F"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1044",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday Sunday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-F"
+      }
+    ]
+  },
+  {
+    "id": "000158",
+    "exists": true,
+    "courseCode": "ACC 202",
+    "courseTitle": "Managerial Accounting",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1045",
+        "status": "OPEN",
+        "seats": "11/35",
+        "schedule": "Monday Wednesday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_3"
+      }
+    ]
+  },
+  {
+    "id": "000159",
+    "exists": true,
+    "courseCode": "ACC 301",
+    "courseTitle": "Intermediate Accounting I",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000160",
+    "exists": true,
+    "courseCode": "ACC 302",
+    "courseTitle": "Intermediate Accounting II",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000161",
+    "exists": true,
+    "courseCode": "ACC 310",
+    "courseTitle": "Financial Statement Analysis",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000162",
+    "exists": true,
+    "courseCode": "ACC 415",
+    "courseTitle": "Taxation",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000163",
+    "exists": true,
+    "courseCode": "PHI 202",
+    "courseTitle": "Introduction to Political Phil",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000164",
+    "exists": true,
+    "courseCode": "PHI 203",
+    "courseTitle": "Introduction to Religious Stud",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000165",
+    "exists": true,
+    "courseCode": "PHI 212",
+    "courseTitle": "Survey of Medieval/ Modern Phi",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000166",
+    "exists": true,
+    "courseCode": "PHI 213",
+    "courseTitle": "Survey of Islamic Philosophy",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000167",
+    "exists": true,
+    "courseCode": "PHI 311",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000168",
+    "exists": true,
+    "courseCode": "PHI 332",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000169",
+    "exists": true,
+    "courseCode": "PHI 350",
+    "courseTitle": "Junior Seminar",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000170",
+    "exists": true,
+    "courseCode": "UNKNOWN_000170",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000171",
+    "exists": true,
+    "courseCode": "UNKNOWN_000171",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000172",
+    "exists": true,
+    "courseCode": "UNKNOWN_000172",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000173",
+    "exists": true,
+    "courseCode": "UNKNOWN_000173",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000174",
+    "exists": true,
+    "courseCode": "UNKNOWN_000174",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000175",
+    "exists": true,
+    "courseCode": "UNKNOWN_000175",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000176",
+    "exists": true,
+    "courseCode": "PHI 450",
+    "courseTitle": "Senior Capstone Seminar",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000177",
+    "exists": true,
+    "courseCode": "COM 102",
+    "courseTitle": "International and Intercultura",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000178",
+    "exists": true,
+    "courseCode": "COM 105",
+    "courseTitle": "Public Speaking",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000179",
+    "exists": true,
+    "courseCode": "COM 201",
+    "courseTitle": "Introduction to Visual Communi",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000180",
+    "exists": true,
+    "courseCode": "COM 211",
+    "courseTitle": "Media Ethics orCOM 212: Media",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000181",
+    "exists": true,
+    "courseCode": "COM 212",
+    "courseTitle": "Media Ethics and the Law",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000182",
+    "exists": true,
+    "courseCode": "UNKNOWN_000182",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000183",
+    "exists": true,
+    "courseCode": "UNKNOWN_000183",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000184",
+    "exists": true,
+    "courseCode": "COM 345",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000185",
+    "exists": true,
+    "courseCode": "UNKNOWN_000185",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000186",
+    "exists": true,
+    "courseCode": "UNKNOWN_000186",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000187",
+    "exists": true,
+    "courseCode": "UNKNOWN_000187",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000188",
+    "exists": true,
+    "courseCode": "UNKNOWN_000188",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000189",
+    "exists": true,
+    "courseCode": "UNKNOWN_000189",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000190",
+    "exists": true,
+    "courseCode": "UNKNOWN_000190",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000191",
+    "exists": true,
+    "courseCode": "UNKNOWN_000191",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000192",
+    "exists": true,
+    "courseCode": "COM 450",
+    "courseTitle": "Senior Capstone Seminar",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000193",
+    "exists": true,
+    "courseCode": "UNKNOWN_000193",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000194",
+    "exists": true,
+    "courseCode": "UNKNOWN_000194",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000195",
+    "exists": true,
+    "courseCode": "CIS 201",
+    "courseTitle": "Fundamentals of Computing",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000196",
+    "exists": true,
+    "courseCode": "CIS 301",
+    "courseTitle": "Theory of Computing",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000197",
+    "exists": true,
+    "courseCode": "CIS 311",
+    "courseTitle": "Analysis and Design of Algorit",
+    "units": "4.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000198",
+    "exists": true,
+    "courseCode": "UNKNOWN_000198",
+    "courseTitle": "Unknown Title",
+    "units": "4.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000199",
+    "exists": true,
+    "courseCode": "CIS 321",
+    "courseTitle": "Communications Networks",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000200",
+    "exists": true,
+    "courseCode": "CIS 302",
+    "courseTitle": "Computer Architectur",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000201",
+    "exists": true,
+    "courseCode": "CIS 312",
+    "courseTitle": "Data Structures and Algorithms",
+    "units": "4.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000202",
+    "exists": true,
+    "courseCode": "UNKNOWN_000202",
+    "courseTitle": "Unknown Title",
+    "units": "4.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000203",
+    "exists": true,
+    "courseCode": "UNKNOWN_000203",
+    "courseTitle": "Unknown Title",
+    "units": "4.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000204",
+    "exists": true,
+    "courseCode": "UNKNOWN_000204",
+    "courseTitle": "Unknown Title",
+    "units": "4.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000205",
+    "exists": true,
+    "courseCode": "CIS 411",
+    "courseTitle": "Electronics I",
+    "units": "4.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000206",
+    "exists": true,
+    "courseCode": "UNKNOWN_000206",
+    "courseTitle": "Unknown Title",
+    "units": "4.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000207",
+    "exists": true,
+    "courseCode": "UNKNOWN_000207",
+    "courseTitle": "Unknown Title",
+    "units": "4.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000208",
+    "exists": true,
+    "courseCode": "CIS 399",
+    "courseTitle": "Internship/Instructional Train",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000209",
+    "exists": true,
+    "courseCode": "CIS 412",
+    "courseTitle": "Electronics II",
+    "units": "4.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000210",
+    "exists": true,
+    "courseCode": "UNKNOWN_000210",
+    "courseTitle": "Unknown Title",
+    "units": "4.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000211",
+    "exists": true,
+    "courseCode": "LIT 201",
+    "courseTitle": "Introduction to Literary Analysis",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000212",
+    "exists": true,
+    "courseCode": "LIT 221",
+    "courseTitle": "American Literature Survey I",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1341",
+        "status": "OPEN",
+        "seats": "16/25",
+        "schedule": "Tuesday Sunday 11:00AM to 12:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000213",
+    "exists": true,
+    "courseCode": "LIT 231",
+    "courseTitle": "American Literature Survey I",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000214",
+    "exists": true,
+    "courseCode": "LIT 222",
+    "courseTitle": "British Literature Survey II",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000215",
+    "exists": true,
+    "courseCode": "LIT 232",
+    "courseTitle": "American Survey II",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000216",
+    "exists": true,
+    "courseCode": "UNKNOWN_000216",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000217",
+    "exists": true,
+    "courseCode": "UNKNOWN_000217",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000218",
+    "exists": true,
+    "courseCode": "LIT 311",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000219",
+    "exists": true,
+    "courseCode": "UNKNOWN_000219",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000220",
+    "exists": true,
+    "courseCode": "LIT 321",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000221",
+    "exists": true,
+    "courseCode": "LIT 331",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000222",
+    "exists": true,
+    "courseCode": "UNKNOWN_000222",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000223",
+    "exists": true,
+    "courseCode": "LIT 450",
+    "courseTitle": "Senior Capstone Seminar",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000224",
+    "exists": true,
+    "courseCode": "UNKNOWN_000224",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000225",
+    "exists": true,
+    "courseCode": "UNKNOWN_000225",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000226",
+    "exists": true,
+    "courseCode": "LIT 241",
+    "courseTitle": "American Literature Survey II",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000227",
+    "exists": true,
+    "courseCode": "LIT 242",
+    "courseTitle": "World Literature Survey III",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000228",
+    "exists": true,
+    "courseCode": "SOC 101",
+    "courseTitle": "Introduction to Sociology",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1314",
+        "status": "OPEN",
+        "seats": "2/45",
+        "schedule": "Monday Wednesday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_2"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1312",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday Sunday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_2B"
+      }
+    ]
+  },
+  {
+    "id": "000229",
+    "exists": true,
+    "courseCode": "SOC 211",
+    "courseTitle": "History of Social Theory",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000230",
+    "exists": true,
+    "courseCode": "SOC 221",
+    "courseTitle": "Statistics for Sociology",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000231",
+    "exists": true,
+    "courseCode": "SOC 241",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000232",
+    "exists": true,
+    "courseCode": "SOC 301",
+    "courseTitle": "Research Methods in Sociology",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000233",
+    "exists": true,
+    "courseCode": "SOC 302",
+    "courseTitle": "Field/Ethnographic Studies",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000234",
+    "exists": true,
+    "courseCode": "SOC 311",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000235",
+    "exists": true,
+    "courseCode": "SOC 351",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000236",
+    "exists": true,
+    "courseCode": "SOC 331",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000237",
+    "exists": true,
+    "courseCode": "SOC 399",
+    "courseTitle": "Internship/Field Work",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000238",
+    "exists": true,
+    "courseCode": "UNKNOWN_000238",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000239",
+    "exists": true,
+    "courseCode": "SOC 450",
+    "courseTitle": "Senior Capstone Seminar",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000240",
+    "exists": true,
+    "courseCode": "UNKNOWN_000240",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000241",
+    "exists": true,
+    "courseCode": "SOC 321",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000242",
+    "exists": true,
+    "courseCode": "PSY 220",
+    "courseTitle": "Biopsychology",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000243",
+    "exists": true,
+    "courseCode": "PSY 210",
+    "courseTitle": "Lifespan Developmental Psychology",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000244",
+    "exists": true,
+    "courseCode": "UNKNOWN_000244",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000245",
+    "exists": true,
+    "courseCode": "UNKNOWN_000245",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000246",
+    "exists": true,
+    "courseCode": "UNKNOWN_000246",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000247",
+    "exists": true,
+    "courseCode": "PSY 301",
+    "courseTitle": "Research Methods in Psychology",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000248",
+    "exists": true,
+    "courseCode": "PSY 350",
+    "courseTitle": "Abnormal Psychology",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000249",
+    "exists": true,
+    "courseCode": "UNKNOWN_000249",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000250",
+    "exists": true,
+    "courseCode": "UNKNOWN_000250",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000251",
+    "exists": true,
+    "courseCode": "UNKNOWN_000251",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000252",
+    "exists": true,
+    "courseCode": "UNKNOWN_000252",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000253",
+    "exists": true,
+    "courseCode": "UNKNOWN_000253",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000254",
+    "exists": true,
+    "courseCode": "PSY 450",
+    "courseTitle": "Introduction to Trauma Studies",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000255",
+    "exists": true,
+    "courseCode": "GAC 110",
+    "courseTitle": "Introduction to Political Scie",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000256",
+    "exists": true,
+    "courseCode": "GAC 230",
+    "courseTitle": "World Politics and Global Prob",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000257",
+    "exists": true,
+    "courseCode": "GAC 330",
+    "courseTitle": "International Law and Organiza",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000258",
+    "exists": true,
+    "courseCode": "GIR 440",
+    "courseTitle": "Middle East Politics",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000259",
+    "exists": true,
+    "courseCode": "GIR 470",
+    "courseTitle": "Politics and Development Semin",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000260",
+    "exists": true,
+    "courseCode": "XXX 450",
+    "courseTitle": "Senior Capston Seminar",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000261",
+    "exists": true,
+    "courseCode": "HOS 420",
+    "courseTitle": "Resort Management",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000262",
+    "exists": true,
+    "courseCode": "HOS 430",
+    "courseTitle": "Tourism",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000263",
+    "exists": true,
+    "courseCode": "HOS 440",
+    "courseTitle": "Food and Beverage Management",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000264",
+    "exists": true,
+    "courseCode": "HOS 450",
+    "courseTitle": "Special Topics in Global Busin",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000265",
+    "exists": true,
+    "courseCode": "HOS 455",
+    "courseTitle": "Hospitality Lodging Operations",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000266",
+    "exists": true,
+    "courseCode": "HOS 460",
+    "courseTitle": "Tourism Development",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000267",
+    "exists": true,
+    "courseCode": "HOS 475",
+    "courseTitle": "Hospitality Internship II",
+    "units": "1.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000268",
+    "exists": true,
+    "courseCode": "HOS 435",
+    "courseTitle": "Hospitality Internship II",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000285",
+    "exists": true,
+    "courseCode": "MGT 301",
+    "courseTitle": "Business Ethics",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1090",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday Wednesday 11:00AM to 12:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-M"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1093",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday Sunday 11:00AM to 12:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-M"
+      }
+    ]
+  },
+  {
+    "id": "000286",
+    "exists": true,
+    "courseCode": "MGT 312",
+    "courseTitle": "Managerial Leadership",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000287",
+    "exists": true,
+    "courseCode": "MGT 313",
+    "courseTitle": "Small Business Management",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000288",
+    "exists": true,
+    "courseCode": "MGT 316",
+    "courseTitle": "Business and Society",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000289",
+    "exists": true,
+    "courseCode": "MGT 342",
+    "courseTitle": "Human Resource Management",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000290",
+    "exists": true,
+    "courseCode": "MGT 350",
+    "courseTitle": "Corporate Strategy",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000291",
+    "exists": true,
+    "courseCode": "MGT 401",
+    "courseTitle": "International Business Managem",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000292",
+    "exists": true,
+    "courseCode": "MGT 402",
+    "courseTitle": "International Business Managem",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000293",
+    "exists": true,
+    "courseCode": "MGT 410",
+    "courseTitle": "Corporate Strategy",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000294",
+    "exists": true,
+    "courseCode": "MGT 422",
+    "courseTitle": "Entrepreneurship",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000295",
+    "exists": true,
+    "courseCode": "MGT 420",
+    "courseTitle": "Decisionmaking",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1109",
+        "status": "OPEN",
+        "seats": "4/35",
+        "schedule": "Tuesday Sunday 2:00PM to 3:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_2"
+      }
+    ]
+  },
+  {
+    "id": "000296",
+    "exists": true,
+    "courseCode": "MGT 429",
+    "courseTitle": "Organizational Behavior",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000297",
+    "exists": true,
+    "courseCode": "MKT 201",
+    "courseTitle": "Principles of Marketing",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000298",
+    "exists": true,
+    "courseCode": "MKT 316",
+    "courseTitle": "Principles of Merchandising",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000299",
+    "exists": true,
+    "courseCode": "MKT 326",
+    "courseTitle": "Marketing Research",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000300",
+    "exists": true,
+    "courseCode": "MKT 334",
+    "courseTitle": "Advertising and Promotional St",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000301",
+    "exists": true,
+    "courseCode": "MKT 422",
+    "courseTitle": "International Marketing",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000302",
+    "exists": true,
+    "courseCode": "MKT 427",
+    "courseTitle": "Personal Selling and Sales Man",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000303",
+    "exists": true,
+    "courseCode": "MKT 328",
+    "courseTitle": "Consumer Behavior",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1115",
+        "status": "OPEN",
+        "seats": "31/35",
+        "schedule": "Tuesday Sunday 2:00PM to 3:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000304",
+    "exists": true,
+    "courseCode": "MKT 429",
+    "courseTitle": "Services Marketing",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1118",
+        "status": "OPEN",
+        "seats": "27/35",
+        "schedule": "Monday Wednesday 11:00AM to 12:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_2"
+      }
+    ]
+  },
+  {
+    "id": "000305",
+    "exists": true,
+    "courseCode": "MKT 430",
+    "courseTitle": "Marketing Management and Strategy",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1119",
+        "status": "OPEN",
+        "seats": "25/35",
+        "schedule": "Monday Wednesday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000306",
+    "exists": true,
+    "courseCode": "MKT 440",
+    "courseTitle": "Brand Management",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000307",
+    "exists": true,
+    "courseCode": "MKT 450",
+    "courseTitle": "Special Topics in Marketing",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000308",
+    "exists": true,
+    "courseCode": "MIS 101",
+    "courseTitle": "Introduction to Management Information Systems",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1753",
+        "status": "OPEN",
+        "seats": "4/35",
+        "schedule": "Tuesday Sunday 12:30PM to 1:45PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1070",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday Sunday 11:00AM to 12:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-N"
+      }
+    ]
+  },
+  {
+    "id": "000309",
+    "exists": true,
+    "courseCode": "MIS 201",
+    "courseTitle": "Fundamentals of Databases",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000310",
+    "exists": true,
+    "courseCode": "MIS 202",
+    "courseTitle": "Web Application and Developmen",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000311",
+    "exists": true,
+    "courseCode": "MIS 304",
+    "courseTitle": "Systems Analysis and Design",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1075",
+        "status": "OPEN",
+        "seats": "30/35",
+        "schedule": "Monday Wednesday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000312",
+    "exists": true,
+    "courseCode": "MIS 307",
+    "courseTitle": "Business Application Developme",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000313",
+    "exists": true,
+    "courseCode": "MIS 315",
+    "courseTitle": "Business Data Communications a",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000314",
+    "exists": true,
+    "courseCode": "MIS 320",
+    "courseTitle": "E Business Management and Web",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000315",
+    "exists": true,
+    "courseCode": "MIS 401",
+    "courseTitle": "Advanced Web Application Devel",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000316",
+    "exists": true,
+    "courseCode": "MIS 405",
+    "courseTitle": "Decision Support Systems",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000317",
+    "exists": true,
+    "courseCode": "MIS 407",
+    "courseTitle": "Enterprise Resource Management",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000318",
+    "exists": true,
+    "courseCode": "MIS 410",
+    "courseTitle": "Advanced Databases",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000319",
+    "exists": true,
+    "courseCode": "MIS 420",
+    "courseTitle": "MIS Security and Risk Manageme",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000320",
+    "exists": true,
+    "courseCode": "MIS 430",
+    "courseTitle": "Business Analytics",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000321",
+    "exists": true,
+    "courseCode": "MIS 440",
+    "courseTitle": "MIS Project Management",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000322",
+    "exists": true,
+    "courseCode": "MIS 495",
+    "courseTitle": "Senior Project I",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000323",
+    "exists": true,
+    "courseCode": "OPM 300",
+    "courseTitle": "Critical Issues in Business Op",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000324",
+    "exists": true,
+    "courseCode": "OPM 370",
+    "courseTitle": "Business Modeling and Optimiza",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000325",
+    "exists": true,
+    "courseCode": "OPM 380",
+    "courseTitle": "Service Management",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000326",
+    "exists": true,
+    "courseCode": "OPM 390",
+    "courseTitle": "Logistics Management",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000327",
+    "exists": true,
+    "courseCode": "OPM 450",
+    "courseTitle": "Special Topics in MIS",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000328",
+    "exists": true,
+    "courseCode": "OPM 470",
+    "courseTitle": "Global Supply Chain Management",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000329",
+    "exists": true,
+    "courseCode": "OPM 480",
+    "courseTitle": "Business Project Management",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000330",
+    "exists": true,
+    "courseCode": "OPM 490",
+    "courseTitle": "Operations Strategy",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000331",
+    "exists": true,
+    "courseCode": "OPM 495",
+    "courseTitle": "OM Best Practices",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000332",
+    "exists": true,
+    "courseCode": "PHI 201",
+    "courseTitle": "Introduction to Logic",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000333",
+    "exists": true,
+    "courseCode": "ASP 100",
+    "courseTitle": "Elementary Level Reading and Writing",
+    "units": "0.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000334",
+    "exists": true,
+    "courseCode": "ASP 200",
+    "courseTitle": "High Elementary Level",
+    "units": "0.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000335",
+    "exists": true,
+    "courseCode": "ASP 300",
+    "courseTitle": "Low Intermediate Reading and Writing",
+    "units": "0.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000336",
+    "exists": true,
+    "courseCode": "ASP 400",
+    "courseTitle": "High Intermediate Reading and Writing",
+    "units": "0.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000337",
+    "exists": true,
+    "courseCode": "ASP 500",
+    "courseTitle": "Low Advanced Reading and Writing",
+    "units": "0.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000338",
+    "exists": true,
+    "courseCode": "UNKNOWN_000338",
+    "courseTitle": "Unknown Title",
+    "units": "0.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000339",
+    "exists": true,
+    "courseCode": "ASP 700",
+    "courseTitle": "Advanced - B",
+    "units": "0.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000340",
+    "exists": true,
+    "courseCode": "MAT 101",
+    "courseTitle": "College Algebra",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1087",
+        "status": "OPEN",
+        "seats": "8/50",
+        "schedule": "Tuesday Sunday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_2"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1091",
+        "status": "OPEN",
+        "seats": "18/50",
+        "schedule": "Monday Wednesday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_2"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1100",
+        "status": "OPEN",
+        "seats": "33/50",
+        "schedule": "Monday Wednesday 2:00PM to 3:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-D"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1092",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday Sunday 11:00AM to 12:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_3"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1096",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday Wednesday 12:30PM to 1:45PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-K"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1098",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday Sunday 12:30PM to 1:45PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-J"
+      }
+    ]
+  },
+  {
+    "id": "000341",
+    "exists": true,
+    "courseCode": "MAT 201",
+    "courseTitle": "Math II",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000342",
+    "exists": true,
+    "courseCode": "PSY 101",
+    "courseTitle": "Introduction to Psychology",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1308",
+        "status": "OPEN",
+        "seats": "5/45",
+        "schedule": "Tuesday Sunday 2:00PM to 3:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1303",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday Sunday 8:00AM to 9:15AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-G"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1310",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday Wednesday 8:00AM to 9:15AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-K"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1329",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday Wednesday 2:00PM to 3:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000343",
+    "exists": true,
+    "courseCode": "BIO 101A",
+    "courseTitle": "Introduction to Biology I Laboratory",
+    "units": "1.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000344",
+    "exists": true,
+    "courseCode": "BIO 201",
+    "courseTitle": "Biology II with Lab",
+    "units": "2.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000345",
+    "exists": true,
+    "courseCode": "BIO 201A",
+    "courseTitle": "Biology II Laboratory",
+    "units": "1.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000358",
+    "exists": true,
+    "courseCode": "UNKNOWN_000358",
+    "courseTitle": "Unknown Title",
+    "units": "0.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000359",
+    "exists": true,
+    "courseCode": "ASP 201",
+    "courseTitle": "High Elementary Level Listening and Speaking",
+    "units": "0.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000360",
+    "exists": true,
+    "courseCode": "ASP 301",
+    "courseTitle": "Low Intermediate Listening and Speaking",
+    "units": "0.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000361",
+    "exists": true,
+    "courseCode": "ASP 401",
+    "courseTitle": "High Intermediate Listening and Speaking",
+    "units": "0.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000362",
+    "exists": true,
+    "courseCode": "ASP 501",
+    "courseTitle": "Low Advanced Listening and Speaking",
+    "units": "0.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000363",
+    "exists": true,
+    "courseCode": "ASP 101",
+    "courseTitle": "Unknown Title",
+    "units": "0.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000364",
+    "exists": true,
+    "courseCode": "ASP 301",
+    "courseTitle": "Low Intermediate Listening and Speaking",
+    "units": "0.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000365",
+    "exists": true,
+    "courseCode": "ASP 301",
+    "courseTitle": "Low Intermediate Listening and Speaking",
+    "units": "0.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000366",
+    "exists": true,
+    "courseCode": "ASP 302",
+    "courseTitle": "Low Intermediate Listening and Speaking",
+    "units": "0.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000371",
+    "exists": true,
+    "courseCode": "ASP 601A",
+    "courseTitle": "Unknown Title",
+    "units": "0.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000372",
+    "exists": true,
+    "courseCode": "BIO 210",
+    "courseTitle": "Biostatistics",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1019",
+        "status": "OPEN",
+        "seats": "4/80",
+        "schedule": "Tuesday Sunday 11:00AM to 12:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-G"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1020",
+        "status": "OPEN",
+        "seats": "56/80",
+        "schedule": "Monday Wednesday 12:30PM to 1:45PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-D"
+      }
+    ]
+  },
+  {
+    "id": "000373",
+    "exists": true,
+    "courseCode": "CSC 140",
+    "courseTitle": "Introduction to C Programming",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1719",
+        "status": "OPEN",
+        "seats": "13/40",
+        "schedule": "Tuesday Sunday 11:00AM to 12:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1720",
+        "status": "OPEN",
+        "seats": "21/40",
+        "schedule": "Tuesday Sunday 8:00AM to 9:15AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1721",
+        "status": "OPEN",
+        "seats": "12/40",
+        "schedule": "Monday Wednesday 12:30PM to 1:45PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1468",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday Sunday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1718",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday Wednesday 11:00AM to 12:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000374",
+    "exists": true,
+    "courseCode": "HIS 102",
+    "courseTitle": "Civilizations and History II",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1277",
+        "status": "OPEN",
+        "seats": "1/45",
+        "schedule": "Tuesday Sunday 8:00AM to 9:15AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-J"
+      }
+    ]
+  },
+  {
+    "id": "000375",
+    "exists": true,
+    "courseCode": "ENL 201",
+    "courseTitle": "Academic Writing",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1243",
+        "status": "OPEN",
+        "seats": "1/20",
+        "schedule": "Tuesday Sunday 8:00AM to 9:15AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-L"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1247",
+        "status": "OPEN",
+        "seats": "1/20",
+        "schedule": "Tuesday Sunday 2:00PM to 3:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-L"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1244",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday Sunday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1245",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday Sunday 11:00AM to 12:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_3"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1246",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday Sunday 12:30PM to 1:45PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_3"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1249",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday Wednesday 8:00AM to 9:15AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-N"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1250",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday Wednesday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1251",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday Wednesday 11:00AM to 12:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_2D"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1254",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday Wednesday 12:30PM to 1:45PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_2"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1255",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday Wednesday 2:00PM to 3:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_2"
+      }
+    ]
+  },
+  {
+    "id": "000376",
+    "exists": true,
+    "courseCode": "UNI 101",
+    "courseTitle": "First Year University Experience",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000377",
+    "exists": true,
+    "courseCode": "ENL 101",
+    "courseTitle": "Expository Writing",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1227",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday Sunday 8:00AM to 9:15AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-D"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1228",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday Sunday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_3"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1229",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday Sunday 11:00AM to 12:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_2"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1234",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday Sunday 12:30PM to 1:45PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_2"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1236",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday Sunday 2:00PM to 3:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-E"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1238",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday Wednesday 8:00AM to 9:15AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-L"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1239",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday Wednesday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_3"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1240",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday Wednesday 11:00AM to 12:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-N"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1241",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday Wednesday 12:30PM to 1:45PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-M"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1242",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday Wednesday 2:00PM to 3:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-K"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1717",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday Wednesday 12:30PM to 1:45PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-N"
+      }
+    ]
+  },
+  {
+    "id": "000378",
+    "exists": true,
+    "courseCode": "UNI 101",
+    "courseTitle": "First-Year University Experience",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1209",
+        "status": "OPEN",
+        "seats": "2/45",
+        "schedule": "Tuesday Sunday 8:00AM to 9:15AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_2"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1210",
+        "status": "OPEN",
+        "seats": "7/45",
+        "schedule": "Tuesday Sunday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_2"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1216",
+        "status": "OPEN",
+        "seats": "2/45",
+        "schedule": "Tuesday Sunday 2:00PM to 3:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-A"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1218",
+        "status": "OPEN",
+        "seats": "7/45",
+        "schedule": "Monday Wednesday 8:00AM to 9:15AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_2"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1221",
+        "status": "OPEN",
+        "seats": "2/45",
+        "schedule": "Monday Wednesday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1224",
+        "status": "OPEN",
+        "seats": "13/45",
+        "schedule": "Monday Wednesday 2:00PM to 3:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-G"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1212",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday Sunday 11:00AM to 12:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_3"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1214",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday Sunday 12:30PM to 1:45PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-D"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1222",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday Wednesday 11:00AM to 12:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1223",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday Wednesday 12:30PM to 1:45PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000379",
+    "exists": true,
+    "courseCode": "UNKNOWN_000379",
+    "courseTitle": "Unknown Title",
+    "units": "0.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000380",
+    "exists": true,
+    "courseCode": "UNKNOWN_000380",
+    "courseTitle": "Unknown Title",
+    "units": "0.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000381",
+    "exists": true,
+    "courseCode": "UNKNOWN_000381",
+    "courseTitle": "Unknown Title",
+    "units": "0.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000382",
+    "exists": true,
+    "courseCode": "UNKNOWN_000382",
+    "courseTitle": "Unknown Title",
+    "units": "0.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000383",
+    "exists": true,
+    "courseCode": "UNKNOWN_000383",
+    "courseTitle": "Unknown Title",
+    "units": "0.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000384",
+    "exists": true,
+    "courseCode": "UNKNOWN_000384",
+    "courseTitle": "Unknown Title",
+    "units": "0.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000385",
+    "exists": true,
+    "courseCode": "UNKNOWN_000385",
+    "courseTitle": "Unknown Title",
+    "units": "0.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1620",
+        "status": "OPEN",
+        "seats": "5/25",
+        "schedule": "Monday Tuesday Wednesday Thursday Sunday 8:00AM to 10:00AM",
+        "dates": "23/08/2026 - 22/10/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1621",
+        "status": "OPEN",
+        "seats": "5/25",
+        "schedule": "Monday Tuesday Wednesday Thursday Sunday 10:00AM to 12:00PM",
+        "dates": "23/08/2026 - 22/10/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1622",
+        "status": "OPEN",
+        "seats": "9/25",
+        "schedule": "Monday Tuesday Wednesday Thursday Sunday 8:00AM to 10:00AM",
+        "dates": "23/08/2026 - 22/10/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1623",
+        "status": "OPEN",
+        "seats": "8/25",
+        "schedule": "Monday Tuesday Wednesday Thursday Sunday 10:00AM to 12:00PM",
+        "dates": "23/08/2026 - 22/10/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000386",
+    "exists": true,
+    "courseCode": "ASP 401",
+    "courseTitle": "Unknown Title",
+    "units": "0.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1624",
+        "status": "OPEN",
+        "seats": "5/25",
+        "schedule": "Monday Tuesday Wednesday Thursday Sunday 10:00AM to 12:00PM",
+        "dates": "23/08/2026 - 22/10/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1625",
+        "status": "OPEN",
+        "seats": "5/25",
+        "schedule": "Monday Tuesday Wednesday Thursday Sunday 8:00AM to 10:00AM",
+        "dates": "23/08/2026 - 22/10/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1626",
+        "status": "OPEN",
+        "seats": "9/25",
+        "schedule": "Monday Tuesday Wednesday Thursday Sunday 10:00AM to 12:00PM",
+        "dates": "23/08/2026 - 22/10/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1627",
+        "status": "OPEN",
+        "seats": "8/25",
+        "schedule": "Monday Tuesday Wednesday Thursday Sunday 8:00AM to 10:00AM",
+        "dates": "23/08/2026 - 22/10/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000387",
+    "exists": true,
+    "courseCode": "UNKNOWN_000387",
+    "courseTitle": "Unknown Title",
+    "units": "0.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1628",
+        "status": "OPEN",
+        "seats": "7/25",
+        "schedule": "Monday Tuesday Wednesday Thursday Sunday 8:00AM to 10:00AM",
+        "dates": "23/08/2026 - 22/10/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1629",
+        "status": "OPEN",
+        "seats": "5/25",
+        "schedule": "Monday Tuesday Wednesday Thursday Sunday 10:00AM to 12:00PM",
+        "dates": "23/08/2026 - 22/10/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1630",
+        "status": "OPEN",
+        "seats": "7/25",
+        "schedule": "Monday Tuesday Wednesday Thursday Sunday 8:00AM to 10:00AM",
+        "dates": "23/08/2026 - 22/10/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1631",
+        "status": "OPEN",
+        "seats": "8/25",
+        "schedule": "Monday Tuesday Wednesday Thursday Sunday 10:00AM to 12:00PM",
+        "dates": "23/08/2026 - 22/10/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1632",
+        "status": "OPEN",
+        "seats": "6/25",
+        "schedule": "Monday Tuesday Wednesday Thursday Sunday 8:00AM to 10:00AM",
+        "dates": "23/08/2026 - 22/10/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1633",
+        "status": "OPEN",
+        "seats": "4/25",
+        "schedule": "Monday Tuesday Wednesday Thursday Sunday 10:00AM to 12:00PM",
+        "dates": "23/08/2026 - 22/10/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000388",
+    "exists": true,
+    "courseCode": "UNKNOWN_000388",
+    "courseTitle": "Unknown Title",
+    "units": "0.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1634",
+        "status": "OPEN",
+        "seats": "7/25",
+        "schedule": "Monday Tuesday Wednesday Thursday Sunday 10:00AM to 12:00PM",
+        "dates": "23/08/2026 - 22/10/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1635",
+        "status": "OPEN",
+        "seats": "5/25",
+        "schedule": "Monday Tuesday Wednesday Thursday Sunday 8:00AM to 10:00AM",
+        "dates": "23/08/2026 - 22/10/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1636",
+        "status": "OPEN",
+        "seats": "7/25",
+        "schedule": "Monday Tuesday Wednesday Thursday Sunday 10:00AM to 12:00PM",
+        "dates": "23/08/2026 - 22/10/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1637",
+        "status": "OPEN",
+        "seats": "8/25",
+        "schedule": "Monday Tuesday Wednesday Thursday Sunday 8:00AM to 10:00AM",
+        "dates": "23/08/2026 - 22/10/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1638",
+        "status": "OPEN",
+        "seats": "6/25",
+        "schedule": "Monday Tuesday Wednesday Thursday Sunday 10:00AM to 12:00PM",
+        "dates": "23/08/2026 - 22/10/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1639",
+        "status": "OPEN",
+        "seats": "4/25",
+        "schedule": "Monday Tuesday Wednesday Thursday Sunday 8:00AM to 10:00AM",
+        "dates": "23/08/2026 - 22/10/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000389",
+    "exists": true,
+    "courseCode": "UNKNOWN_000389",
+    "courseTitle": "Unknown Title",
+    "units": "0.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1640",
+        "status": "OPEN",
+        "seats": "6/20",
+        "schedule": "Monday Tuesday Wednesday Thursday Sunday 8:00AM to 10:00AM",
+        "dates": "23/08/2026 - 22/10/2026",
+        "room": "Lecture Hall 1-H"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1641",
+        "status": "OPEN",
+        "seats": "3/20",
+        "schedule": "Monday Tuesday Wednesday Thursday Sunday 8:00AM to 10:00AM",
+        "dates": "23/08/2026 - 22/10/2026",
+        "room": "Lecture Hall 1-I"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1642",
+        "status": "OPEN",
+        "seats": "3/20",
+        "schedule": "Monday Tuesday Wednesday Thursday Sunday 8:00AM to 10:00AM",
+        "dates": "23/08/2026 - 22/10/2026",
+        "room": "Lecture Hall_2E"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1643",
+        "status": "OPEN",
+        "seats": "7/20",
+        "schedule": "Monday Tuesday Wednesday Thursday Sunday 8:00AM to 10:00AM",
+        "dates": "23/08/2026 - 22/10/2026",
+        "room": "Lecture Hall_2"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1644",
+        "status": "OPEN",
+        "seats": "7/20",
+        "schedule": "Monday Tuesday Wednesday Thursday Sunday 8:00AM to 10:00AM",
+        "dates": "23/08/2026 - 22/10/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1645",
+        "status": "OPEN",
+        "seats": "5/20",
+        "schedule": "Monday Tuesday Wednesday Thursday Sunday 8:00AM to 10:00AM",
+        "dates": "23/08/2026 - 22/10/2026",
+        "room": "Lecture Hall_2"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1646",
+        "status": "OPEN",
+        "seats": "4/20",
+        "schedule": "Monday Tuesday Wednesday Thursday Sunday 10:00AM to 12:00PM",
+        "dates": "23/08/2026 - 22/10/2026",
+        "room": "Lecture Hall 1-H"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1647",
+        "status": "OPEN",
+        "seats": "3/20",
+        "schedule": "Monday Tuesday Wednesday Thursday Sunday 10:00AM to 12:00PM",
+        "dates": "23/08/2026 - 22/10/2026",
+        "room": "Lecture Hall 1-I"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1699",
+        "status": "OPEN",
+        "seats": "6/20",
+        "schedule": "Monday Tuesday Wednesday Thursday Sunday 10:00AM to 12:00PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_2E"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1700",
+        "status": "OPEN",
+        "seats": "5/20",
+        "schedule": "Monday Tuesday Wednesday Thursday Sunday 10:00AM to 12:00PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_2"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1701",
+        "status": "OPEN",
+        "seats": "5/20",
+        "schedule": "Monday Tuesday Wednesday Thursday Sunday 10:00AM to 12:00PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1702",
+        "status": "OPEN",
+        "seats": "4/20",
+        "schedule": "Monday Tuesday Wednesday Thursday Sunday 10:00AM to 12:00PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_2"
+      }
+    ]
+  },
+  {
+    "id": "000390",
+    "exists": true,
+    "courseCode": "UNKNOWN_000390",
+    "courseTitle": "Unknown Title",
+    "units": "0.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000391",
+    "exists": true,
+    "courseCode": "UNKNOWN_000391",
+    "courseTitle": "Unknown Title",
+    "units": "0.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000392",
+    "exists": true,
+    "courseCode": "POL 101",
+    "courseTitle": "Introduction to Political Science",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1332",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday Wednesday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_2"
+      }
+    ]
+  },
+  {
+    "id": "000393",
+    "exists": true,
+    "courseCode": "UNKNOWN_000393",
+    "courseTitle": "Unknown Title",
+    "units": "0.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000394",
+    "exists": true,
+    "courseCode": "UNKNOWN_000394",
+    "courseTitle": "Unknown Title",
+    "units": "0.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000395",
+    "exists": true,
+    "courseCode": "MGT 201",
+    "courseTitle": "Principles of Management",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1088",
+        "status": "OPEN",
+        "seats": "1/35",
+        "schedule": "Tuesday Sunday 2:00PM to 3:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_2"
+      }
+    ]
+  },
+  {
+    "id": "000396",
+    "exists": true,
+    "courseCode": "POL 112",
+    "courseTitle": "Globalization and World Politics",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000397",
+    "exists": true,
+    "courseCode": "POL 111",
+    "courseTitle": "Classical Political Thought",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000399",
+    "exists": true,
+    "courseCode": "POL 113",
+    "courseTitle": "Middle East Politics",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000400",
+    "exists": true,
+    "courseCode": "CHE 105",
+    "courseTitle": "General Chemistry for Healthcare Professions",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1173",
+        "status": "OPEN",
+        "seats": "23/70",
+        "schedule": "Monday Wednesday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-K"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1175",
+        "status": "OPEN",
+        "seats": "7/70",
+        "schedule": "Tuesday Sunday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-C"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1547",
+        "status": "OPEN",
+        "seats": "1/70",
+        "schedule": "Tuesday Sunday 12:30PM to 1:45PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-C"
+      }
+    ]
+  },
+  {
+    "id": "000401",
+    "exists": true,
+    "courseCode": "MAT 102",
+    "courseTitle": "Pre-calculus",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1104",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday Sunday 2:00PM to 3:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-O"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1111",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday Wednesday 12:30PM to 1:45PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-O"
+      }
+    ]
+  },
+  {
+    "id": "000402",
+    "exists": true,
+    "courseCode": "MAT 111",
+    "courseTitle": "Calculus and Analytic Geometry I",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1758",
+        "status": "OPEN",
+        "seats": "25/30",
+        "schedule": "Sunday 3:30PM to 6:00PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-C"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1122",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday Wednesday 8:00AM to 9:15AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_3"
+      }
+    ]
+  },
+  {
+    "id": "000403",
+    "exists": true,
+    "courseCode": "CSC 230",
+    "courseTitle": "Object-Oriented Computing",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1469",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday Wednesday 11:00AM to 12:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-O"
+      }
+    ]
+  },
+  {
+    "id": "000404",
+    "exists": true,
+    "courseCode": "HCT 101",
+    "courseTitle": "Fundamentals of Healthcare Professions",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1424",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday Sunday 12:30PM to 1:45PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-B"
+      }
+    ]
+  },
+  {
+    "id": "000405",
+    "exists": true,
+    "courseCode": "BDS 105",
+    "courseTitle": "Medical Physics for Health Professions",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000409",
+    "exists": true,
+    "courseCode": "BIO 217",
+    "courseTitle": "Human Anatomy and Physiology",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1050",
+        "status": "OPEN",
+        "seats": "14/80",
+        "schedule": "Monday Wednesday 11:00AM to 12:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-C"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1670",
+        "status": "OPEN",
+        "seats": "59/80",
+        "schedule": "Monday Wednesday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1671",
+        "status": "OPEN",
+        "seats": "21/80",
+        "schedule": "Tuesday Sunday 8:00AM to 9:15AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-C"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1039",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday Sunday 11:00AM to 12:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-B"
+      }
+    ]
+  },
+  {
+    "id": "000410",
+    "exists": true,
+    "courseCode": "CHE 211",
+    "courseTitle": "Organic Chemistry I",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1192",
+        "status": "OPEN",
+        "seats": "30/60",
+        "schedule": "Monday Wednesday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_2D"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1193",
+        "status": "OPEN",
+        "seats": "3/60",
+        "schedule": "Tuesday Sunday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-J"
+      }
+    ]
+  },
+  {
+    "id": "000412",
+    "exists": true,
+    "courseCode": "PHA 101",
+    "courseTitle": "Introduction to Pharmacy and Pharmaceutical Sciences",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1400",
+        "status": "OPEN",
+        "seats": "28/40",
+        "schedule": "Monday Wednesday 8:00AM to 9:15AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_2"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1401",
+        "status": "OPEN",
+        "seats": "16/40",
+        "schedule": "Monday Wednesday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-N"
+      }
+    ]
+  },
+  {
+    "id": "000413",
+    "exists": true,
+    "courseCode": "FIN 301",
+    "courseTitle": "Principles of Financial Management",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1062",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday Wednesday 8:00AM to 9:15AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_2"
+      }
+    ]
+  },
+  {
+    "id": "000414",
+    "exists": true,
+    "courseCode": "BIO 211",
+    "courseTitle": "General Biology I",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1022",
+        "status": "OPEN",
+        "seats": "25/80",
+        "schedule": "Tuesday Sunday 12:30PM to 1:45PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-G"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1024",
+        "status": "OPEN",
+        "seats": "2/80",
+        "schedule": "Monday Wednesday 11:00AM to 12:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-B"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1666",
+        "status": "OPEN",
+        "seats": "50/80",
+        "schedule": "Monday Wednesday 8:00AM to 9:15AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-A"
+      }
+    ]
+  },
+  {
+    "id": "000415",
+    "exists": true,
+    "courseCode": "BIO 218",
+    "courseTitle": "Pathophysiology",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1059",
+        "status": "OPEN",
+        "seats": "12/80",
+        "schedule": "Monday Wednesday 12:30PM to 1:45PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-C"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1061",
+        "status": "OPEN",
+        "seats": "65/80",
+        "schedule": "Monday Wednesday 2:00PM to 3:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_2B"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1676",
+        "status": "OPEN",
+        "seats": "43/80",
+        "schedule": "Tuesday Sunday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-E"
+      }
+    ]
+  },
+  {
+    "id": "000416",
+    "exists": true,
+    "courseCode": "CSC 231",
+    "courseTitle": "Data Structure",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1470",
+        "status": "OPEN",
+        "seats": "13/40",
+        "schedule": "Tuesday Sunday 11:00AM to 12:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000417",
+    "exists": true,
+    "courseCode": "CSC 343",
+    "courseTitle": "Theory of Computation/Complier",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1474",
+        "status": "OPEN",
+        "seats": "3/35",
+        "schedule": "Tuesday Sunday 12:30PM to 1:45PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000418",
+    "exists": true,
+    "courseCode": "CSC 345",
+    "courseTitle": "Introduction to Database",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000419",
+    "exists": true,
+    "courseCode": "CSC 132",
+    "courseTitle": "Digital Logic",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1467",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday Sunday 8:00AM to 9:15AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-B"
+      }
+    ]
+  },
+  {
+    "id": "000420",
+    "exists": true,
+    "courseCode": "CHE 210",
+    "courseTitle": "Organic Chemistry for Health Sciences",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1191",
+        "status": "OPEN",
+        "seats": "17/60",
+        "schedule": "Monday Wednesday 11:00AM to 12:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_3"
+      }
+    ]
+  },
+  {
+    "id": "000421",
+    "exists": true,
+    "courseCode": "BIO 211L",
+    "courseTitle": "General Biology I Lab",
+    "units": "1.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Laboratory",
+        "classNbr": "1026",
+        "status": "OPEN",
+        "seats": "1/20",
+        "schedule": "Monday 2:00PM to 4:30PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Laboratory",
+        "classNbr": "1030",
+        "status": "OPEN",
+        "seats": "4/20",
+        "schedule": "Thursday 8:00AM to 10:30AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Laboratory",
+        "classNbr": "1668",
+        "status": "OPEN",
+        "seats": "5/20",
+        "schedule": "Sunday 11:00AM to 1:30PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Laboratory",
+        "classNbr": "1669",
+        "status": "OPEN",
+        "seats": "4/20",
+        "schedule": "Monday 8:00AM to 10:30AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Laboratory",
+        "classNbr": "1025",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Sunday 2:00PM to 4:30PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Laboratory",
+        "classNbr": "1027",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday 2:00PM to 4:30PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Laboratory",
+        "classNbr": "1028",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Wednesday 2:00PM to 4:30PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Laboratory",
+        "classNbr": "1031",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Sunday 8:00AM to 10:30AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Laboratory",
+        "classNbr": "1032",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Thursday 11:00AM to 1:30PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000422",
+    "exists": true,
+    "courseCode": "CHE 101L",
+    "courseTitle": "General Chemistry I Lab",
+    "units": "1.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Laboratory",
+        "classNbr": "1650",
+        "status": "OPEN",
+        "seats": "2/20",
+        "schedule": "Sunday 11:00AM to 1:30PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Laboratory",
+        "classNbr": "1651",
+        "status": "OPEN",
+        "seats": "15/20",
+        "schedule": "Sunday 2:00PM to 4:30PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Laboratory",
+        "classNbr": "1652",
+        "status": "OPEN",
+        "seats": "16/20",
+        "schedule": "Sunday 8:00AM to 10:30AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Laboratory",
+        "classNbr": "1141",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Thursday 2:00PM to 4:30PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Laboratory",
+        "classNbr": "1683",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday 2:00PM to 4:30PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000423",
+    "exists": true,
+    "courseCode": "CHE 105L",
+    "courseTitle": "General Chemistry for Healthcare Professions Lab",
+    "units": "1.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Laboratory",
+        "classNbr": "1177",
+        "status": "OPEN",
+        "seats": "6/20",
+        "schedule": "Wednesday 8:00AM to 10:30AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Laboratory",
+        "classNbr": "1178",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday 2:00PM to 4:30PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Laboratory",
+        "classNbr": "1180",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Thursday 8:00AM to 10:30AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Laboratory",
+        "classNbr": "1182",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday 8:00AM to 10:30AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Laboratory",
+        "classNbr": "1183",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Wednesday 2:00PM to 4:30PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000424",
+    "exists": true,
+    "courseCode": "PHY 101L",
+    "courseTitle": "Principles of Physics I Laboratory",
+    "units": "1.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Laboratory",
+        "classNbr": "1539",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Sunday 2:00PM to 4:30PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000425",
+    "exists": true,
+    "courseCode": "MAT 112",
+    "courseTitle": "Calculus II",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1123",
+        "status": "OPEN",
+        "seats": "13/50",
+        "schedule": "Tuesday Sunday 12:30PM to 1:45PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000426",
+    "exists": true,
+    "courseCode": "CSC 337",
+    "courseTitle": "Software Engineering",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000427",
+    "exists": true,
+    "courseCode": "BDS 200",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1124",
+        "status": "OPEN",
+        "seats": "5/50",
+        "schedule": "Monday Wednesday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-O"
+      }
+    ]
+  },
+  {
+    "id": "000428",
+    "exists": true,
+    "courseCode": "BDS 230",
+    "courseTitle": "Oral Histology",
+    "units": "2.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1130",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday Wednesday 12:30PM to 1:45PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-G"
+      }
+    ]
+  },
+  {
+    "id": "000429",
+    "exists": true,
+    "courseCode": "LAW 105",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000430",
+    "exists": true,
+    "courseCode": "POL 142",
+    "courseTitle": "Identity Politics",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1558",
+        "status": "OPEN",
+        "seats": "2/30",
+        "schedule": "Tuesday Sunday 12:30PM to 1:45PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_3"
+      }
+    ]
+  },
+  {
+    "id": "000431",
+    "exists": true,
+    "courseCode": "POL 221",
+    "courseTitle": "Intro to Security Studies",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1747",
+        "status": "OPEN",
+        "seats": "18/25",
+        "schedule": "Monday Wednesday 12:30PM to 1:45PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-H"
+      }
+    ]
+  },
+  {
+    "id": "000434",
+    "exists": true,
+    "courseCode": "BIO 101L",
+    "courseTitle": "Introductory Biology Lab",
+    "units": "1.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000435",
+    "exists": true,
+    "courseCode": "BIO 212",
+    "courseTitle": "General Biology II",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1033",
+        "status": "OPEN",
+        "seats": "72/80",
+        "schedule": "Tuesday Sunday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000436",
+    "exists": true,
+    "courseCode": "BIO 212L",
+    "courseTitle": "General Biology II Lab",
+    "units": "1.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Laboratory",
+        "classNbr": "1034",
+        "status": "OPEN",
+        "seats": "11/16",
+        "schedule": "Tuesday 2:00PM to 4:30PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000437",
+    "exists": true,
+    "courseCode": "BIO 219",
+    "courseTitle": "Medical Microbiology",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1063",
+        "status": "OPEN",
+        "seats": "32/80",
+        "schedule": "Tuesday Sunday 11:00AM to 12:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_2"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1065",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday Wednesday 12:30PM to 1:45PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-B"
+      }
+    ]
+  },
+  {
+    "id": "000438",
+    "exists": true,
+    "courseCode": "CHE 102L",
+    "courseTitle": "General Chemistry II Lab",
+    "units": "1.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Laboratory",
+        "classNbr": "1166",
+        "status": "OPEN",
+        "seats": "1/18",
+        "schedule": "Thursday 2:00PM to 4:30PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000439",
+    "exists": true,
+    "courseCode": "CHE 211L",
+    "courseTitle": "Organic Chemistry I Lab",
+    "units": "1.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Laboratory",
+        "classNbr": "1654",
+        "status": "OPEN",
+        "seats": "11/18",
+        "schedule": "Monday 11:00AM to 1:30PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Laboratory",
+        "classNbr": "1194",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Sunday 2:00PM to 4:30PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Laboratory",
+        "classNbr": "1196",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Wednesday 2:00PM to 4:30PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000440",
+    "exists": true,
+    "courseCode": "CSC 235",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000441",
+    "exists": true,
+    "courseCode": "CSC 313",
+    "courseTitle": "Introduction to Artificial Intelligence",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1472",
+        "status": "OPEN",
+        "seats": "14/35",
+        "schedule": "Monday Wednesday 8:00AM to 9:15AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000442",
+    "exists": true,
+    "courseCode": "CSC 233",
+    "courseTitle": "Python Programming",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000443",
+    "exists": true,
+    "courseCode": "CSC 445",
+    "courseTitle": "Introduction to Computer Networks",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000444",
+    "exists": true,
+    "courseCode": "MAT 113",
+    "courseTitle": "Calculus III",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1125",
+        "status": "OPEN",
+        "seats": "47/50",
+        "schedule": "Thursday 11:00AM to 1:30PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000445",
+    "exists": true,
+    "courseCode": "PHY 102L",
+    "courseTitle": "Principles of Physics II Laboratory",
+    "units": "1.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Laboratory",
+        "classNbr": "1540",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday 2:00PM to 4:30PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000446",
+    "exists": true,
+    "courseCode": "PHY 103",
+    "courseTitle": "Physics for the Life Sciences I",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000447",
+    "exists": true,
+    "courseCode": "PHY 103L",
+    "courseTitle": "Physics for the Life Sciences I Laboratory",
+    "units": "1.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000448",
+    "exists": true,
+    "courseCode": "PHY 105",
+    "courseTitle": "Descriptive Astronomy",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1005",
+        "status": "OPEN",
+        "seats": "1/50",
+        "schedule": "Tuesday Sunday 2:00PM to 3:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-K"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1006",
+        "status": "OPEN",
+        "seats": "1/50",
+        "schedule": "Monday Wednesday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-G"
+      }
+    ]
+  },
+  {
+    "id": "000449",
+    "exists": true,
+    "courseCode": "PHY 211",
+    "courseTitle": "Modern Physics",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000450",
+    "exists": true,
+    "courseCode": "PHY 211L",
+    "courseTitle": "Modern Physics Laboratory",
+    "units": "1.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000451",
+    "exists": true,
+    "courseCode": "HIS 341",
+    "courseTitle": "Eastern Civilizations and History",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000452",
+    "exists": true,
+    "courseCode": "ENL 210",
+    "courseTitle": "Introduction to Public Speaking",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1261",
+        "status": "OPEN",
+        "seats": "1/25",
+        "schedule": "Tuesday Sunday 12:30PM to 1:45PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_2"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1262",
+        "status": "OPEN",
+        "seats": "8/25",
+        "schedule": "Tuesday Sunday 2:00PM to 3:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-F"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1263",
+        "status": "OPEN",
+        "seats": "6/25",
+        "schedule": "Monday Wednesday 8:00AM to 9:15AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 2-A"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1264",
+        "status": "OPEN",
+        "seats": "1/25",
+        "schedule": "Monday Wednesday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1256",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday Sunday 8:00AM to 9:15AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1257",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday Sunday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_3"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1259",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday Sunday 11:00AM to 12:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1265",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday Wednesday 11:00AM to 12:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 2-A"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1268",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday Wednesday 12:30PM to 1:45PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 2-A"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1269",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday Wednesday 2:00PM to 3:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-O"
+      }
+    ]
+  },
+  {
+    "id": "000453",
+    "exists": true,
+    "courseCode": "ENL 212",
+    "courseTitle": "Introduction to Linguistics",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1355",
+        "status": "OPEN",
+        "seats": "1/20",
+        "schedule": "Monday Wednesday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Room -"
+      }
+    ]
+  },
+  {
+    "id": "000454",
+    "exists": true,
+    "courseCode": "MGT 330",
+    "courseTitle": "Total Quality Management",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000455",
+    "exists": true,
+    "courseCode": "LIT 220",
+    "courseTitle": "British Literature Survey I",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000456",
+    "exists": true,
+    "courseCode": "MAT 130",
+    "courseTitle": "Linear Algebra",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000457",
+    "exists": true,
+    "courseCode": "POL 140",
+    "courseTitle": "Comparative Politics",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1557",
+        "status": "OPEN",
+        "seats": "18/30",
+        "schedule": "Tuesday Sunday 8:00AM to 9:15AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-F"
+      }
+    ]
+  },
+  {
+    "id": "000458",
+    "exists": true,
+    "courseCode": "POL 214",
+    "courseTitle": "Post-Colonialism",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000459",
+    "exists": true,
+    "courseCode": "POL 219",
+    "courseTitle": "Colloquium on Machiavelli",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000460",
+    "exists": true,
+    "courseCode": "POL 240",
+    "courseTitle": "International Organization",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1561",
+        "status": "OPEN",
+        "seats": "23/30",
+        "schedule": "Monday Wednesday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Room -"
+      }
+    ]
+  },
+  {
+    "id": "000461",
+    "exists": true,
+    "courseCode": "POL 266",
+    "courseTitle": "Modern South Africa",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1569",
+        "status": "OPEN",
+        "seats": "21/30",
+        "schedule": "Monday Wednesday 12:30PM to 1:45PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000462",
+    "exists": true,
+    "courseCode": "POL 268",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000463",
+    "exists": true,
+    "courseCode": "POL 307",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000464",
+    "exists": true,
+    "courseCode": "POL 392",
+    "courseTitle": "PPP Internship: Policy, Participation, Practice",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000465",
+    "exists": true,
+    "courseCode": "POL 390",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000466",
+    "exists": true,
+    "courseCode": "POL 391",
+    "courseTitle": "Seminar: Security and Democracy",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000467",
+    "exists": true,
+    "courseCode": "BIO 220",
+    "courseTitle": "General Histology",
+    "units": "2.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1072",
+        "status": "OPEN",
+        "seats": "30/80",
+        "schedule": "Tuesday Sunday 11:00AM to 12:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-J"
+      }
+    ]
+  },
+  {
+    "id": "000468",
+    "exists": true,
+    "courseCode": "BIO 220L",
+    "courseTitle": "General Histology Lab",
+    "units": "1.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000469",
+    "exists": true,
+    "courseCode": "CHE 210L",
+    "courseTitle": "Organic Chemistry for Health Sciences Lab",
+    "units": "1.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000470",
+    "exists": true,
+    "courseCode": "LAW 112",
+    "courseTitle": "History of Roman Law and Hammurabi Law",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1015",
+        "status": "OPEN",
+        "seats": "3/20",
+        "schedule": "Tuesday Sunday 11:00AM to 12:30PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000471",
+    "exists": true,
+    "courseCode": "LAW 101",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1008",
+        "status": "OPEN",
+        "seats": "1/14",
+        "schedule": "Monday Wednesday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1010",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday Wednesday 12:30PM to 1:45PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000472",
+    "exists": true,
+    "courseCode": "LAW 104",
+    "courseTitle": "Criminology and Penology",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1076",
+        "status": "OPEN",
+        "seats": "5/14",
+        "schedule": "Tuesday Sunday 2:00PM to 3:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_2"
+      }
+    ]
+  },
+  {
+    "id": "000473",
+    "exists": true,
+    "courseCode": "LAW 103",
+    "courseTitle": "Legal Reasoning and Writing",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1021",
+        "status": "OPEN",
+        "seats": "1/14",
+        "schedule": "Tuesday Sunday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_3"
+      }
+    ]
+  },
+  {
+    "id": "000474",
+    "exists": true,
+    "courseCode": "MAT 202",
+    "courseTitle": "Discrete Mathematics",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1127",
+        "status": "OPEN",
+        "seats": "6/50",
+        "schedule": "Tuesday Sunday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_2"
+      }
+    ]
+  },
+  {
+    "id": "000475",
+    "exists": true,
+    "courseCode": "BDS 200L",
+    "courseTitle": "Dental Anatomy and Occlusion laboratory",
+    "units": "1.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Laboratory",
+        "classNbr": "1213",
+        "status": "OPEN",
+        "seats": "8/34",
+        "schedule": "Monday 2:00PM to 4:30PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "PHA_2"
+      },
+      {
+        "component": "Laboratory",
+        "classNbr": "1215",
+        "status": "OPEN",
+        "seats": "9/34",
+        "schedule": "Wednesday 2:00PM to 4:30PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "PHA_2"
+      }
+    ]
+  },
+  {
+    "id": "000476",
+    "exists": true,
+    "courseCode": "BDS 220",
+    "courseTitle": "Dental material",
+    "units": "2.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1128",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday Sunday 11:00AM to 12:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-O"
+      }
+    ]
+  },
+  {
+    "id": "000477",
+    "exists": true,
+    "courseCode": "BDS 217",
+    "courseTitle": "Head and Neck Anatomy",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1126",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday Wednesday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-C"
+      }
+    ]
+  },
+  {
+    "id": "000478",
+    "exists": true,
+    "courseCode": "BDS 240",
+    "courseTitle": "Introduction to Dentistry and Scientific Evidence",
+    "units": "2.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1131",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday Sunday 12:30PM to 1:45PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-K"
+      }
+    ]
+  },
+  {
+    "id": "000479",
+    "exists": true,
+    "courseCode": "BDS 260",
+    "courseTitle": "Cariology",
+    "units": "1.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1134",
+        "status": "OPEN",
+        "seats": "2/62",
+        "schedule": "Sunday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-K"
+      }
+    ]
+  },
+  {
+    "id": "000480",
+    "exists": true,
+    "courseCode": "BDS 270",
+    "courseTitle": "Biochemistry for Dentistry",
+    "units": "1.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1135",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-K"
+      }
+    ]
+  },
+  {
+    "id": "000481",
+    "exists": true,
+    "courseCode": "BIO 225",
+    "courseTitle": "Biochemistry",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1081",
+        "status": "OPEN",
+        "seats": "58/80",
+        "schedule": "Tuesday Sunday 12:30PM to 1:45PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_3"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1082",
+        "status": "OPEN",
+        "seats": "51/80",
+        "schedule": "Monday Wednesday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-L"
+      }
+    ]
+  },
+  {
+    "id": "000482",
+    "exists": true,
+    "courseCode": "CHE 212",
+    "courseTitle": "Organic Chemistry II",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1197",
+        "status": "OPEN",
+        "seats": "20/60",
+        "schedule": "Monday Wednesday 11:00AM to 12:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_3"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1549",
+        "status": "OPEN",
+        "seats": "42/60",
+        "schedule": "Tuesday Sunday 12:30PM to 1:45PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_3"
+      }
+    ]
+  },
+  {
+    "id": "000483",
+    "exists": true,
+    "courseCode": "CSC 390",
+    "courseTitle": "Internship I in Computer Science",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000484",
+    "exists": true,
+    "courseCode": "POL 125",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1280",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday Sunday 11:00AM to 12:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-E"
+      }
+    ]
+  },
+  {
+    "id": "000485",
+    "exists": true,
+    "courseCode": "PHA 210",
+    "courseTitle": "Introduction to Global Health",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1403",
+        "status": "OPEN",
+        "seats": "12/40",
+        "schedule": "Monday Wednesday 12:30PM to 1:45PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_2"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1404",
+        "status": "OPEN",
+        "seats": "20/40",
+        "schedule": "Monday Wednesday 2:00PM to 3:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-C"
+      }
+    ]
+  },
+  {
+    "id": "000486",
+    "exists": true,
+    "courseCode": "BUS 375",
+    "courseTitle": "Internship",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000487",
+    "exists": true,
+    "courseCode": "LIT 240",
+    "courseTitle": "British Literature Survey II",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000488",
+    "exists": true,
+    "courseCode": "ENL 330",
+    "courseTitle": "Advanced Composition and Creative Writing",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1354",
+        "status": "OPEN",
+        "seats": "19/25",
+        "schedule": "Tuesday Sunday 12:30PM to 1:45PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_2"
+      }
+    ]
+  },
+  {
+    "id": "000489",
+    "exists": true,
+    "courseCode": "CSC 310",
+    "courseTitle": "Web Programming",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000490",
+    "exists": true,
+    "courseCode": "MAT 220",
+    "courseTitle": "Ordinary Differential Equations",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000491",
+    "exists": true,
+    "courseCode": "PSY 230",
+    "courseTitle": "Cognitive Psychology",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000492",
+    "exists": true,
+    "courseCode": "PSY 240",
+    "courseTitle": "Social Psychology",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000493",
+    "exists": true,
+    "courseCode": "PSY 270",
+    "courseTitle": "Research Methods in Psychology I",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1358",
+        "status": "OPEN",
+        "seats": "19/25",
+        "schedule": "Tuesday Sunday 11:00AM to 12:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000494",
+    "exists": true,
+    "courseCode": "PSY 226",
+    "courseTitle": "Personality Psychology",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000495",
+    "exists": true,
+    "courseCode": "ACC 307",
+    "courseTitle": "Accounting Information Systems",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000496",
+    "exists": true,
+    "courseCode": "PHA 300",
+    "courseTitle": "Pharmacology I",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1514",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday Wednesday 8:00AM to 9:15AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-E"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1515",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday Wednesday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_2"
+      }
+    ]
+  },
+  {
+    "id": "000497",
+    "exists": true,
+    "courseCode": "PHA 310",
+    "courseTitle": "Dosage Forms I",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1371",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday Sunday 8:00AM to 9:15AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-O"
+      }
+    ]
+  },
+  {
+    "id": "000498",
+    "exists": true,
+    "courseCode": "PHA 310L",
+    "courseTitle": "Dosage Forms I Laboratory",
+    "units": "1.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Laboratory",
+        "classNbr": "1374",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday 2:00PM to 4:30PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Laboratory",
+        "classNbr": "1377",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Wednesday 2:00PM to 4:30PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Laboratory",
+        "classNbr": "1379",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Sunday 11:00AM to 1:30PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Laboratory",
+        "classNbr": "1381",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Thursday 11:00AM to 1:30PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000499",
+    "exists": true,
+    "courseCode": "PHA 320",
+    "courseTitle": "Medicinal Chemistry I",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1415",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday Wednesday 8:00AM to 9:15AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-D"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1419",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday Wednesday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_2"
+      }
+    ]
+  },
+  {
+    "id": "000500",
+    "exists": true,
+    "courseCode": "PHA 330",
+    "courseTitle": "Pharmaceutical Analysis",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1492",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday Sunday 11:00AM to 12:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_2"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1493",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday Sunday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_2"
+      }
+    ]
+  },
+  {
+    "id": "000501",
+    "exists": true,
+    "courseCode": "PHA 330L",
+    "courseTitle": "Pharmaceutical Analysis Laboratory",
+    "units": "1.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Laboratory",
+        "classNbr": "1427",
+        "status": "OPEN",
+        "seats": "7/18",
+        "schedule": "Thursday 8:00AM to 10:30AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "PHA_66C104"
+      },
+      {
+        "component": "Laboratory",
+        "classNbr": "1428",
+        "status": "OPEN",
+        "seats": "1/18",
+        "schedule": "Thursday 11:00AM to 1:30PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "PHA_66C104"
+      },
+      {
+        "component": "Laboratory",
+        "classNbr": "1429",
+        "status": "OPEN",
+        "seats": "9/18",
+        "schedule": "Tuesday 8:00AM to 10:30AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "PHA_66C104"
+      },
+      {
+        "component": "Laboratory",
+        "classNbr": "1426",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday 8:00AM to 10:30AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "PHA_66C104"
+      },
+      {
+        "component": "Laboratory",
+        "classNbr": "1430",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Wednesday 2:00PM to 4:30PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "PHA_66C104"
+      }
+    ]
+  },
+  {
+    "id": "000502",
+    "exists": true,
+    "courseCode": "MKT 340",
+    "courseTitle": "Social Media Marketing",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1114",
+        "status": "OPEN",
+        "seats": "23/35",
+        "schedule": "Monday Wednesday 2:00PM to 3:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-E"
+      }
+    ]
+  },
+  {
+    "id": "000503",
+    "exists": true,
+    "courseCode": "FIN 101",
+    "courseTitle": "Finance for non-Business Students",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000504",
+    "exists": true,
+    "courseCode": "FIN 302",
+    "courseTitle": "Islamic Finance",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000505",
+    "exists": true,
+    "courseCode": "BDS 230L",
+    "courseTitle": "Oral Histology Laboratory",
+    "units": "1.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Laboratory",
+        "classNbr": "1225",
+        "status": "OPEN",
+        "seats": "1/30",
+        "schedule": "Sunday 2:00PM to 4:00PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "PHA_2"
+      },
+      {
+        "component": "Laboratory",
+        "classNbr": "1226",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday 2:00PM to 4:00PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "PHA_2"
+      }
+    ]
+  },
+  {
+    "id": "000506",
+    "exists": true,
+    "courseCode": "BDS 217L",
+    "courseTitle": "Head and Neck Anatomy Lab",
+    "units": "1.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Laboratory",
+        "classNbr": "1220",
+        "status": "OPEN",
+        "seats": "9/30",
+        "schedule": "Sunday 2:00PM to 4:00PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      },
+      {
+        "component": "Laboratory",
+        "classNbr": "1219",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday 2:00PM to 4:00PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000507",
+    "exists": true,
+    "courseCode": "BDS 250",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": []
+  },
+  {
+    "id": "000508",
+    "exists": true,
+    "courseCode": "PHY 100",
+    "courseTitle": "Conceptual Physics",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000509",
+    "exists": true,
+    "courseCode": "PHY 104",
+    "courseTitle": "Physic for the Life Sciences II",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1012",
+        "status": "OPEN",
+        "seats": "37/50",
+        "schedule": "Monday Wednesday 12:30PM to 1:45PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_3"
+      }
+    ]
+  },
+  {
+    "id": "000510",
+    "exists": true,
+    "courseCode": "PHY 104L",
+    "courseTitle": "Physics for the Life Sciences II Laboratory",
+    "units": "1.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Laboratory",
+        "classNbr": "1014",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Thursday 8:00AM to 10:30AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000511",
+    "exists": true,
+    "courseCode": "PHY 212",
+    "courseTitle": "Physics of Waves and Vibrations",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000512",
+    "exists": true,
+    "courseCode": "PHY 221",
+    "courseTitle": "Classical Mechanics",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000513",
+    "exists": true,
+    "courseCode": "CSC 448",
+    "courseTitle": "Introduction to Cyber Security",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1477",
+        "status": "OPEN",
+        "seats": "3/35",
+        "schedule": "Tuesday Sunday 11:00AM to 12:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000514",
+    "exists": true,
+    "courseCode": "CIS 191",
+    "courseTitle": "Global Climate Change",
+    "units": "0.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000515",
+    "exists": true,
+    "courseCode": "ECO 101",
+    "courseTitle": "History of Economic Thought",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1048",
+        "status": "OPEN",
+        "seats": "2/35",
+        "schedule": "Monday Wednesday 11:00AM to 12:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-D"
+      }
+    ]
+  },
+  {
+    "id": "000516",
+    "exists": true,
+    "courseCode": "BUS 215",
+    "courseTitle": "Business Law",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000517",
+    "exists": true,
+    "courseCode": "STA 210",
+    "courseTitle": "Applied Probability and Statistics",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1132",
+        "status": "OPEN",
+        "seats": "15/35",
+        "schedule": "Tuesday Sunday 8:00AM to 9:15AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_3"
+      }
+    ]
+  },
+  {
+    "id": "000518",
+    "exists": true,
+    "courseCode": "POL 191",
+    "courseTitle": "Global Climate Change",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1748",
+        "status": "OPEN",
+        "seats": "30/40",
+        "schedule": "Tuesday Sunday 2:00PM to 3:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000519",
+    "exists": true,
+    "courseCode": "POL 230",
+    "courseTitle": "International Political Economy",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1560",
+        "status": "OPEN",
+        "seats": "12/25",
+        "schedule": "Monday Wednesday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000520",
+    "exists": true,
+    "courseCode": "POL 263",
+    "courseTitle": "Hungary: Socioeconomic History, etc",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000521",
+    "exists": true,
+    "courseCode": "POL 265",
+    "courseTitle": "Canadian Foreign and Defense Policy",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000522",
+    "exists": true,
+    "courseCode": "POL 272",
+    "courseTitle": "Political Psychology",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000523",
+    "exists": true,
+    "courseCode": "POL 311",
+    "courseTitle": "Modern Political Thought",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000524",
+    "exists": true,
+    "courseCode": "POL 312",
+    "courseTitle": "International Relations: Theory and Practice",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000525",
+    "exists": true,
+    "courseCode": "POL 340",
+    "courseTitle": "The UN and the EU",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1570",
+        "status": "OPEN",
+        "seats": "24/30",
+        "schedule": "Monday Wednesday 2:00PM to 3:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-N"
+      }
+    ]
+  },
+  {
+    "id": "000526",
+    "exists": true,
+    "courseCode": "POL 350",
+    "courseTitle": "Research Methods",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1706",
+        "status": "OPEN",
+        "seats": "18/30",
+        "schedule": "Monday Wednesday 2:00PM to 3:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000527",
+    "exists": true,
+    "courseCode": "ENL 321",
+    "courseTitle": "Vocabulary Enhancement",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000528",
+    "exists": true,
+    "courseCode": "MGT 310",
+    "courseTitle": "Supply Chain Management",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1095",
+        "status": "OPEN",
+        "seats": "18/35",
+        "schedule": "Tuesday Sunday 2:00PM to 3:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-M"
+      }
+    ]
+  },
+  {
+    "id": "000529",
+    "exists": true,
+    "courseCode": "LAW 106",
+    "courseTitle": "Constitutional Law",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1080",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday Sunday 12:30PM to 1:45PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000530",
+    "exists": true,
+    "courseCode": "LAW 220",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1094",
+        "status": "OPEN",
+        "seats": "2/14",
+        "schedule": "Monday Wednesday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000531",
+    "exists": true,
+    "courseCode": "LAW 221",
+    "courseTitle": "Administrative Law",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1105",
+        "status": "OPEN",
+        "seats": "12/17",
+        "schedule": "Monday Wednesday 11:00AM to 12:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000532",
+    "exists": true,
+    "courseCode": "LAW 227",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1554",
+        "status": "OPEN",
+        "seats": "15/30",
+        "schedule": "Monday Wednesday 12:30PM to 1:45PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000533",
+    "exists": true,
+    "courseCode": "PHA 300L",
+    "courseTitle": "Pharmacology Laboratory",
+    "units": "1.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Laboratory",
+        "classNbr": "1516",
+        "status": "OPEN",
+        "seats": "1/18",
+        "schedule": "Monday 2:00PM to 4:30PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "PHA_66C103"
+      },
+      {
+        "component": "Laboratory",
+        "classNbr": "1518",
+        "status": "OPEN",
+        "seats": "9/18",
+        "schedule": "Thursday 8:00AM to 10:30AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "PHA_66C103"
+      },
+      {
+        "component": "Laboratory",
+        "classNbr": "1519",
+        "status": "OPEN",
+        "seats": "9/18",
+        "schedule": "Wednesday 2:00PM to 4:30PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "PHA_66C103"
+      },
+      {
+        "component": "Laboratory",
+        "classNbr": "1520",
+        "status": "OPEN",
+        "seats": "5/18",
+        "schedule": "Thursday 11:00AM to 1:30PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "PHA_66C103"
+      },
+      {
+        "component": "Laboratory",
+        "classNbr": "1517",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday 8:00AM to 10:30AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "PHA_66C103"
+      }
+    ]
+  },
+  {
+    "id": "000534",
+    "exists": true,
+    "courseCode": "OVS 101",
+    "courseTitle": "Ocular Anatomy",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000535",
+    "exists": true,
+    "courseCode": "OVS 101L",
+    "courseTitle": "Ocular Anatomy Lab",
+    "units": "1.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000536",
+    "exists": true,
+    "courseCode": "OVS 110",
+    "courseTitle": "Introduction to Physical optics",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000537",
+    "exists": true,
+    "courseCode": "RAD 101",
+    "courseTitle": "Introduction to Radiologic Sciences",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1684",
+        "status": "OPEN",
+        "seats": "17/25",
+        "schedule": "Tuesday Sunday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000538",
+    "exists": true,
+    "courseCode": "UNKNOWN_000538",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000539",
+    "exists": true,
+    "courseCode": "PHA 390",
+    "courseTitle": "Drug Information and Literature Evaluation",
+    "units": "2.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1396",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Thursday 8:00AM to 9:40AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_2B"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1397",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Thursday 10:00AM to 11:40AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_2B"
+      }
+    ]
+  },
+  {
+    "id": "000540",
+    "exists": true,
+    "courseCode": "CSC 391",
+    "courseTitle": "Internship II in Computer Science",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000541",
+    "exists": true,
+    "courseCode": "CSC 344",
+    "courseTitle": "Statistical Methods for Data Scientists",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000542",
+    "exists": true,
+    "courseCode": "CSC 333",
+    "courseTitle": "Machine Learning",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000543",
+    "exists": true,
+    "courseCode": "CSC 313",
+    "courseTitle": "Introduction to Artificial Intelligence",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000544",
+    "exists": true,
+    "courseCode": "ANT 101",
+    "courseTitle": "Introduction to Anesthesia",
+    "units": "3.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1440",
+        "status": "OPEN",
+        "seats": "20/30",
+        "schedule": "Tuesday Sunday 11:00AM to 12:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000545",
+    "exists": true,
+    "courseCode": "CSC 232",
+    "courseTitle": "Unknown Title",
+    "units": "3.00",
+    "scheduled": false,
+    "sections": []
+  },
+  {
+    "id": "000546",
+    "exists": true,
+    "courseCode": "BDS 360",
+    "courseTitle": "Operative Dentistry I",
+    "units": "1.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1154",
+        "status": "OPEN",
+        "seats": "4/50",
+        "schedule": "Tuesday 8:00AM to 9:15AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_3"
+      }
+    ]
+  },
+  {
+    "id": "000547",
+    "exists": true,
+    "courseCode": "BDS 360L",
+    "courseTitle": "Preclinical Operative Dentistry I",
+    "units": "1.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Laboratory",
+        "classNbr": "1252",
+        "status": "OPEN",
+        "seats": "11/30",
+        "schedule": "Sunday 8:00AM to 10:30AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "PHA_2"
+      },
+      {
+        "component": "Laboratory",
+        "classNbr": "1253",
+        "status": "OPEN",
+        "seats": "3/30",
+        "schedule": "Sunday 2:00PM to 4:30PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "PHA_2"
+      }
+    ]
+  },
+  {
+    "id": "000548",
+    "exists": true,
+    "courseCode": "BDS 302",
+    "courseTitle": "Dental Anesthesiology",
+    "units": "1.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1137",
+        "status": "OPEN",
+        "seats": "12/45",
+        "schedule": "Sunday 2:00PM to 3:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "TBA"
+      }
+    ]
+  },
+  {
+    "id": "000549",
+    "exists": true,
+    "courseCode": "BDS 320",
+    "courseTitle": "Oral Surgery I",
+    "units": "2.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1150",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Tuesday Sunday 3:30PM to 4:45PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-B"
+      }
+    ]
+  },
+  {
+    "id": "000550",
+    "exists": true,
+    "courseCode": "BDS 310",
+    "courseTitle": "Fixed Prosthodontics I",
+    "units": "2.00",
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1147",
+        "status": "CLOSED",
+        "seats": "0",
+        "schedule": "Monday Wednesday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_3"
+      }
+    ]
+  }
+]

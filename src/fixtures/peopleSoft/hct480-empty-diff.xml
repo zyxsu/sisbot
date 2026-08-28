@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PAGE id="SSR_CLSDTL_LF_SCF">
+  <SCRIPT><![CDATA[
+    oDoc.win77.ICStateNum.value=9;
+  ]]></SCRIPT>
+</PAGE>

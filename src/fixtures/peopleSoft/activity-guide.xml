@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <update id="activity-guide-fixture"><![CDATA[
+    <nav aria-label="Class Search and Enroll Activity Guide">
+      <a
+        id="activity-step-fixture-41"
+        href="/s/WEBLIB_PTAI.ISCRIPT1.FieldFormula.IScript_AIPreProcessing?SERVICEID=SSR_ENRL_SELECT_FL&amp;PTAI_LIST_ID=list-fixture-a91f&amp;PTAI_ITEM_ID=item-fixture-c73d&amp;PTAI_INSTANCE=instance-fixture-5e20"
+      >Review Class Selection</a>
+    </nav>
+  ]]></update>
+</response>
