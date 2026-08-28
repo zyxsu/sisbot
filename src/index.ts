@@ -1,3 +1,9 @@
+try {
+  process.loadEnvFile?.();
+} catch {
+  // Ignore if .env is missing or already loaded
+}
+
 import { PlaywrightAuibAuthenticator } from './auth/index.js';
 import { loadEnvironment } from './config/env.js';
 import { logger } from './config/logger.js';
