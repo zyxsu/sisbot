@@ -3,6 +3,7 @@ import type { SectionRepository, UserSessionRepository } from '../../db/index.js
 import type { MonitoredSection, SectionSnapshot } from '../../db/schema.js';
 import type { PeopleSoftAvailabilityClient } from './availability-client.js';
 import { PeopleSoftSessionExpiredError } from './peoplesoft-client.js';
+import type { AuibAuthenticator } from '../../auth/types.js';
 
 export class SectionStatusError extends Error {
   public constructor(
@@ -27,6 +28,7 @@ export interface SectionStatusServiceOptions {
   userSessionRepository: UserSessionRepository;
   availabilityClient: PeopleSoftAvailabilityClient;
   encryptionKey: string;
+  authenticator?: AuibAuthenticator;
 }
 
 export class SectionStatusService {
@@ -46,7 +48,7 @@ export class SectionStatusService {
     }
     const previousSnapshot = await this.options.sectionRepository.getLatestSnapshot(existing.id);
 
-    const session = await this.options.userSessionRepository.getActiveUserSession(
+    let session = await this.options.userSessionRepository.getActiveUserSession(
       userId,
       this.options.encryptionKey,
     );
@@ -97,6 +99,81 @@ export class SectionStatusService {
       return { section, snapshot };
     } catch (error) {
       if (error instanceof PeopleSoftSessionExpiredError) {
+        // Attempt silent background auto-refresh via Microsoft KMSI
+        const sessionDataObj =
+          typeof session.sessionData === 'object' && session.sessionData !== null
+            ? (session.sessionData as Record<string, unknown>)
+            : null;
+        const savedStorageState = sessionDataObj?.storageState;
+
+        if (this.options.authenticator?.refreshSession !== undefined && savedStorageState !== undefined) {
+          try {
+            const refreshed = await this.options.authenticator.refreshSession(savedStorageState);
+            if (refreshed !== null && refreshed.cookies.length > 0) {
+              const updatedSessionData = {
+                rawCookies: refreshed.cookies,
+                ...(refreshed.storageState !== undefined
+                  ? { storageState: refreshed.storageState }
+                  : { storageState: savedStorageState }),
+                ...(sessionDataObj?.rawSession !== undefined
+                  ? { rawSession: sessionDataObj.rawSession }
+                  : {}),
+              };
+
+              await this.options.userSessionRepository.saveUserSession({
+                userId,
+                sessionData: updatedSessionData,
+                encryptionKey: this.options.encryptionKey,
+                ...(refreshed.expiresAt !== undefined ? { expiresAt: refreshed.expiresAt } : {}),
+              });
+
+              // Retry checkSection with refreshed cookies
+              const retryResult = await this.options.availabilityClient.checkSection({
+                cookiesPayload: updatedSessionData,
+                crseId: existing.crseId,
+                crseOfferNbr: existing.crseOfferNbr,
+                term,
+                classNumber,
+                acadCareer: existing.acadCareer ?? 'UGRD',
+                institution: existing.institution ?? 'AUIB',
+              });
+
+              const checkedAt = new Date();
+              const courseTitle = retryResult.description || existing.courseTitle;
+              const component = retryResult.component || existing.component;
+              const state = {
+                term: existing.term,
+                ...(existing.termLabel !== null ? { termLabel: existing.termLabel } : {}),
+                courseCode: retryResult.courseCode || existing.courseCode,
+                ...(courseTitle !== null && courseTitle !== '' ? { courseTitle } : {}),
+                crseId: existing.crseId,
+                crseOfferNbr: existing.crseOfferNbr,
+                acadCareer: existing.acadCareer ?? 'UGRD',
+                institution: existing.institution ?? 'AUIB',
+                classNumber: retryResult.classNumber || existing.classNumber,
+                ...(component !== null && component !== '' ? { component } : {}),
+                status: normalizeStatus(retryResult.status),
+                availableSeats: retryResult.availableSeats,
+                ...(previousSnapshot?.schedule !== null && previousSnapshot?.schedule !== undefined
+                  ? { schedule: previousSnapshot.schedule }
+                  : {}),
+                ...(previousSnapshot?.meetingDates !== null && previousSnapshot?.meetingDates !== undefined
+                  ? { meetingDates: previousSnapshot.meetingDates }
+                  : {}),
+                ...(previousSnapshot?.sessionName !== null && previousSnapshot?.sessionName !== undefined
+                  ? { sessionName: previousSnapshot.sessionName }
+                  : {}),
+                checkedAt,
+              };
+              const section = await this.options.sectionRepository.upsertSection(state);
+              const snapshot = await this.options.sectionRepository.recordSnapshot(section.id, state);
+              return { section, snapshot };
+            }
+          } catch {
+            // Fall through to markExpired if refresh fails
+          }
+        }
+
         await this.options.userSessionRepository.markExpired(session.id);
         throw new SectionStatusError('SESSION_EXPIRED', 'Your SIS session expired; use /login');
       }

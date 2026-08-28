@@ -69,6 +69,7 @@ async function bootstrap(): Promise<void> {
     userSessionRepository: repositories.userSessionRepository,
     availabilityClient: new PeopleSoftAvailabilityClient({ baseUrl: env.PEOPLESOFT_BASE_URL }),
     encryptionKey,
+    authenticator,
   });
   const adminScheduleForwarder =
     env.ADMIN_TELEGRAM_CHAT_ID === undefined

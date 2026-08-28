@@ -240,6 +240,7 @@ export class PollingScheduler {
       for (const result of results) {
         await this.processObservedSections(result.sections);
       }
+      await this.repositories.userSessionRepository.updateLastUsed(userSession.id);
     } catch (checkError) {
       if (checkError instanceof PeopleSoftSessionExpiredError) {
         // Attempt silent background auto-refresh via Microsoft KMSI persistent storage state

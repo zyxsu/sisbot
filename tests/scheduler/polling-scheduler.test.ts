@@ -85,6 +85,7 @@ describe('PollingScheduler', () => {
         }),
         markExpired: vi.fn().mockResolvedValue(undefined),
         saveUserSession: vi.fn().mockResolvedValue(undefined),
+        updateLastUsed: vi.fn().mockResolvedValue(undefined),
       } as unknown as PollingSchedulerRepositories['userSessionRepository'],
 
       sectionRepository: {
