@@ -173,6 +173,7 @@ export async function loginConversationMiddleware(
     if (loginResult.status === 'SUCCESS') {
       const sessionData = {
         rawCookies: loginResult.cookies,
+        ...(loginResult.storageState !== undefined ? { storageState: loginResult.storageState } : {}),
         ...(loginResult.rawSession !== undefined ? { rawSession: loginResult.rawSession } : {}),
       };
       await ctx.services.repositories.userSessionRepository.saveUserSession({
@@ -238,6 +239,7 @@ export async function loginConversationMiddleware(
   if (twoFaResult.status === 'SUCCESS') {
     const sessionData = {
       rawCookies: twoFaResult.cookies,
+      ...(twoFaResult.storageState !== undefined ? { storageState: twoFaResult.storageState } : {}),
       ...(twoFaResult.rawSession !== undefined ? { rawSession: twoFaResult.rawSession } : {}),
     };
     await ctx.services.repositories.userSessionRepository.saveUserSession({

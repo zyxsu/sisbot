@@ -2,7 +2,7 @@ import { chromium, type Browser, type BrowserContext, type Page } from 'playwrig
 import { logger } from '../config/logger.js';
 import { redactSecrets } from '../security/redact.js';
 import { clickMicrosoftPushOption, inspectMicrosoftTwoFactor } from './microsoft-two-factor.js';
-import type { AuibAuthenticator, LoginResult } from './types.js';
+import type { AuibAuthenticator, LoginResult, LoginSuccessResult } from './types.js';
 
 const EDGE_PATH = 'C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe';
 const LOGIN_ENTRY_URL =
@@ -200,10 +200,12 @@ export class PlaywrightAuibAuthenticator implements AuibAuthenticator {
 
         if (isInsidePeopleSoft) {
           const cookies = await this.extractAUIBCookies(context);
+          const storageState = await context.storageState().catch(() => undefined);
           await browser.close();
           return {
             status: 'SUCCESS',
             cookies,
+            storageState,
             rawSession: { email },
           };
         }
@@ -373,7 +375,7 @@ export class PlaywrightAuibAuthenticator implements AuibAuthenticator {
       }
 
       // Wait for cookies and handle post-2FA KMSI and natural redirection to AUIB SIS
-      const cookies = await this.waitForCookiesAndComplete(context, page);
+      const { cookies, storageState } = await this.waitForCookiesAndComplete(context, page);
 
       await browser.close().catch(() => undefined);
       activeBrowserSessions.delete(sessionId);
@@ -381,6 +383,7 @@ export class PlaywrightAuibAuthenticator implements AuibAuthenticator {
       return {
         status: 'SUCCESS',
         cookies,
+        storageState,
       };
     } catch (err) {
       await browser.close().catch(() => undefined);
@@ -415,7 +418,10 @@ export class PlaywrightAuibAuthenticator implements AuibAuthenticator {
   /**
    * Completes Microsoft KMSI, waits for the browser to arrive inside PeopleSoft (/psp/ps/ or /psc/ps/), and extracts all cookies.
    */
-  private async waitForCookiesAndComplete(context: BrowserContext, page: Page): Promise<string> {
+  private async waitForCookiesAndComplete(
+    context: BrowserContext,
+    page: Page,
+  ): Promise<{ cookies: string; storageState?: unknown }> {
     const startTime = Date.now();
 
     while (Date.now() - startTime < 60000) {
@@ -449,7 +455,8 @@ export class PlaywrightAuibAuthenticator implements AuibAuthenticator {
       if (isInsidePeopleSoft) {
         const cookieHeader = await this.extractAUIBCookies(context);
         if (cookieHeader.length > 0) {
-          return cookieHeader;
+          const storageState = await context.storageState().catch(() => undefined);
+          return { cookies: cookieHeader, storageState };
         }
       }
 
@@ -463,5 +470,56 @@ export class PlaywrightAuibAuthenticator implements AuibAuthenticator {
     }
 
     throw new Error('Timed out waiting for PeopleSoft portal redirect after Microsoft 2FA');
+  }
+
+  /**
+   * Performs silent background session refresh using saved browser storage state (KMSI cookies).
+   */
+  public async refreshSession(storageState: unknown): Promise<LoginSuccessResult | null> {
+    if (!storageState || typeof storageState !== 'object') {
+      return null;
+    }
+
+    let browser: Browser | null = null;
+    try {
+      browser = await this.launchBrowser();
+      const context = await browser.newContext({
+        storageState: storageState as never,
+        viewport: { width: 1280, height: 800 },
+        userAgent:
+          'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        ignoreHTTPSErrors: true,
+      });
+
+      const page = await context.newPage();
+      logger.info('Attempting silent background session refresh via Microsoft KMSI');
+
+      // Navigate to entry URL which redirects through Datawiza -> Microsoft SSO -> PeopleSoft
+      await page.goto(LOGIN_ENTRY_URL, {
+        waitUntil: 'domcontentloaded',
+        timeout: 30000,
+      }).catch(() => undefined);
+
+      const result = await this.waitForCookiesAndComplete(context, page).catch(() => null);
+      await browser.close().catch(() => undefined);
+
+      if (result !== null && result.cookies.length > 0) {
+        logger.info('Silent session auto-refresh succeeded via Microsoft KMSI');
+        return {
+          status: 'SUCCESS',
+          cookies: result.cookies,
+          storageState: result.storageState,
+        };
+      }
+
+      logger.warn('Silent session refresh could not re-authenticate; KMSI token may have expired');
+      return null;
+    } catch (err) {
+      if (browser !== null) {
+        await browser.close().catch(() => undefined);
+      }
+      logger.warn({ err }, 'Silent session refresh failed with an error');
+      return null;
+    }
   }
 }

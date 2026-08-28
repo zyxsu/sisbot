@@ -3,6 +3,7 @@ export type TwoFactorMethod = 'OTP' | 'PUSH' | 'NUMBER_MATCH';
 export interface LoginSuccessResult {
   status: 'SUCCESS';
   cookies: string;
+  storageState?: unknown;
   expiresAt?: Date | null;
   rawSession?: Record<string, unknown>;
 }
@@ -31,6 +32,11 @@ export interface AuibAuthenticator {
    * Submits 2FA code or confirmation for an active challenge context.
    */
   submit2Fa(challengeContext: unknown, code: string): Promise<LoginResult>;
+
+  /**
+   * Performs silent background session refresh using saved browser storage state (KMSI cookies).
+   */
+  refreshSession?(storageState: unknown): Promise<LoginSuccessResult | null>;
 }
 
 export type LoginWizardStep = 'AWAITING_EMAIL' | 'AWAITING_PASSWORD' | 'AWAITING_2FA';

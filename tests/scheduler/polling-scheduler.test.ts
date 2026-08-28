@@ -6,6 +6,7 @@ import type {
   PollingSchedulerRepositories,
 } from '../../src/scheduler/polling-scheduler.js';
 import { PollingScheduler } from '../../src/scheduler/polling-scheduler.js';
+import type { AuibAuthenticator } from '../../src/auth/types.js';
 
 describe('PollingScheduler', () => {
   const encryptionKey = 'test-encryption-key-for-scheduler-32';
@@ -13,6 +14,8 @@ describe('PollingScheduler', () => {
   function createMockScheduler(options?: {
     usersWithSubs?: string[];
     userSessionActive?: boolean;
+    sessionData?: Record<string, unknown>;
+    authenticator?: AuibAuthenticator;
     watchedItems?: {
       section: { id: string; term: string; courseCode: string; termLabel?: string };
     }[];
@@ -73,7 +76,7 @@ describe('PollingScheduler', () => {
             id: 'sess-1',
             userId,
             status: 'ACTIVE',
-            sessionData: { cookies: 'test-cookie' },
+            sessionData: options?.sessionData ?? { cookies: 'test-cookie' },
             lastUsedAt: null,
             expiresAt: null,
             createdAt: new Date(),
@@ -81,6 +84,7 @@ describe('PollingScheduler', () => {
           });
         }),
         markExpired: vi.fn().mockResolvedValue(undefined),
+        saveUserSession: vi.fn().mockResolvedValue(undefined),
       } as unknown as PollingSchedulerRepositories['userSessionRepository'],
 
       sectionRepository: {
@@ -198,6 +202,7 @@ describe('PollingScheduler', () => {
       repositories: mockRepositories,
       botApi: mockBotApi,
       sectionChecker: mockSectionChecker,
+      ...(options?.authenticator !== undefined ? { authenticator: options.authenticator } : {}),
       config: {
         pollIntervalSeconds: 300,
         pollJitterSeconds: 0,
@@ -308,5 +313,44 @@ describe('PollingScheduler', () => {
     expect(mockRepositories.userSessionRepository.markExpired).toHaveBeenCalledWith('sess-1');
     expect(sentMessages).toHaveLength(1);
     expect(sentMessages[0]?.text).toContain('/login');
+  });
+
+  it('silently auto-refreshes session via Microsoft KMSI storageState without notifying user', async () => {
+    const mockRefreshSession = vi.fn().mockResolvedValue({
+      status: 'SUCCESS',
+      cookies: 'refreshed-cookie=xyz',
+      storageState: { cookies: [{ name: 'ESTSAUTHPERSISTENT', value: 'secret' }] },
+    });
+
+    const mockAuthenticator: AuibAuthenticator = {
+      startLogin: vi.fn(),
+      submit2Fa: vi.fn(),
+      refreshSession: mockRefreshSession,
+    };
+
+    const { scheduler, mockRepositories, sentMessages } = createMockScheduler({
+      checkError: new PeopleSoftSessionExpiredError(),
+      sessionData: {
+        rawCookies: 'old-cookie',
+        storageState: { cookies: [{ name: 'ESTSAUTHPERSISTENT', value: 'secret' }] },
+      },
+      authenticator: mockAuthenticator,
+    });
+
+    await scheduler.runCycle();
+
+    expect(mockRefreshSession).toHaveBeenCalled();
+    // eslint-disable-next-line @typescript-eslint/unbound-method
+    expect(mockRepositories.userSessionRepository.saveUserSession).toHaveBeenCalledWith(
+      expect.objectContaining({
+        userId: 'user-1',
+        sessionData: expect.objectContaining({
+          rawCookies: 'refreshed-cookie=xyz',
+        }),
+      }),
+    );
+    // eslint-disable-next-line @typescript-eslint/unbound-method
+    expect(mockRepositories.userSessionRepository.markExpired).not.toHaveBeenCalled();
+    expect(sentMessages).toHaveLength(0);
   });
 });

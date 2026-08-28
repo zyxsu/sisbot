@@ -15,6 +15,7 @@ import { PeopleSoftSessionExpiredError } from '../peoplesoft/http/index.js';
 import type { SectionChecker } from '../peoplesoft/workflow/check-course-sections.js';
 import { redactSecrets } from '../security/redact.js';
 import { formatChangeAlert } from '../telegram/formatters.js';
+import type { AuibAuthenticator } from '../auth/types.js';
 
 export interface BotMessageSender {
   sendMessage(
@@ -45,6 +46,7 @@ export interface PollingSchedulerOptions {
   repositories: PollingSchedulerRepositories;
   botApi: BotMessageSender;
   sectionChecker: SectionChecker;
+  authenticator?: AuibAuthenticator;
   config: PollingSchedulerConfig;
 }
 
@@ -52,6 +54,7 @@ export class PollingScheduler {
   private readonly repositories: PollingSchedulerRepositories;
   private readonly botApi: BotMessageSender;
   private readonly sectionChecker: SectionChecker;
+  private readonly authenticator: AuibAuthenticator | undefined;
   private readonly config: PollingSchedulerConfig;
 
   private isRunning = false;
@@ -62,6 +65,7 @@ export class PollingScheduler {
     this.repositories = options.repositories;
     this.botApi = options.botApi;
     this.sectionChecker = options.sectionChecker;
+    this.authenticator = options.authenticator;
     this.config = options.config;
   }
 
@@ -238,6 +242,46 @@ export class PollingScheduler {
       }
     } catch (checkError) {
       if (checkError instanceof PeopleSoftSessionExpiredError) {
+        // Attempt silent background auto-refresh via Microsoft KMSI persistent storage state
+        const sessionDataObj =
+          typeof userSession.sessionData === 'object' && userSession.sessionData !== null
+            ? (userSession.sessionData as Record<string, unknown>)
+            : null;
+        const savedStorageState = sessionDataObj?.storageState;
+
+        if (this.authenticator?.refreshSession !== undefined && savedStorageState !== undefined) {
+          logger.info(
+            { userId },
+            'PeopleSoft session expired; attempting silent auto-refresh via Microsoft KMSI',
+          );
+          try {
+            const refreshed = await this.authenticator.refreshSession(savedStorageState);
+            if (refreshed !== null && refreshed.cookies.length > 0) {
+              await this.repositories.userSessionRepository.saveUserSession({
+                userId,
+                sessionData: {
+                  rawCookies: refreshed.cookies,
+                  ...(refreshed.storageState !== undefined
+                    ? { storageState: refreshed.storageState }
+                    : { storageState: savedStorageState }),
+                  ...(sessionDataObj?.rawSession !== undefined
+                    ? { rawSession: sessionDataObj.rawSession }
+                    : {}),
+                },
+                encryptionKey: this.config.encryptionKey,
+                ...(refreshed.expiresAt !== undefined ? { expiresAt: refreshed.expiresAt } : {}),
+              });
+              logger.info(
+                { userId },
+                'Successfully auto-refreshed student session silently; /watch monitoring will continue uninterrupted',
+              );
+              return;
+            }
+          } catch (refreshErr) {
+            logger.warn({ userId, err: redactSecrets(refreshErr) }, 'Silent auto-refresh failed');
+          }
+        }
+
         await this.repositories.userSessionRepository.markExpired(userSession.id);
         const user = await this.repositories.userRepository.findById(userId);
 

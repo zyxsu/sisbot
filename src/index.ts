@@ -101,6 +101,7 @@ async function bootstrap(): Promise<void> {
     repositories,
     botApi: bot.api,
     sectionChecker,
+    authenticator,
     config: {
       pollIntervalSeconds: env.POLL_INTERVAL_SECONDS,
       pollJitterSeconds: env.POLL_JITTER_SECONDS,
