@@ -82,14 +82,17 @@ export class SectionStatusService {
         ...(component !== null && component !== '' ? { component } : {}),
         status: normalizeStatus(result.status),
         availableSeats: result.availableSeats,
-        ...(previousSnapshot?.schedule !== null && previousSnapshot?.schedule !== undefined
-          ? { schedule: previousSnapshot.schedule }
+        ...((result.schedule ?? previousSnapshot?.schedule) !== undefined &&
+        (result.schedule ?? previousSnapshot?.schedule) !== null
+          ? { schedule: (result.schedule ?? previousSnapshot?.schedule)! }
           : {}),
-        ...(previousSnapshot?.meetingDates !== null && previousSnapshot?.meetingDates !== undefined
-          ? { meetingDates: previousSnapshot.meetingDates }
+        ...((result.meetingDates ?? previousSnapshot?.meetingDates) !== undefined &&
+        (result.meetingDates ?? previousSnapshot?.meetingDates) !== null
+          ? { meetingDates: (result.meetingDates ?? previousSnapshot?.meetingDates)! }
           : {}),
-        ...(previousSnapshot?.sessionName !== null && previousSnapshot?.sessionName !== undefined
-          ? { sessionName: previousSnapshot.sessionName }
+        ...((result.sessionName ?? previousSnapshot?.sessionName) !== undefined &&
+        (result.sessionName ?? previousSnapshot?.sessionName) !== null
+          ? { sessionName: (result.sessionName ?? previousSnapshot?.sessionName)! }
           : {}),
         checkedAt,
       };
@@ -154,14 +157,17 @@ export class SectionStatusService {
                 ...(component !== null && component !== '' ? { component } : {}),
                 status: normalizeStatus(retryResult.status),
                 availableSeats: retryResult.availableSeats,
-                ...(previousSnapshot?.schedule !== null && previousSnapshot?.schedule !== undefined
-                  ? { schedule: previousSnapshot.schedule }
+                ...((retryResult.schedule ?? previousSnapshot?.schedule) !== undefined &&
+                (retryResult.schedule ?? previousSnapshot?.schedule) !== null
+                  ? { schedule: (retryResult.schedule ?? previousSnapshot?.schedule)! }
                   : {}),
-                ...(previousSnapshot?.meetingDates !== null && previousSnapshot?.meetingDates !== undefined
-                  ? { meetingDates: previousSnapshot.meetingDates }
+                ...((retryResult.meetingDates ?? previousSnapshot?.meetingDates) !== undefined &&
+                (retryResult.meetingDates ?? previousSnapshot?.meetingDates) !== null
+                  ? { meetingDates: (retryResult.meetingDates ?? previousSnapshot?.meetingDates)! }
                   : {}),
-                ...(previousSnapshot?.sessionName !== null && previousSnapshot?.sessionName !== undefined
-                  ? { sessionName: previousSnapshot.sessionName }
+                ...((retryResult.sessionName ?? previousSnapshot?.sessionName) !== undefined &&
+                (retryResult.sessionName ?? previousSnapshot?.sessionName) !== null
+                  ? { sessionName: (retryResult.sessionName ?? previousSnapshot?.sessionName)! }
                   : {}),
                 checkedAt,
               };

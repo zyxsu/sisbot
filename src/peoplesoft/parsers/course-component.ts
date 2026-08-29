@@ -25,6 +25,11 @@ export interface AvailabilityResult {
   availableSeats: number;
   waitlistCapacity: number;
   waitlistTotal: number;
+  schedule?: string | undefined;
+  meetingDates?: string | undefined;
+  sessionName?: string | undefined;
+  room?: string | undefined;
+  instructor?: string | undefined;
 }
 
 export class PeopleSoftComponentParseError extends Error {
@@ -186,5 +191,86 @@ export function parseAvailability(
     availableSeats: parseIntegerField(expanded, 3),
     waitlistCapacity: parseIntegerField(expanded, 4),
     waitlistTotal: parseIntegerField(expanded, 5),
+  };
+}
+
+export function parseCoursePageAvailability(
+  markup: string,
+  classNumber: string,
+): AvailabilityResult | null {
+  const expanded = expandPeopleSoftResponse(markup);
+  const $ = load(expanded);
+
+  const normalizedClassNumber = classNumber.trim();
+  const classPattern = new RegExp(`-\\s*${escapeRegExp(normalizedClassNumber)}\\b`, 'i');
+
+  const rows = $('tr[id*="SSR_CLS_DTLS_VW"]').toArray();
+  const matchedEl = rows.find((el) => classPattern.test($(el).text()));
+  if (matchedEl === undefined) {
+    return null;
+  }
+
+  // Course title & code from page
+  const courseCode = $('[id*="SSS_SUBJ_CATLG"]').first().text().trim();
+  const description = $('[id*="COURSE_TITLE_LONG"]').first().text().trim();
+
+  const cells = $(matchedEl).find('td');
+  const statusCol = cells.eq(1).text().trim();
+  let status = 'Unknown';
+  if (/open/i.test(statusCol)) status = 'Open';
+  else if (/closed/i.test(statusCol)) status = 'Closed';
+  else if (/wait/i.test(statusCol)) status = 'Waitlist';
+
+  const rawSession = cells.eq(2).text().replace(/\s+/g, ' ').trim();
+  const sessionName = rawSession.length > 0 ? rawSession : undefined;
+
+  const cmpCol = cells.eq(3).text().trim();
+  const componentMatch = /^([A-Za-z]+)\s*-\s*(\d+)/.exec(cmpCol);
+  const component = componentMatch?.[1] !== undefined ? componentMatch[1] : 'Lecture';
+
+  const rawDates = cells.eq(4).text().replace(/\s+/g, ' ').trim();
+  const meetingDates = rawDates.length > 0 ? rawDates : undefined;
+
+  const rawSchedule = cells.eq(5).text().replace(/\s+/g, ' ').trim();
+  const schedule = rawSchedule.length > 0 ? rawSchedule : undefined;
+
+  const rawRoom = cells.eq(6).text().replace(/\s+/g, ' ').trim();
+  const room = rawRoom.length > 0 ? rawRoom : undefined;
+
+  const rawInstructor = cells.eq(7).text().replace(/\s+/g, ' ').trim();
+  const instructor = rawInstructor.length > 0 ? rawInstructor : undefined;
+
+  const seatsCol = cells.eq(8).text().trim();
+  let availableSeats = 0;
+  let capacity = 0;
+  const seatsMatch = /open\s+seats\s+(\d+)\s+of\s+(\d+)/i.exec(seatsCol);
+  if (seatsMatch?.[1] !== undefined && seatsMatch[2] !== undefined) {
+    availableSeats = Number.parseInt(seatsMatch[1], 10);
+    capacity = Number.parseInt(seatsMatch[2], 10);
+  } else if (/closed/i.test(seatsCol) || status === 'Closed') {
+    availableSeats = 0;
+  } else {
+    const digitsMatch = /(\d+)/.exec(seatsCol);
+    if (digitsMatch?.[1] !== undefined) {
+      availableSeats = Number.parseInt(digitsMatch[1], 10);
+    }
+  }
+
+  return {
+    courseCode,
+    description,
+    classNumber: normalizedClassNumber,
+    component,
+    status,
+    capacity,
+    enrollmentTotal: Math.max(0, capacity - availableSeats),
+    availableSeats,
+    waitlistCapacity: 0,
+    waitlistTotal: 0,
+    schedule,
+    meetingDates,
+    sessionName,
+    room,
+    instructor,
   };
 }

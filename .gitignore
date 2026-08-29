@@ -23,6 +23,7 @@ storage/sessions/
 playwright/.auth/
 *.storage-state.json
 *cookie-jar*.json
+*.txt
 
 # Editor and operating-system files
 .DS_Store

@@ -3,6 +3,7 @@ import {
   findPanelAction,
   findSectionAction,
   parseAvailability,
+  parseCoursePageAvailability,
   type AvailabilityResult,
 } from '../parsers/index.js';
 import { PeopleSoftComponentState } from './component-state.js';
@@ -87,6 +88,21 @@ export class PeopleSoftAvailabilityClient {
     });
     const courseResponse = await this.httpClient.get(courseUrl, cookieHeader, { Accept: '*/*' });
     state.updateFromResponse(courseResponse.body, courseResponse.url);
+
+    // Fast path: Fluid UI course table directly includes real-time status and seats
+    const directResult = parseCoursePageAvailability(courseResponse.body, classNumber);
+    if (directResult !== null) {
+      logger.info(
+        {
+          classNumber,
+          courseCode: directResult.courseCode,
+          status: directResult.status,
+          availableSeats: directResult.availableSeats,
+        },
+        'Resolved class availability directly from course table',
+      );
+      return directResult;
+    }
 
     const section = findSectionAction(courseResponse.body, classNumber);
     if (section === null) {
