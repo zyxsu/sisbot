@@ -6415,8 +6415,36 @@
     "courseCode": "PHY 100",
     "courseTitle": "Conceptual Physics",
     "units": "3.00",
-    "scheduled": false,
-    "sections": []
+    "scheduled": true,
+    "sections": [
+      {
+        "component": "Lecture",
+        "classNbr": "1002",
+        "status": "OPEN",
+        "seats": "5/60",
+        "schedule": "Tuesday Sunday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall 1-O"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1003",
+        "status": "OPEN",
+        "seats": "11/60",
+        "schedule": "Monday Wednesday 9:30AM to 10:45AM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_2-H"
+      },
+      {
+        "component": "Lecture",
+        "classNbr": "1004",
+        "status": "OPEN",
+        "seats": "6/60",
+        "schedule": "Tuesday Sunday 11:00AM to 12:15PM",
+        "dates": "23/08/2026 - 15/12/2026",
+        "room": "Lecture Hall_3-D"
+      }
+    ]
   },
   {
     "id": "000509",

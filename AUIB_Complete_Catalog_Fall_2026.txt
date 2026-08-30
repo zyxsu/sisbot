@@ -1108,6 +1108,11 @@
 [PHI 101] Introduction to Ethics (CRSE_ID: 000067, Units: 3.00)
   • Lecture - 1325 | Status: CLOSED (0 seats) | Schedule: Monday Wednesday 12:30PM to 1:45PM | Room: Lecture Hall 1-A | Dates: 23/08/2026 - 15/12/2026
 
+[PHY 100] Conceptual Physics (CRSE_ID: 000508, Units: 3.00)
+  • Lecture - 1002 | Status: OPEN (5/60 seats) | Schedule: Tuesday Sunday 9:30AM to 10:45AM | Room: Lecture Hall 1-O | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1003 | Status: OPEN (11/60 seats) | Schedule: Monday Wednesday 9:30AM to 10:45AM | Room: Lecture Hall_2-H | Dates: 23/08/2026 - 15/12/2026
+  • Lecture - 1004 | Status: OPEN (6/60 seats) | Schedule: Tuesday Sunday 11:00AM to 12:15PM | Room: Lecture Hall_3-D | Dates: 23/08/2026 - 15/12/2026
+
 [PHY 101] Principles of Physics I (CRSE_ID: 000117, Units: 3.00)
   • Lecture - 1009 | Status: OPEN (4/50 seats) | Schedule: Tuesday Sunday 8:00AM to 9:15AM | Room: Lecture Hall_3 | Dates: 23/08/2026 - 15/12/2026
 
@@ -1775,7 +1780,6 @@
 • [PHI 332] Unknown Title (CRSE_ID: 000168, Units: 3.00)
 • [PHI 350] Junior Seminar (CRSE_ID: 000169, Units: 3.00)
 • [PHI 450] Senior Capstone Seminar (CRSE_ID: 000176, Units: 3.00)
-• [PHY 100] Conceptual Physics (CRSE_ID: 000508, Units: 3.00)
 • [PHY 103] Physics for the Life Sciences I (CRSE_ID: 000446, Units: 3.00)
 • [PHY 103L] Physics for the Life Sciences I Laboratory (CRSE_ID: 000447, Units: 1.00)
 • [PHY 107] Unknown Title (CRSE_ID: 001104, Units: 3.00)
