@@ -1,9 +1,11 @@
-import type { SectionStatus } from '../../domain/section-state.js';
+import type { SectionState, SectionStatus } from '../../domain/section-state.js';
 import type { SectionRepository, UserSessionRepository } from '../../db/index.js';
 import type { MonitoredSection, SectionSnapshot } from '../../db/schema.js';
 import type { PeopleSoftAvailabilityClient } from './availability-client.js';
 import { PeopleSoftSessionExpiredError } from './peoplesoft-client.js';
 import type { AuibAuthenticator } from '../../auth/types.js';
+import { logger } from '../../config/logger.js';
+import { redactSecrets } from '../../security/redact.js';
 
 export class SectionStatusError extends Error {
   public constructor(
@@ -32,7 +34,13 @@ export interface SectionStatusServiceOptions {
 }
 
 export class SectionStatusService {
+  private observationHandler?: (state: SectionState) => Promise<void>;
+
   public constructor(private readonly options: SectionStatusServiceOptions) {}
+
+  public setObservationHandler(handler: (state: SectionState) => Promise<void>): void {
+    this.observationHandler = handler;
+  }
 
   public async refreshByClassNumber(
     userId: string,
@@ -99,6 +107,11 @@ export class SectionStatusService {
       const section = await this.options.sectionRepository.upsertSection(state);
       const snapshot = await this.options.sectionRepository.recordSnapshot(section.id, state);
       await this.options.userSessionRepository.updateLastUsed(session.id);
+      if (this.observationHandler !== undefined) {
+        await this.observationHandler(state).catch((err: unknown) => {
+          logger.warn({ err: redactSecrets(err) }, 'Error in onSectionObserved callback');
+        });
+      }
       return { section, snapshot };
     } catch (error) {
       if (error instanceof PeopleSoftSessionExpiredError) {
@@ -173,6 +186,11 @@ export class SectionStatusService {
               };
               const section = await this.options.sectionRepository.upsertSection(state);
               const snapshot = await this.options.sectionRepository.recordSnapshot(section.id, state);
+              if (this.observationHandler !== undefined) {
+                await this.observationHandler(state).catch((err: unknown) => {
+                  logger.warn({ err: redactSecrets(err) }, 'Error in onSectionObserved callback');
+                });
+              }
               return { section, snapshot };
             }
           } catch {

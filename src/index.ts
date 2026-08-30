@@ -64,10 +64,13 @@ async function bootstrap(): Promise<void> {
   const botToken = env.TELEGRAM_BOT_TOKEN ?? 'DISABLED';
   const encryptionKey = env.SESSION_ENCRYPTION_KEY ?? 'development-default-encryption-key-12345';
   const authenticator = new PlaywrightAuibAuthenticator();
+  const availabilityClient = new PeopleSoftAvailabilityClient({
+    baseUrl: env.PEOPLESOFT_BASE_URL,
+  });
   const sectionStatusService = new SectionStatusService({
     sectionRepository: repositories.sectionRepository,
     userSessionRepository: repositories.userSessionRepository,
-    availabilityClient: new PeopleSoftAvailabilityClient({ baseUrl: env.PEOPLESOFT_BASE_URL }),
+    availabilityClient,
     encryptionKey,
     authenticator,
   });
@@ -103,6 +106,7 @@ async function bootstrap(): Promise<void> {
     botApi: bot.api,
     sectionChecker,
     authenticator,
+    availabilityClient,
     config: {
       pollIntervalSeconds: env.POLL_INTERVAL_SECONDS,
       pollJitterSeconds: env.POLL_JITTER_SECONDS,
@@ -113,7 +117,12 @@ async function bootstrap(): Promise<void> {
     },
   });
 
-  // 6. Graceful Shutdown
+  // 6. Connect Status Service real-time checks to Alert Dispatcher
+  sectionStatusService.setObservationHandler(async (state) => {
+    await scheduler.processObservedSections([state]);
+  });
+
+  // 7. Graceful Shutdown
   const shutdown = async (signal: string) => {
     logger.info({ signal }, 'Shutting down AUIB Section Monitor');
     scheduler.stop();

@@ -15,6 +15,7 @@ export {
   findPanelAction,
   findSectionAction,
   parseAvailability,
+  parseCoursePageAllSections,
   parseCoursePageAvailability,
   PeopleSoftComponentParseError,
   type AvailabilityResult,

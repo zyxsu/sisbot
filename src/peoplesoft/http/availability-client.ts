@@ -3,6 +3,7 @@ import {
   findPanelAction,
   findSectionAction,
   parseAvailability,
+  parseCoursePageAllSections,
   parseCoursePageAvailability,
   type AvailabilityResult,
 } from '../parsers/index.js';
@@ -17,6 +18,15 @@ export interface SectionAvailabilityRequest {
   crseOfferNbr: string;
   term: string;
   classNumber: string;
+  acadCareer?: string;
+  institution?: string;
+}
+
+export interface CourseAvailabilityRequest {
+  cookiesPayload: unknown;
+  crseId: string;
+  crseOfferNbr: string;
+  term: string;
   acadCareer?: string;
   institution?: string;
 }
@@ -174,6 +184,45 @@ export class PeopleSoftAvailabilityClient {
     );
     return result;
   }
+
+  public async checkCourse(request: CourseAvailabilityRequest): Promise<AvailabilityResult[]> {
+    const cookieHeader = PeopleSoftHttpClient.normalizeCookieHeader(request.cookiesPayload);
+    if (cookieHeader.length === 0) {
+      throw new PeopleSoftAvailabilityError('An authenticated PeopleSoft session is required');
+    }
+
+    const crseId = requiredDigits(request.crseId, 'CRSE_ID', 12).padStart(6, '0');
+    const crseOfferNbr = requiredDigits(request.crseOfferNbr, 'CRSE_OFFER_NBR', 4);
+    const term = requiredDigits(request.term, 'Term', 8);
+    const acadCareer = requiredCode(request.acadCareer ?? 'UGRD', 'Academic career');
+    const institution = requiredCode(request.institution ?? 'AUIB', 'Institution');
+
+    logger.info({ crseId, term }, 'Starting PeopleSoft HTTP course availability check');
+
+    const state = new PeopleSoftComponentState();
+    const bootstrap = await this.httpClient.get(this.buildNewWindowUrl(), cookieHeader, {
+      Accept: '*/*',
+    });
+    state.updateFromResponse(bootstrap.body, bootstrap.url);
+
+    const courseUrl = this.buildCourseUrl(state, {
+      crseId,
+      crseOfferNbr,
+      term,
+      acadCareer,
+      institution,
+    });
+    const courseResponse = await this.httpClient.get(courseUrl, cookieHeader, { Accept: '*/*' });
+    state.updateFromResponse(courseResponse.body, courseResponse.url);
+
+    const sections = parseCoursePageAllSections(courseResponse.body);
+    logger.info(
+      { crseId, term, sectionCount: sections.length },
+      'Resolved course sections directly from course table',
+    );
+    return sections;
+  }
+
 
   private buildNewWindowUrl(): string {
     const url = new URL(NEW_WINDOW_COMPONENT, this.baseUrl);

@@ -16,8 +16,19 @@ describe('PollingScheduler', () => {
     userSessionActive?: boolean;
     sessionData?: Record<string, unknown>;
     authenticator?: AuibAuthenticator;
+    availabilityClient?: PeopleSoftAvailabilityClient;
     watchedItems?: {
-      section: { id: string; term: string; courseCode: string; termLabel?: string };
+      section: {
+        id: string;
+        term: string;
+        courseCode: string;
+        termLabel?: string;
+        classNumber?: string;
+        crseId?: string;
+        crseOfferNbr?: string;
+        acadCareer?: string;
+        institution?: string;
+      };
     }[];
     subscribers?: { user: { id: string; telegramId: bigint } }[];
     checkedSections?: SectionState[];
@@ -204,6 +215,9 @@ describe('PollingScheduler', () => {
       botApi: mockBotApi,
       sectionChecker: mockSectionChecker,
       ...(options?.authenticator !== undefined ? { authenticator: options.authenticator } : {}),
+      ...(options?.availabilityClient !== undefined
+        ? { availabilityClient: options.availabilityClient }
+        : {}),
       config: {
         pollIntervalSeconds: 300,
         pollJitterSeconds: 0,
@@ -354,4 +368,64 @@ describe('PollingScheduler', () => {
     expect(mockRepositories.userSessionRepository.markExpired).not.toHaveBeenCalled();
     expect(sentMessages).toHaveLength(0);
   });
+
+  it('polls courses directly via PeopleSoftAvailabilityClient when available and dispatches change alerts', async () => {
+    const mockCheckCourse = vi.fn().mockResolvedValue([
+      {
+        courseCode: 'PHY 100',
+        description: 'Conceptual Physics',
+        classNumber: '1004',
+        component: 'Lecture',
+        status: 'OPEN',
+        availableSeats: 5,
+        capacity: 60,
+        schedule: 'Tuesday Sunday 11:00AM to 12:15PM',
+        meetingDates: '08/23/2026 - 12/15/2026',
+        sessionName: 'Regular Academic Session',
+      },
+    ]);
+
+    const mockAvailabilityClient = {
+      checkCourse: mockCheckCourse,
+    } as unknown as PeopleSoftAvailabilityClient;
+
+    const { scheduler, sentMessages, setLatestSnapshot } = createMockScheduler({
+      watchedItems: [
+        {
+          section: {
+            id: 'sec-phy1004',
+            term: '2701',
+            termLabel: '2026/2027 Fall',
+            courseCode: 'PHY 100',
+            classNumber: '1004',
+            crseId: '000508',
+            crseOfferNbr: '1',
+            acadCareer: 'UGRD',
+            institution: 'AUIB',
+          },
+        },
+      ],
+      availabilityClient: mockAvailabilityClient,
+    });
+
+    setLatestSnapshot({
+      status: 'OPEN',
+      availableSeats: 8,
+      checkedAt: new Date('2026-08-30T09:41:00Z'),
+    });
+
+    await scheduler.runCycle();
+
+    expect(mockCheckCourse).toHaveBeenCalledWith(
+      expect.objectContaining({
+        crseId: '000508',
+        term: '2701',
+      }),
+    );
+    expect(sentMessages).toHaveLength(1);
+    expect(sentMessages[0]?.text).toContain('SEAT AVAILABILITY UPDATE');
+    expect(sentMessages[0]?.text).toContain('1004');
+    expect(sentMessages[0]?.text).toContain('5');
+  });
 });
+

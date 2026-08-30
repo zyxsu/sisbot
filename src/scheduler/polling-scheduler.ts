@@ -11,7 +11,10 @@ import {
   type UserSessionRepository,
 } from '../db/index.js';
 import { MonitoringSession } from '../peoplesoft/session.js';
-import { PeopleSoftSessionExpiredError } from '../peoplesoft/http/index.js';
+import {
+  PeopleSoftAvailabilityClient,
+  PeopleSoftSessionExpiredError,
+} from '../peoplesoft/http/index.js';
 import type { SectionChecker } from '../peoplesoft/workflow/check-course-sections.js';
 import { redactSecrets } from '../security/redact.js';
 import { formatChangeAlert } from '../telegram/formatters.js';
@@ -47,6 +50,7 @@ export interface PollingSchedulerOptions {
   botApi: BotMessageSender;
   sectionChecker: SectionChecker;
   authenticator?: AuibAuthenticator;
+  availabilityClient?: PeopleSoftAvailabilityClient;
   config: PollingSchedulerConfig;
 }
 
@@ -55,6 +59,7 @@ export class PollingScheduler {
   private readonly botApi: BotMessageSender;
   private readonly sectionChecker: SectionChecker;
   private readonly authenticator: AuibAuthenticator | undefined;
+  private readonly availabilityClient: PeopleSoftAvailabilityClient | undefined;
   private readonly config: PollingSchedulerConfig;
 
   private isRunning = false;
@@ -66,6 +71,7 @@ export class PollingScheduler {
     this.botApi = options.botApi;
     this.sectionChecker = options.sectionChecker;
     this.authenticator = options.authenticator;
+    this.availabilityClient = options.availabilityClient;
     this.config = options.config;
   }
 
@@ -174,6 +180,74 @@ export class PollingScheduler {
   }
 
   /**
+   * Handles PeopleSoftSessionExpiredError with silent KMSI refresh or notification.
+   */
+  private async handleSessionExpired(
+    userId: string,
+    userSession: { id: string; sessionData: unknown },
+  ): Promise<boolean> {
+    const sessionDataObj =
+      typeof userSession.sessionData === 'object' && userSession.sessionData !== null
+        ? (userSession.sessionData as Record<string, unknown>)
+        : null;
+    const savedStorageState = sessionDataObj?.storageState;
+
+    if (this.authenticator?.refreshSession !== undefined && savedStorageState !== undefined) {
+      logger.info(
+        { userId },
+        'PeopleSoft session expired; attempting silent auto-refresh via Microsoft KMSI',
+      );
+      try {
+        const refreshed = await this.authenticator.refreshSession(savedStorageState);
+        if (refreshed !== null && refreshed.cookies.length > 0) {
+          await this.repositories.userSessionRepository.saveUserSession({
+            userId,
+            sessionData: {
+              rawCookies: refreshed.cookies,
+              ...(refreshed.storageState !== undefined
+                ? { storageState: refreshed.storageState }
+                : { storageState: savedStorageState }),
+              ...(sessionDataObj?.rawSession !== undefined
+                ? { rawSession: sessionDataObj.rawSession }
+                : {}),
+            },
+            encryptionKey: this.config.encryptionKey,
+            ...(refreshed.expiresAt !== undefined ? { expiresAt: refreshed.expiresAt } : {}),
+          });
+          logger.info(
+            { userId },
+            'Successfully auto-refreshed student session silently; /watch monitoring will continue uninterrupted',
+          );
+          return true;
+        }
+      } catch (refreshErr) {
+        logger.warn({ userId, err: redactSecrets(refreshErr) }, 'Silent auto-refresh failed');
+      }
+    }
+
+    await this.repositories.userSessionRepository.markExpired(userSession.id);
+    const user = await this.repositories.userRepository.findById(userId);
+
+    if (user !== null && !user.isBlocked) {
+      await this.botApi
+        .sendMessage(
+          user.telegramId.toString(),
+          '⚠️ *Your AUIB SIS session expired.*\n\nUse `/login` to authenticate again. Monitoring will resume automatically after login.',
+          { parse_mode: 'Markdown' },
+        )
+        .catch((notificationError: unknown) => {
+          logger.warn(
+            { userId, err: redactSecrets(notificationError) },
+            'Could not deliver the session-expired notice',
+          );
+        });
+    }
+
+    logger.warn({ userId }, 'Stored AUIB session marked expired; polling paused for user');
+    return false;
+  }
+
+  /**
    * Checks all watched courses for a single user using that user's own AUIB session.
    */
   private async checkUserSubscriptions(userId: string): Promise<void> {
@@ -194,121 +268,266 @@ export class PollingScheduler {
       return;
     }
 
-    // Group target courses by term, courseCode, and classNumber
-    const courseTargets = new Map<
+    // Partition watched items into fast direct HTTP checks (if crseId is available) and browser fallbacks
+    const httpCourses = new Map<
       string,
-      { term: string; termLabel?: string; courseCode: string; classNumber?: string }
+      {
+        section: MonitoredSection;
+        classNumbers: Set<string>;
+      }
     >();
+    const fallbackItems: typeof watchedItems = [];
 
-    for (const item of watchedItems) {
-      const term = item.section.term;
-      const courseCode = item.section.courseCode;
-      const classNumber = item.section.classNumber;
+    if (this.availabilityClient !== undefined) {
+      for (const item of watchedItems) {
+        if (item.section.crseId !== null && item.section.crseId.trim().length > 0) {
+          const key = `${item.section.term}:${item.section.crseId}`;
+          const existing = httpCourses.get(key);
+          const hasSpecificClass =
+            item.section.classNumber !== null &&
+            item.section.classNumber !== '' &&
+            item.section.classNumber !== 'PENDING';
 
-      const key = `${term}:${courseCode}:${classNumber}`;
-      if (!courseTargets.has(key)) {
-        courseTargets.set(key, {
-          term,
-          ...(item.section.termLabel !== null ? { termLabel: item.section.termLabel } : {}),
-          courseCode,
-          ...(classNumber && classNumber !== 'PENDING' ? { classNumber } : {}),
-        });
+          if (existing !== undefined) {
+            if (hasSpecificClass) {
+              existing.classNumbers.add(item.section.classNumber);
+            }
+          } else {
+            httpCourses.set(key, {
+              section: item.section,
+              classNumbers: new Set(hasSpecificClass ? [item.section.classNumber] : []),
+            });
+          }
+        } else {
+          fallbackItems.push(item);
+        }
+      }
+    } else {
+      fallbackItems.push(...watchedItems);
+    }
+
+    let sessionPayload = userSession.sessionData;
+
+    // 1. Direct HTTP Course Polling
+    if (httpCourses.size > 0 && this.availabilityClient !== undefined) {
+      for (const group of httpCourses.values()) {
+        try {
+          const results = await this.availabilityClient.checkCourse({
+            cookiesPayload: sessionPayload,
+            crseId: group.section.crseId!,
+            crseOfferNbr: group.section.crseOfferNbr ?? '1',
+            term: group.section.term,
+            acadCareer: group.section.acadCareer ?? 'UGRD',
+            institution: group.section.institution ?? 'AUIB',
+          });
+
+          const observedStates: SectionState[] = [];
+          for (const res of results) {
+            if (group.classNumbers.size > 0 && !group.classNumbers.has(res.classNumber)) {
+              continue;
+            }
+
+            const status: SectionStatus =
+              res.status.toUpperCase() === 'OPEN'
+                ? 'OPEN'
+                : res.status.toUpperCase() === 'CLOSED'
+                  ? 'CLOSED'
+                  : res.status.toUpperCase() === 'WAITLIST'
+                    ? 'WAITLIST'
+                    : 'UNKNOWN';
+
+            const courseTitle = (res.description || group.section.courseTitle) ?? undefined;
+            const component = (res.component || group.section.component) ?? undefined;
+
+            observedStates.push({
+              term: group.section.term,
+              ...(group.section.termLabel !== null ? { termLabel: group.section.termLabel } : {}),
+              courseCode: res.courseCode || group.section.courseCode,
+              ...(courseTitle !== undefined ? { courseTitle } : {}),
+              ...(group.section.crseId !== null && group.section.crseId !== undefined
+                ? { crseId: group.section.crseId }
+                : {}),
+              ...(group.section.crseOfferNbr !== null && group.section.crseOfferNbr !== undefined
+                ? { crseOfferNbr: group.section.crseOfferNbr }
+                : {}),
+              ...(group.section.acadCareer !== null && group.section.acadCareer !== undefined
+                ? { acadCareer: group.section.acadCareer }
+                : {}),
+              ...(group.section.institution !== null && group.section.institution !== undefined
+                ? { institution: group.section.institution }
+                : {}),
+              classNumber: res.classNumber,
+              ...(component !== undefined ? { component } : {}),
+              status,
+              availableSeats: res.availableSeats,
+              ...(res.schedule ? { schedule: res.schedule } : {}),
+              ...(res.meetingDates ? { meetingDates: res.meetingDates } : {}),
+              ...(res.sessionName ? { sessionName: res.sessionName } : {}),
+              checkedAt: new Date(),
+            });
+          }
+
+          if (observedStates.length > 0) {
+            await this.processObservedSections(observedStates);
+          }
+          await this.repositories.userSessionRepository.updateLastUsed(userSession.id);
+        } catch (checkError) {
+          if (checkError instanceof PeopleSoftSessionExpiredError) {
+            const refreshed = await this.handleSessionExpired(userId, userSession);
+            if (refreshed) {
+              const updatedSession =
+                await this.repositories.userSessionRepository.getActiveUserSession(
+                  userId,
+                  this.config.encryptionKey,
+                );
+              if (updatedSession !== null) {
+                sessionPayload = updatedSession.sessionData;
+                try {
+                  const retryResults = await this.availabilityClient.checkCourse({
+                    cookiesPayload: sessionPayload,
+                    crseId: group.section.crseId!,
+                    crseOfferNbr: group.section.crseOfferNbr ?? '1',
+                    term: group.section.term,
+                    acadCareer: group.section.acadCareer ?? 'UGRD',
+                    institution: group.section.institution ?? 'AUIB',
+                  });
+
+                  const observedStates: SectionState[] = [];
+                  for (const res of retryResults) {
+                    if (group.classNumbers.size > 0 && !group.classNumbers.has(res.classNumber)) {
+                      continue;
+                    }
+                    const status: SectionStatus =
+                      res.status.toUpperCase() === 'OPEN'
+                        ? 'OPEN'
+                        : res.status.toUpperCase() === 'CLOSED'
+                          ? 'CLOSED'
+                          : res.status.toUpperCase() === 'WAITLIST'
+                            ? 'WAITLIST'
+                            : 'UNKNOWN';
+
+                    const courseTitle = (res.description || group.section.courseTitle) ?? undefined;
+                    const component = (res.component || group.section.component) ?? undefined;
+
+                    observedStates.push({
+                      term: group.section.term,
+                      ...(group.section.termLabel !== null
+                        ? { termLabel: group.section.termLabel }
+                        : {}),
+                      courseCode: res.courseCode || group.section.courseCode,
+                      ...(courseTitle !== undefined ? { courseTitle } : {}),
+                      ...(group.section.crseId !== null && group.section.crseId !== undefined
+                        ? { crseId: group.section.crseId }
+                        : {}),
+                      ...(group.section.crseOfferNbr !== null && group.section.crseOfferNbr !== undefined
+                        ? { crseOfferNbr: group.section.crseOfferNbr }
+                        : {}),
+                      ...(group.section.acadCareer !== null && group.section.acadCareer !== undefined
+                        ? { acadCareer: group.section.acadCareer }
+                        : {}),
+                      ...(group.section.institution !== null && group.section.institution !== undefined
+                        ? { institution: group.section.institution }
+                        : {}),
+                      classNumber: res.classNumber,
+                      ...(component !== undefined ? { component } : {}),
+                      status,
+                      availableSeats: res.availableSeats,
+                      ...(res.schedule ? { schedule: res.schedule } : {}),
+                      ...(res.meetingDates ? { meetingDates: res.meetingDates } : {}),
+                      ...(res.sessionName ? { sessionName: res.sessionName } : {}),
+                      checkedAt: new Date(),
+                    });
+                  }
+                  if (observedStates.length > 0) {
+                    await this.processObservedSections(observedStates);
+                  }
+                  await this.repositories.userSessionRepository.updateLastUsed(userSession.id);
+                } catch (retryErr) {
+                  logger.warn(
+                    { userId, crseId: group.section.crseId, err: redactSecrets(retryErr) },
+                    'Failed retry course availability check after silent session refresh',
+                  );
+                }
+              }
+            } else {
+              return;
+            }
+          } else {
+            logger.warn(
+              { userId, crseId: group.section.crseId, err: redactSecrets(checkError) },
+              'Direct HTTP check failed for course; will fallback if needed',
+            );
+            fallbackItems.push(
+              ...watchedItems.filter(
+                (item) =>
+                  item.section.term === group.section.term &&
+                  item.section.crseId === group.section.crseId,
+              ),
+            );
+          }
+        }
       }
     }
 
-    const rawCookies =
-      typeof userSession.sessionData === 'object' &&
-      userSession.sessionData !== null &&
-      'rawCookies' in userSession.sessionData
-        ? String(userSession.sessionData.rawCookies)
-        : userSession.id;
+    // 2. Process Fallback items via browser SectionChecker
+    if (fallbackItems.length > 0) {
+      const courseTargets = new Map<
+        string,
+        { term: string; termLabel?: string; courseCode: string; classNumber?: string }
+      >();
 
-    const monitoringSession = new MonitoringSession({
-      id: rawCookies,
-      owner: { type: 'TELEGRAM_USER', id: userId },
-    });
+      for (const item of fallbackItems) {
+        const term = item.section.term;
+        const courseCode = item.section.courseCode;
+        const classNumber = item.section.classNumber;
 
-    const targets = [...courseTargets.values()];
+        const key = `${term}:${courseCode}:${classNumber}`;
+        if (!courseTargets.has(key)) {
+          courseTargets.set(key, {
+            term,
+            ...(item.section.termLabel !== null ? { termLabel: item.section.termLabel } : {}),
+            courseCode,
+            ...(classNumber && classNumber !== 'PENDING' ? { classNumber } : {}),
+          });
+        }
+      }
 
-    try {
-      const results = await this.sectionChecker.checkCoursesSequentially({
-        session: monitoringSession,
-        targets,
-        checkedAt: new Date(),
+      const rawCookies =
+        typeof sessionPayload === 'object' &&
+        sessionPayload !== null &&
+        'rawCookies' in sessionPayload
+          ? String((sessionPayload as Record<string, unknown>).rawCookies)
+          : userSession.id;
+
+      const monitoringSession = new MonitoringSession({
+        id: rawCookies,
+        owner: { type: 'TELEGRAM_USER', id: userId },
       });
 
-      for (const result of results) {
-        await this.processObservedSections(result.sections);
-      }
-      await this.repositories.userSessionRepository.updateLastUsed(userSession.id);
-    } catch (checkError) {
-      if (checkError instanceof PeopleSoftSessionExpiredError) {
-        // Attempt silent background auto-refresh via Microsoft KMSI persistent storage state
-        const sessionDataObj =
-          typeof userSession.sessionData === 'object' && userSession.sessionData !== null
-            ? (userSession.sessionData as Record<string, unknown>)
-            : null;
-        const savedStorageState = sessionDataObj?.storageState;
+      const targets = [...courseTargets.values()];
 
-        if (this.authenticator?.refreshSession !== undefined && savedStorageState !== undefined) {
-          logger.info(
-            { userId },
-            'PeopleSoft session expired; attempting silent auto-refresh via Microsoft KMSI',
-          );
-          try {
-            const refreshed = await this.authenticator.refreshSession(savedStorageState);
-            if (refreshed !== null && refreshed.cookies.length > 0) {
-              await this.repositories.userSessionRepository.saveUserSession({
-                userId,
-                sessionData: {
-                  rawCookies: refreshed.cookies,
-                  ...(refreshed.storageState !== undefined
-                    ? { storageState: refreshed.storageState }
-                    : { storageState: savedStorageState }),
-                  ...(sessionDataObj?.rawSession !== undefined
-                    ? { rawSession: sessionDataObj.rawSession }
-                    : {}),
-                },
-                encryptionKey: this.config.encryptionKey,
-                ...(refreshed.expiresAt !== undefined ? { expiresAt: refreshed.expiresAt } : {}),
-              });
-              logger.info(
-                { userId },
-                'Successfully auto-refreshed student session silently; /watch monitoring will continue uninterrupted',
-              );
-              return;
-            }
-          } catch (refreshErr) {
-            logger.warn({ userId, err: redactSecrets(refreshErr) }, 'Silent auto-refresh failed');
-          }
+      try {
+        const results = await this.sectionChecker.checkCoursesSequentially({
+          session: monitoringSession,
+          targets,
+          checkedAt: new Date(),
+        });
+
+        for (const result of results) {
+          await this.processObservedSections(result.sections);
+        }
+        await this.repositories.userSessionRepository.updateLastUsed(userSession.id);
+      } catch (checkError) {
+        if (checkError instanceof PeopleSoftSessionExpiredError) {
+          await this.handleSessionExpired(userId, userSession);
+          return;
         }
 
-        await this.repositories.userSessionRepository.markExpired(userSession.id);
-        const user = await this.repositories.userRepository.findById(userId);
-
-        if (user !== null && !user.isBlocked) {
-          await this.botApi
-            .sendMessage(
-              user.telegramId.toString(),
-              '⚠️ *Your AUIB SIS session expired.*\n\nUse `/login` to authenticate again. Monitoring will resume automatically after login.',
-              { parse_mode: 'Markdown' },
-            )
-            .catch((notificationError: unknown) => {
-              logger.warn(
-                { userId, err: redactSecrets(notificationError) },
-                'Could not deliver the session-expired notice',
-              );
-            });
-        }
-
-        logger.warn({ userId }, 'Stored AUIB session marked expired; polling paused for user');
-        return;
+        logger.error(
+          { userId, targetCount: targets.length, err: redactSecrets(checkError) },
+          'Error checking fallback course sections for user',
+        );
       }
-
-      logger.error(
-        { userId, targetCount: targets.length, err: redactSecrets(checkError) },
-        'Error checking course sections for user',
-      );
     }
   }
 
